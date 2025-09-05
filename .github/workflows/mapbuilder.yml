@@ -1,0 +1,28 @@
+name: mapbuilder
+run-name: Building maps for commit ${{ github.sha }} by ${{ github.actor }}
+on:
+  push
+  
+jobs:
+  build-maps:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore cached sources
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache
+          key: sources
+      - name: Run mapbuilder
+        uses: vatger-nav/mapbuilder@main
+      - name: Store cached sources
+        uses: actions/cache/save@v4
+        with:
+          path: .cache
+          key: sources
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "[AUTO] mapbuilder ${{ github.sha }}"
+          commit_user_name: mapbuilder
+          commit_user_email: mapbuilder@vatger.de
+          file_pattern: '*.txt'

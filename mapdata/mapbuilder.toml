@@ -1,0 +1,174 @@
+[data]
+
+[data.epgd_kml]
+type = "kml"
+source = "kml/EPGD.kml"
+root = "EPGD"
+
+[data.epkk_kml]
+type = "kml"
+source = "kml/EPKK.kml"
+root = "EPKK"
+
+[data.epkt_kml]
+type = "kml"
+source = "kml/EPKT.kml"
+root = "EPKT"
+
+[data.epmo_kml]
+type = "kml"
+source = "kml/EPMO.kml"
+root = "EPMO"
+
+[data.eppo_kml]
+type = "kml"
+source = "kml/EPPO.kml"
+root = "EPPO"
+
+[data.epwa_kml]
+type = "kml"
+source = "kml/EPWA.kml"
+root = "EPWA"
+
+[data.epwr_kml]
+type = "kml"
+source = "kml/EPWR.kml"
+root = "EPWR"
+
+[profiles]
+
+[profiles.ACC]
+maps = [
+    { map = "topsky-acc", target = "EPWW/Plugins/TopSky/ACC/TopSkyMaps.txt" },
+	{ map = "topsky-cpdlc", target = "EPWW/Plugins/TopSky/ACC/TopSkyCPDLC.txt" },
+    { map = "topsky-settings", target = "EPWW/Plugins/TopSky/ACC/TopSkySettings.txt" },
+	{ map = "topsky-ssr", target = "EPWW/Plugins/TopSky/ACC/TopSkySSRcodes.txt" },
+]
+dir = "EPWW/Plugins/TopSky/ACC"
+aliases = [ "acc" ]
+
+[profiles.TWR]
+maps = [
+    { map = "topsky-twr", target = "EPWW/Plugins/TopSky/TWR/TopSkyMaps.txt" },
+	{ map = "topsky-cpdlc", target = "EPWW/Plugins/TopSky/TWR/TopSkyCPDLC.txt" },
+    { map = "topsky-settings", target = "EPWW/Plugins/TopSky/TWR/TopSkySettings.txt" },
+	{ map = "topsky-ssr", target = "EPWW/Plugins/TopSky/TWR/TopSkySSRcodes.txt" },
+]
+dir = "EPWW/Plugins/TopSky/TWR"
+aliases = [ "twr" ]
+
+[profiles.TWR_DARK]
+maps = [
+    { map = "grplugin-EPWW", target = "EPWW/Plugins/GRPlugin DARK/GRpluginMaps.txt" },
+    { map = "grplugin-stands", target = "EPWW/Plugins/GRPlugin DARK/GRpluginStands.txt" },
+    { map = "grplugin-settings", target = "EPWW/Plugins/GRPlugin DARK/GRpluginSettings.txt" },
+]
+dir = "EPWW/Plugins/"
+aliases = [ "dark" ]
+
+[profiles.TWR_ATOS]
+maps = [
+    { map = "grplugin-EPWW", target = "EPWW/Plugins/GRPlugin BRIGHT/GRpluginMaps.txt" },
+    { map = "grplugin-stands", target = "EPWW/Plugins/GRPlugin BRIGHT/GRpluginStands.txt" },
+    { map = "grplugin-settings", target = "EPWW/Plugins/GRPlugin BRIGHT/GRpluginSettings.txt" },
+]
+dir = "EPWW/Plugins/"
+aliases = [ "bright" ]
+
+[runways]
+
+[runways.EPGD.11]
+thr = [ 54.381067, 18.452050 ]
+bearing = 113.0
+fap = [ 54.415917, 18.310389 ] # GD801
+loc = [ ]
+
+[runways.EPGD.29]
+thr = [ 54.371267, 18.491717 ]
+bearing = 293.0
+fap = [ 54.321028, 18.693972 ] # GD941
+loc = [ 54.382306, 18.447028 ]
+
+[runways.EPKK.07]
+thr = [ 50.075397, 19.768094 ]
+bearing = 78.0
+fap = [ 50.051389, 19.596750 ] # KK591
+loc = [ ]
+
+[runways.EPKK.25]
+thr = [ 50.079792, 19.799658 ]
+bearing = 258.0
+fap = [ 50.103667, 19.972167 ] # KK367
+loc = [ 50.074917, 19.764694 ]
+
+[runways.EPKT.08]
+thr = [ 50.476050, 19.059569 ]
+bearing = 90.2
+fap = [ 50.476278, 18.897333 ] # KT736
+loc = [ ]
+
+[runways.EPKT.26]
+thr = [ 50.475961, 19.100139 ]
+bearing = 270.2
+fap = [ 50.475472, 19.259639 ] # KT536
+loc = [ 50.476056, 19.055639 ]
+
+[runways.EPMO.08]
+thr = [ 52.449511, 20.633694 ]
+bearing = 81.0
+fap = [ 52.428583, 20.413722 ] # 8.4 IMDX
+loc = [ 52.453333, 20.674250 ]
+
+[runways.EPMO.26]
+thr = [ 52.452928, 20.670039 ]
+bearing = 261.0
+fap = [ 52.470583, 20.859750 ] # MO998
+loc = [ ]
+
+[runways.EPPO.10]
+thr = [ 52.424958, 16.806006 ]
+bearing = 107.5
+fap = [ 52.450722, 16.672083 ] # PO601
+loc = [ ]
+
+[runways.EPPO.28]
+thr = [ 52.418175, 16.841094 ]
+bearing = 287.6
+fap = [ 52.379194, 17.041528 ] # PO701
+loc = [ 52.425833, 16.801444 ]
+
+[runways.EPWA.11]
+thr = [ 52.171475, 20.946714 ]
+bearing = 114.52
+fap = [ 52.227389, 20.746472 ] # WA409
+loc = [ 52.160611, 20.985417 ]
+
+[runways.EPWA.15]
+thr = [ 52.178572, 20.955906 ]
+bearing = 151.73
+fap = [ 52.281306, 20.865806 ] # WA613
+loc = [ ]
+
+[runways.EPWA.29]
+thr = [ 52.162889, 20.977303 ]
+bearing = 294.55
+fap = [ 52.114167, 21.150139 ] # WA728
+loc = [ ]
+
+[runways.EPWA.33]
+thr = [ 52.154583, 20.976881 ]
+bearing = 331.75
+fap = [ 52.035222, 21.080833 ] # WA529
+loc = [ 52.180556, 20.954167 ]
+
+[runways.EPWR.11]
+thr = [ 51.108803, 16.865828 ]
+bearing = 116.0
+fap = [ 51.137250, 16.772694 ] # WR601
+loc = [ ]
+
+[runways.EPWR.29]
+thr = [ 51.098961, 16.897958 ]
+bearing = 296.0
+fap = [ 51.047333, 17.065778 ] # WR702
+loc = [ 51.110389, 16.860694 ]

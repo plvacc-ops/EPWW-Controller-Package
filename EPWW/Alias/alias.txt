@@ -1,0 +1,363 @@
+;*** - AUTO MESSAGES - ***
+.autoproceed Proceed direct to $1
+.autoclearedils Cleared ILS approach runway $arrrwy. Report established
+.autoclearedvisual Cleared visual approach runway $arrrwy.
+.autoclimblevel Climb FL $1.
+.autoclimbaltitude Climb to altitude $1 ft., QNH $altim($dep)
+.autodescendlevel Descend FL $1
+.autodescendaltitude Descend to altitude $1 ft by QNH $altim($arr)
+.autospeed Set speed $1 kts.
+.automach Set mach number $1
+.autonospeed Resume normal speed
+.autoturnleft Turn left heading $1
+.autoturnright Turn right heading $1
+.autocontact Contact $1 on frequency $2. Have a good flight and landing. Bye.
+.autosquawk Set squawk $asquawk
+
+;*** GENERAL ***
+.y Affirmative
+..y Poprawnie
+.n Negative
+..n Niepopranie
+.bye Bye!
+..bye Do milego, czesc!
+.gd $radioname, good day.
+..gd $radioname, dzien dobry.
+.ge $radioname, good evening.
+..ge $radioname, dobry wieczor.
+.hi $radioname, hello.
+..hi $radioname, witam.
+.dis Disregard last transmission.
+..dis Pomin ostatnia transmisje.
+.r5 Read you 5.
+..r5 Slysze cie na 5.
+.rgr Roger
+..rgr Przyjalem
+.sb Standby
+..sb Oczekuj
+.sby Standby
+..sby Standby
+.dct Proceed direct 
+..dct Wykonuj bezposrednio na
+.adv You are leaving my airspace, no further ATC available, ATC terminated, monitor advisory, 122.8.
+..adv Opuszczasz moja przestrzen, brak dalszej kontroli, kontrola ruchu lotniczego zakonczona, monitoruj czestotliwosc doradcza 122.8.
+.met Present weather at $1: $metar($1)
+..met Aktualna pogoda w $1: $metar($1)
+.metdep $metar($dep)
+.metarr $metar($arr)
+.cont Contact $radioname($1), frequency $freq($1)
+..cont Nawiaz lacznosc z $radioname($1), czestotliwosc $freq($1).
+.closeadv All stations, all stations, $radioname is closing now, no further ATC available, monitor advisory, 122.8. Goodbye!
+..closeadv Do wszystkich stacji, $radioname zamyka, brak dalszej kontroli, monitorujcie czestotliwosc doradcza 122.8. Do widzenia!
+.close All stations, all stations, $radioname is closing now, contact $radioname($1), frequency $freq($1). Goodbye!
+..close Do wszystkich stacji, $radioname zamyka, nawiazcie lacznosc z $radioname($1), czestotliwosc $freq($1). Do widzenia!
+
+
+;*** - DELIVERY - ***
+.nofp I have not received a flight plan from you. Please make sure you have actually filed one, have set the correct ICAO codes for the departure and arrival airport, and that the callsign in your flight plan and the one you are connected with are the same.
+..nofp Nie dostalem twojego planu lotu. Prosze upewnij sie, ze go zlozyles, wpisales poprawne kody ICAO lotniska odlotowego i docelowego oraz masz ten sam callsign, jak w planie lotu.
+.ifr You are cleared for flight to $arr via flight planned route, $sid departure runway from $deprwy, climb initially $temp, squawk $asquawk. Current information $atiscode
+..ifr Masz zezwolenie na lot do $arr drogami planowanymi, odlot $sid z pasa $deprwy, wznos poczatkowo $temp, kod transpondera $asquawk. Informacja $atiscode
+.vfr You are cleared for VFR flight in $1 CTR, not higher than altitude $2 ft, departure runway $deprwy, squawk $asquawk.
+..vfr Zezwalam na lot VFR w CTR $1, nie wyzej niz altitude $2 ft, odlot z pasa $deprwy, transponder $asquawk.
+.ifrnon You are cleared for flight to $arr via flight planner route, departure runway $deprwy, after departure fly heading $1, climb to altitude $2 ft, squawk $asquawk. Current information $atiscode
+..ifrnon Masz zezwolenie na lot do $arr drogami planowanymi, odlot z pasa $deprwy, po odlocie wznos do wysokosci $1 z kursem $2, kod transpondera $asquawk. Informacja $atiscode
+.dcl CLD $time $dep PDC $aircraft CLRD TO $arr OFF $deprwy VIA $sid SQUAWK $asquawk NEXT FREQ $freq($1) SID INITIAL CLIMB ALTITUDE $temp. AIRBORNE FREQUENCY $freq($2).
+.rbc Clearance copied correct.
+..rbc Zezwolenie zapisane prawidlowo.
+.rdclr Report ready to copy clearance.
+..rdclr Zglos gotowosc do zapisania zezwolenia.
+.pscont Hold position, for pushback contact $radioname($1) on $freq($1). Goodbye!
+..pscont Oczekujcie, po pushback nawiazcie lacznosc z $radioname($1), czestotliwosc $freq($1). Do widzenia!
+.cdminfo All stations, all stations, attention: CDM is in use. Check out your slot at https://vats.im/EPWA-ACDM . You will NOT get start-up clearance outside TSAT.
+..cdminfo Do wszystkich stacji, do wszystkich stacji. Uwaga: CDM w uzyciu. Sprawdz swoj slot na https://vats.im/EPWA-ACDM . Uruchamianie zgodnie z TSAT.
+.tobt Please set your TOBT at https://vats.im/EPWA-ACDM
+..tobt Prosze ustawic swoj TOBT na https://vats.im/EPWA-ACDM
+.tsat You can find your current TSAT at https://vats.im/EPWA-ACDM
+..tsat Mozecie sprawdzic swoj aktualny TSAT na https://vats.im/EPWA-ACDM
+
+;*** - GROUND - ***
+.ps Pushback and startup approved, QNH $altim($dep).
+..ps Mozesz wypychac i uruchamiac, QNH $altim($dep).
+.psn Pushback and startup approved, QNH $altim($dep). Facing north
+..psn Mozesz wypychac i uruchamiac, QNH $altim($dep). Dziobem na polnoc
+.pse Pushback and startup approved, QNH $altim($dep). Facing east
+..pse Mozesz wypychac i uruchamiac, QNH $altim($dep). Dziobem na wschod
+.pss Pushback and startup approved, QNH $altim($dep). Facing south
+..pss Mozesz wypychac i uruchamiac, QNH $altim($dep). Dziobem na poludnie
+.psw Pushback and startup approved, QNH $altim($dep). Facing west
+..psw Mozesz wypychac i uruchamiac, QNH $altim($dep). Dziobem na zachod
+.su Startup approved, QNH $altim($dep). Call when ready to taxi.
+..su Mozesz uruchamiac, QNH $altim($dep). Zgloscie gotowosc do kolowania.
+.taxi Taxi to h/p RWY$deprwy via $1
+..taxi Koluj do RWY$deprwy drogami $1
+.taxis Welcome to $arr. Taxi to stand $1 via
+..taxis Witamy w $arr. Koluj do stanowiska $1 drogami
+.ct Continue taxi
+..ct Kontynuuj kolowanie
+.ctt Continue taxi to $1 via
+..ctt Kontynuuj kolowanie do $1 drogami 
+.ext Expedite taxi
+..ext Przyspiesz kolowanie
+.gw Give way to $1.
+..gw Przepusc $1.
+.hs Hold short of $1.
+..hs Zatrzymaj przed $1.
+.stop Hold position
+..stop Zatrzymaj sie
+.xrwy Crossing runway $1 approved
+..xrwy Przetnij pas $1.
+.rdps Report ready for pushback and startup.
+..rdps Zglos gotowosc do wypychania i uruchamiania.
+.rdsu Report ready for startup.
+..rdsu Zglos gotowosc do uruchamiania.
+.rdtaxi Report ready to taxi.
+..rdtaxi Zglos gotowosc do kolowania.
+.remote You are on remote stand that don't require pushback, only start-up. After start-up you can just taxi out of your stand. 
+..remote Znajdujesz sie na stanowisku oddalonym, ktore nie wymaga wypychania, jedynie uruchamiania. Po uruchomieniu mozesz wykolowac ze stanowiska.
+
+;*** - TWR - ***
+.to Wind is $wind, runway $deprwy, cleared for takeoff.
+..to Wiatr $wind, pas $deprwy, zezwalam startowac.
+.toadv Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure monitor advisory on 122.800, bye bye.
+..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie monitoruj czestotliwosc doradcza 122.800, do uslyszenia.
+.toawa Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Approach on 128.805, bye bye.
+..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Zblizanie na 128.805, do uslyszenia.
+.toakk Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Krakow Approach on 121.075, bye bye.
+..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Krakow Zblizanie na 121.075, do uslyszenia.
+.toagd Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Gdansk Approach on 127.280, bye bye.
+..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Gdansk Zblizanie na 127.280, do uslyszenia.
+.toepww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 125.450, bye bye.
+..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 125.450, do uslyszenia.
+.tojww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 124.625, bye bye.
+..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 124.625, do uslyszenia
+.tonww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 132.700, bye bye.
+..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 132.700, do uslyszenia.
+.land Wind $wind, runway $arrrwy, cleared to land.
+..land Wiatr $wind, pas $arrrwy, zezwalam ladowac.
+.ga GO AROUND, I say again, Go Around.
+..ga ODEJDZ NA DRUGI KRAG, powtarzam, odejdz na drugi krag.
+.capp Wind $wind, continue approach.
+..capp Wiatr $wind, kontynuuj podejscie.
+.llc Expect late landing clearance.
+..llc Spodziewaj sie poznego zezwolenia na ladowanie.
+.lineup Line up runway $deprwy and wait
+..lineup Zajmij pas $deprwy i czekaj
+.lu Line up runway $deprwy and wait
+..lu Zajmij pas $deprwy i czekaj
+.lub Behind arriving traffic, line up and wait runway $deprwy, behind.
+..lub Za przylatujacym ruchem, zajmij pas $deprwy i oczekuj, za przylatujacym.
+.depfq Airborne contact $radioname($1), frequency $freq($1).
+..depfq Po odlocie nawiaz lacznosc z $radioname($1), czestotliwosc $freq($1).
+.depuni After departure no further ATC available, monitor advisory, 122.8.
+..depuni Po odlocie brak dalszej kontroli, monitoruj czestotliwosc doradcza 122.800.
+.ba Backtrack approved
+..ba Mozesz wykonac backtrack
+.bt Backtrack
+..bt Backtrack
+.repfin Report final.
+..repfin Zglos prosta.
+.rddep Report ready for departure.
+..rddep Zglos gotowosc do odlotu.
+.rdimm Are you ready for immediate departure?
+..rdimm Czy jestes gotowy do natychmiastowego odlotu?
+
+;*** - APP/ACC - ***
+;-- GENERAL -- 
+.rst Radar service terminated
+..rst Sluzba radarowa zakonczona
+.sq Set squawk $asquawk
+..sq Ustaw squawk $asquawk
+.sqid Squawk ident
+..sqid Squawk ident
+.sqc Check squawk mode C
+..sqc Sprawdz transponder w modzie C
+.id Identified
+..id Zidentyfikowany
+.rc Radar contact
+..rc W kontakcie radarowym
+.qnh QNH $altim($arr)
+..qnh QNH $altim($arr)
+.nair You are not in my airspace. Please check our map at https://plvacc.pl/
+..nair Nie jestes w mojej przestrzeni. Proszę sprawdzić naszą mapę na https://plvacc.pl/
+
+;-- ROUTE AND HEADING --
+.rh Turn right heading $1.
+..rh Skrec w prawo kurs $1.
+.lh Turn left heading $1.
+..lh Skrec w lewo kurs $1.
+.rby Turn right by $1 degrees.
+..rby Skrec w prawo o $1 stopni.
+.lby Turn left by $1 degrees.
+..lby Skrec w lewo o $1 stopni.
+.cph Continue present heading.
+..cph Utrzymuj obecny kurs.
+.star Cleared $star arrival, runway $arrrwy
+..star Zezwalam na dolot $star, pas $arrrwy
+.stari Cleared for $star $1 standard arrival. Expect ILS approach for runway $arrrwy.
+..stari Zezwalam na przylot standardowy $star $1. Spodziewajcie sie podejscia ILS do pasa $arrrwy.
+.starx Cleared for $star $1 standard arrival. Expect ILS X approach for runway $arrrwy.
+..starx Zezwalam na przylot standardowy $star $1. Spodziewajcie sie podejscia ILS X do pasa $arrrwy.
+.stary Cleared for $star $1 standard arrival. Expect ILS Y approach for runway $arrrwy.
+..stary Zezwalam na przylot standardowy $star $1. Spodziewajcie sie podejscia ILS Y do pasa $arrrwy.
+.starz Cleared for $star $1 standard arrival. Expect ILS Z approach for runway $arrrwy.
+..starz Zezwalam na przylot standardowy $star $1. Spodziewajcie sie podejscia ILS Z do pasa $arrrwy.
+.starv Cleared for $star $1 standard arrival. Expect VOR approach for runway $arrrwy.
+..starv Zezwalam na przylot standardowy $star $1. Spodziewajcie sie podejscia VOR do pasa $arrrwy.
+.starr Cleared for $star $1 standard arrival. Expect RNP approach for runway $arrrwy.
+..starr Zezwalam na przylot standardowy $star $1. Spodziewajcie sie podejscia RNP do pasa $arrrwy.
+.hold Hold over $1 as published
+..hold Oczekuj nad $1 jak opublikowano.
+.flirt Hold over $1 at flight level $2, inbound track $3, $4 turns, time $5
+..flirt Oczekuj nad $1, poziom lotu $2, kurs dolotowy $3, $4 zakrety, czas $5
+.miles Track distance $1 miles.
+..miles Dystans $1 mil.
+.cfp Continue flight planed route, no directs available.
+..cfp Kontynuuj zaplanowana trasa, brak dostepnych skrotow.
+
+;-- ALTITUDE --
+.c Climb and maintain flight level $1
+..c Wznos i utrzymuj poziom lotu $1
+.ca Climb and maintain altitude $1 ft
+..ca Wznos i utrzymuj wysokosc $1 ft
+.caq Climb and maintain altitude $1 ft on QNH $altim($arr)
+..caq Wznos i utrzymuj wysokosc $1 ft na QNH $altim($arr)
+.cvia Climb via SID and maintain level $1
+..cvia Wznos zgodnie z SIDem i utrzymuj poziom lotu $1
+.cavia Climb via SID and maintain altitude $1 ft
+..cavia Wznos zgodnie z SIDem i utrzymuj wysokosc $1 ft
+.caqvia Climb via SID and maintain altitude $1 ft on QNH $altim($arr)
+..caqvia Wznos zgodnie z SIDem i utrzymuj wysokosc $1 ft na QNH $altim($arr)
+.d Descend and maintain flight level $1
+..d Znizaj i utrzymuj poziom lotu $1
+.da Descend and maintain altitude $1 ft
+..da Znizaj i utrzymuj wysokosc $1 ft
+.daq Descend and maintain altitude $1 ft on QNH $altim($arr)
+..daq Znizaj i utrzymuj wysokosc $1 ft na QNH $altim($arr)
+.dvia Descend via STAR and maintain flight level $1
+..dvia Znizaj zgodnie ze STARem i utrzymuj poziom lotu $1
+.davia Descend via STAR and maintain altitude $1 ft
+..davia Znizaj zgodnie ze STARem i utrzymuj wysokosc $1 ft
+.daqvia Descend via STAR and maintain altitude $1 ft on QNH $altim($arr)
+..daqvia Znizaj zgodnie ze STARem i utrzymuj wysokosc $1 ft na QNH $altim($arr)
+.reach Reach over $1
+..reach Osiagnij nad $1
+
+;-- SPEED --
+.spd Maintain speed $1 knots
+..spd Utrzymuj predkosc $1 wezlow
+.spdg Maintain speed $1 knots or greater
+..spdg Utrzymuj predkosc $1 wezlow lub wieksza
+.spdl Maintain speed $1 knots or less
+..spdl Utrzymuj predkosc $1 wezlow lub mniejsza
+.spdu Maintain speed $1 knots until $2 miles final
+..spdu Utrzymuj predkosc $1 wezlow do $2 mil prostej
+.spdug Maintain speed $1 knots or greater until $2 miles final
+.spdul Maintain speed $1 knots or less until $2 miles final
+.spdm Maintain Mach .$1.
+..spdm Utrzymuj Mach .$1
+.spdmg Maintain Mach .$1 or greater.
+..spdmg Utrzymuj Mach .$1 lub wiecej.
+.spdml Maintain Mach .$1 or less.
+..spdml Utrzymuj Mach .$1 lub mniej.
+.spdma Reduce to minimum approach speed.
+..spdma Zredukuj to minimalnej predkosci podejscia.
+.spdmc Reduce to minimum clean speed.
+..spdmc Zredukuj to minimalnej predkosci czystej konfiguracji.
+.spdn Resume normal speed.
+..spdn Przyjmij normalna predkosc.
+.spdh High speed approved.
+
+;-- APPROACH --
+.exi Expect ILS approach, runway $arrrwy
+..exi Spodziewaj sie podejscia ILS, pas $arrrwy
+.exx Expect ILS X approach, runway $arrrwy
+..exx Spodziewaj sie podejscia ILS X, pas $arrrwy
+.exy Expect ILS Y approach, runway $arrrwy
+..exy Spodziewaj sie podejscia ILS Y, pas $arrrwy
+.exz Expect ILS Z approach, runway $arrrwy
+..exz Spodziewaj sie podejscia ILS Z, pas $arrrwy
+.exr Expect RNP approach, runway $arrrwy
+..exr Spodziewaj sie podejscia RNP, pas $arrrwy
+.exvis Expect visual approach, runway $arrrwy
+..exvis Spodziewaj sie podejscia z widocznoscia, pas $arrrwy
+.exv Expect VOR approach, runway $arrrwy
+..exv Spodziewaj sie podejscia VOR, pas $arrrwy
+.exveci Expect vectors to ILS approach, runway $arrrwy
+..exveci Spodziewaj sie wektorowania do podejscia ILS, pas $arrrwy
+.exvecv Expect vectors to VOR approach, runway $arrrwy
+..exvecv Spodziewaj sie wektorowania do podejscia VOR, pas $arrrwy
+.repapt Airfield is on your $oclock($1) o'clock, distance $dist($1) miles. Report airfield in sight.
+..repapt Lotnisko jest na twojej $oclock($1), dystans $dist($1) mil. Zglos z widocznoscia lotniska.
+.ils Cleared ILS approach runway $arrrwy, report established.
+..ils Zezwalam na podejscie ILS do pasa $arrrwy, zglos stabilizacje.
+.ilsx Cleared ILS X approach runway $arrrwy, report established.
+..ilsx Zezwalam na podejscie ILS X do pasa $arrrwy, zglos stabilizacje.
+.ilsy Cleared ILS Y approach runway $arrrwy, report established.
+..ilsy Zezwalam na podejscie ILS Y do pasa $arrrwy, zglos stabilizacje.
+.ilsz Cleared ILS Z approach runway $arrrwy, report established.
+..ilsz Zezwalam na podejscie ILS Z do pasa $arrrwy, zglos stabilizacje.
+.ilsp Cleared ILS approach runway $arrrwy as published, report established.
+..ilsp Zezwalam na podejscie ILS do pasa $arrrwy jak opublikowano, zglos stabilizacje.
+.ilsxp Cleared ILS X approach runway $arrrwy as published, report established.
+..ilsxp Zezwalam na podejscie ILS X do pasa $arrrwy jak opublikowano, zglos stabilizacje.
+.ilsyp Cleared ILS Y approach runway $arrrwy as published, report established.
+..ilsyp Zezwalam na podejscie ILS Y do pasa $arrrwy jak opublikowano, zglos stabilizacje.
+.ilszp Cleared ILS Z approach runway $arrrwy as published, report established.
+..ilszp Zezwalam na podejscie ILS Z do pasa $arrrwy jak opublikowano, zglos stabilizacje. 
+.rnp Cleared RNP approach runway $arrrwy, report established.
+..rnp Zezwalam na podejscie RNP do pasa $arrrwy, zglos stabilizacje.
+.rnpp Cleared RNP approach runway $arrrwy as published, report established.
+..rnpp Zezwalam na podejscie RNP do pasa $arrrwy jak opublikowano, zglos stabilizacje.
+.vapp Cleared visual approach runway $arrrwy.
+..vapp Zezwalam na podejscie z widocznoscia do pasa $arrrwy.
+.vor Cleared VOR approach runway $arrrwy, report established.
+..vor Zezwalam na podejscie VOR do pasa $arrrwy, zglos stabilizacje.
+.vorp Cleared VOR approach runway $arrrwy as published, report established.
+..vorp Zezwalam na podejscie VOR do pasa $arrrwy jak opublikowano, zglos stabilizacje.
+
+*** - VFR - ***
+.ctrvfr You are cleared to enter $1 CTR, not higher than altitude $2 ft, runway in use $arrrwy, squawk $asquawk.
+..ctrvfr Zezwalam na wlot do $1 CTR, nie wyzej niz wysokosc $2 ft, pas w uzyciu $arrrwy, squawk $asquawk.
+.tpat After departure runway $deprwy join $1-hand traffic circuit runway $deprwy.
+..tpat Po odlocie z pasa $deprwy wejdz w $1 krag do pasa $deprwy.
+.lp Wind $wind, runway $arrrwy, cleared for low pass.
+..lp Wiatr $wind, pas $arrrwy, zezwalam na niski przelot.
+.tg Wind $wind, runway $arrrwy, cleared touch and go.
+..tg Wiatr $wind, pas $arrrwy, zezwalam na touch and go.
+.repdw Report $1 downwind runway $arrrwy.
+..repdw Zglos $1 z wiatrem do pasa $arrrwy.
+.exdw Extend downwind.
+..exdw Wydluz pozycje z wiatrem.
+.tfc Traffic information, $1, report in sight
+..tfc Informacja o ruchu, $1, zglos w zasiegu wzroku
+.tfc2 Continue approach as number 2 with own separation.
+..tfc2 Kontynuuj podejscie jako numer 2 z wlasna separacja. 
+.wake Caution wake turbulence.
+..wake Uwaga na turbulencje w sladzie aerodynamicznym.
+
+*** - HELP AND ADDITIONAL - ***
+.wall .wallop Hello, $aircraft
+.wallcoc .wallop Hello, $aircraft unable to comply with ATC instructions (CoC B8)
+.wallnocont .wallop Hello, $aircraft not in contact with anyone and ignoring contact me messages (CoC B3), first contact me sent at $1
+.wallemer .wallop Hello, $aircraft not cancelling their emergency despite having been instructed to do so (CoC B6)
+.helpnewbie .msg $aircraft You seem to be new to VATSIM. First of all: Welcome! It might be tempting to jump straight in and start flying, but we suggest you read through some documentation first in order to prepare yourself for the situations you will encounter on the network. You can find a lot of helpful information at https://my.vatsim.net/learn.
+.helbrief .msg $aircraft You can find charts, pilot briefings and recommended sceneries for airports in Poland at https://vats.im/EPWW
+.helpiata .msg $aircraft You seem to be logged in with the 2-letter IATA code for your airline. On VATSIM (and in the real world), we use the 3-letter ICAO codes. Please change your callsign accordingly and don't forget that you will have to refile your flight plan with the correct callsign as well. Otherwise, ATC might not recognize your callsign
+.helpscenery .msg $aircraft Seems like you're using outdated scenery, I suggest checking https://vats.im/EPWW, where you'll find links to free and up to date sceneries (and charts) both for MSFS and X-Plane.
+..helpscenery .msg $aircraft Wyglada na to, ze masz nieaktualna scenerie, sugeruję sprawdzić https://vats.im/EPWW, znajdziesz tam darmowe i aktualne scenerie (i mapy) dla MSFS i X-Plane.
+.helpsid .msg $aircraft Your flight plan is starting with incorrect waypoint as it is outdated TMA exit point. Unfortunately, Simbrief still proposes this outdated route. Check up-to-date SID charts and file a correct waypoint. 
+..helpsid .msg $aircraft Twoj plan lotu zaczyna sie niepoprawnym punktem, to stary punkt wylotowy z TMA. Niestety Simbrief wciaz sugeruje nieaktualna trase. Sprawdz aktualne mapy procedur SID i zloz plan lotu z poprawnym punktem. 
+.helpvacate .msg $aircraft Seems that the tail of your aircraft has not crossed the runway stopbar yet. Please taxi forward and make sure the entire aircraft has left the runway to avoid go-arounds of other traffic.
+.helpfl .msg $aircraft You seem to have incorrect flight plan. Your cruise flight levels is incorrect. If you are flying eastbound, you should fly on odd FL. If you are flying westbound, you should fly on even FL. I suggest to change your cruise FL to $1
+.helprch .msg $aircraft Can I suggest using latest radio check procedure? Skip outdated "request radio check" call, and pass your intended message. If you get response, then your radio is working fine. If you get no response, then radio is not working and you need to troubleshoot your airplane/software/hardware setup.
+.helpsimbrief If You for some reason don't understand flight planning or are unable to file a valid route please at least try to use freeware flight planner such as SimBrief at https://www.simbrief.com/home/.
+.helpnopush You are on remote stand that don't require pushback, only start-up. After start-up you can just taxi out of your stand. 
+..helpnopush Znajdujesz sie na stanowisku oddalonym, ktore nie wymaga wypychania, jedynie uruchamiania. Po uruchomieniu mozesz wykolowac ze stanowiska.
+.ch .chat $aircraft
+.with Are you with me, on the frequency?
+.hmic Please check your microphone, you're still trasmitting
+.smic Please check your microphone, it's trasmitting static noise only
+.umic Please check your microphone, your transmissions are unreadable
+.svis .vis EPWA EPGD EPPO EPKK
+.visepww .vis EPWA EPGD EPPO EPKK

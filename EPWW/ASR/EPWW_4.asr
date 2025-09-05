@@ -1,0 +1,257 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:Poznan TMA OUT:
+ARTCC boundary:Radom TMA OUT:
+ARTCC boundary:TMA EPBY OUT:
+ARTCC boundary:TMA EPDE OUT:
+ARTCC boundary:TMA EPGD OUT:
+ARTCC boundary:TMA EPKK OUT:
+ARTCC boundary:TMA EPLB OUT:
+ARTCC boundary:TMA EPLL OUT:
+ARTCC boundary:TMA EPRZ OUT:
+ARTCC boundary:TMA EPSC OUT:
+ARTCC boundary:TMA EPSY OUT:
+ARTCC boundary:TMA EPWA OUT:
+ARTCC boundary:TMA EPZG OUT:
+ARTCC high boundary:FIR border 0 - EDMM:
+ARTCC high boundary:FIR border 0 - EDWW:
+ARTCC high boundary:FIR border 0 - ESAA:
+ARTCC high boundary:FIR border 0 - EYVL:
+ARTCC high boundary:FIR border 0 - LKAA:
+ARTCC high boundary:FIR border 0 - LOVV:
+ARTCC high boundary:FIR border 0 - LZBB:
+ARTCC high boundary:FIR border 0 - UKLV-E:
+ARTCC high boundary:FIR border 0 - UKLV-W:
+ARTCC high boundary:FIR border 0 - UMMV:
+ARTCC high boundary:FIR border EPWW:
+ARTCC low boundary:ATZ ALL:
+ARTCC low boundary:CTR ALL:
+ARTCC low boundary:FIZ EPWW FIS sector lines:
+Airports:EDDB:name
+Airports:EPAR:name
+Airports:EPBA:name
+Airports:EPBC:name
+Airports:EPBK:name
+Airports:EPBO:name
+Airports:EPBY:name
+Airports:EPCD:name
+Airports:EPCE:name
+Airports:EPDA:name
+Airports:EPDE:name
+Airports:EPEL:name
+Airports:EPGD:name
+Airports:EPGE:name
+Airports:EPGI:name
+Airports:EPGL:name
+Airports:EPGY:name
+Airports:EPIN:name
+Airports:EPIR:name
+Airports:EPIW:name
+Airports:EPJA:name
+Airports:EPJG:name
+Airports:EPJS:name
+Airports:EPKA:name
+Airports:EPKC:name
+Airports:EPKE:name
+Airports:EPKG:name
+Airports:EPKI:name
+Airports:EPKK:name
+Airports:EPKM:name
+Airports:EPKN:name
+Airports:EPKO:name
+Airports:EPKP:name
+Airports:EPKR:name
+Airports:EPKS:name
+Airports:EPKT:name
+Airports:EPKW:name
+Airports:EPKX:name
+Airports:EPLB:name
+Airports:EPLI:name
+Airports:EPLK:name
+Airports:EPLL:name
+Airports:EPLR:name
+Airports:EPLS:name
+Airports:EPLU:name
+Airports:EPLY:name
+Airports:EPMB:name
+Airports:EPMI:name
+Airports:EPML:name
+Airports:EPMM:name
+Airports:EPMO:name
+Airports:EPMR:name
+Airports:EPMX:name
+Airports:EPNC:name
+Airports:EPNL:name
+Airports:EPNM:name
+Airports:EPNT:name
+Airports:EPOD:name
+Airports:EPOK:name
+Airports:EPOM:name
+Airports:EPOP:name
+Airports:EPPB:name
+Airports:EPPG:name
+Airports:EPPI:name
+Airports:EPPK:name
+Airports:EPPL:name
+Airports:EPPO:name
+Airports:EPPR:name
+Airports:EPPT:name
+Airports:EPPW:name
+Airports:EPPZ:name
+Airports:EPRA:name
+Airports:EPRD:name
+Airports:EPRG:name
+Airports:EPRJ:name
+Airports:EPRP:name
+Airports:EPRU:name
+Airports:EPRZ:name
+Airports:EPSC:name
+Airports:EPSD:name
+Airports:EPSI:name
+Airports:EPSJ:name
+Airports:EPSK:name
+Airports:EPSL:name
+Airports:EPSN:name
+Airports:EPSO:name
+Airports:EPSS:name
+Airports:EPST:name
+Airports:EPSU:name
+Airports:EPSW:name
+Airports:EPSY:name
+Airports:EPTM:name
+Airports:EPTO:name
+Airports:EPWA:name
+Airports:EPWK:name
+Airports:EPWR:name
+Airports:EPWS:name
+Airports:EPWT:name
+Airports:EPZA:name
+Airports:EPZE:name
+Airports:EPZG:name
+Airports:EPZP:name
+Airports:EPZR:name
+Free Text:SCT2\A007/GND:freetext
+Free Text:SCT2\A010/GND:freetext
+Free Text:SCT2\A013/GND:freetext
+Free Text:SCT2\A015/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A037/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A045/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A053/GND:freetext
+Free Text:SCT2\A061/GND:freetext
+Free Text:SCT2\A064/GND:freetext
+Free Text:SCT2\A065/GND:freetext
+Free Text:SCT2\A075/GND:freetext
+Free Text:SCT2\F085/GND:freetext
+Free Text:SCT2\F090/GND:freetext
+Free Text:SCT2\F095/GND:freetext
+Free Text:SCT2\F115/GND:freetext
+Free Text:SCT2\F165/GND:freetext
+Free Text:SCT2\F410/F165:freetext
+Free Text:SCT2\F660/F410:freetext
+Geo:EPWW Coastlines:
+Geo:EPWW Prohibited area:
+Geo:EPWW Restricted area:
+Regions:EPAR SMR:polygon
+Regions:EPBC SMR:polygon
+Regions:EPBK SMR:polygon
+Regions:EPBY SMR:polygon
+Regions:EPDE SMR:polygon
+Regions:EPGD SMR:polygon
+Regions:EPGL SMR:polygon
+Regions:EPGY SMR:polygon
+Regions:EPKA SMR:polygon
+Regions:EPKI SMR:polygon
+Regions:EPKK SMR:polygon
+Regions:EPKR SMR:polygon
+Regions:EPKT SMR:polygon
+Regions:EPLB SMR:polygon
+Regions:EPLL SMR:polygon
+Regions:EPLR SMR:polygon
+Regions:EPML SMR:polygon
+Regions:EPMO SMR:polygon
+Regions:EPNC SMR:polygon
+Regions:EPNT SMR:polygon
+Regions:EPOD SMR:polygon
+Regions:EPPO SMR:polygon
+Regions:EPPZ SMR:polygon
+Regions:EPRA SMR:polygon
+Regions:EPRZ SMR:polygon
+Regions:EPSC SMR:polygon
+Regions:EPSY SMR:polygon
+Regions:EPWA SMR JK:polygon
+Regions:EPWR SMR:polygon
+Regions:EPZG SMR:polygon
+Regions:EPZR SMR:polygon
+Runways:EDDB 06L-24R:centerline
+Runways:EDDB 06L-24R:name
+Runways:EDDB 06R-24L:centerline
+Runways:EDDB 06R-24L:name
+Runways:EPBC 10L-28R:centerline
+Runways:EPBC 10R-28L:centerline
+Runways:EPBY 08-26:centerline
+Runways:EPBY 08-26:name
+Runways:EPGD 11-29:centerline
+Runways:EPGD 11-29:name
+Runways:EPKK 07-25:centerline
+Runways:EPKK 07-25:name
+Runways:EPKT 08-26:centerline
+Runways:EPKT 08-26:name
+Runways:EPLB 07-25:centerline
+Runways:EPLB 07-25:name
+Runways:EPLL 07-25:centerline
+Runways:EPLL 07-25:name
+Runways:EPMO 08-26:centerline
+Runways:EPMO 08-26:name
+Runways:EPPO 10-28:centerline
+Runways:EPPO 10-28:name
+Runways:EPRA 07-25:centerline
+Runways:EPRA 07-25:name
+Runways:EPRZ 09-27:centerline
+Runways:EPRZ 09-27:name
+Runways:EPSC 13-31:centerline
+Runways:EPSC 13-31:name
+Runways:EPSY 01-19:centerline
+Runways:EPSY 01-19:name
+Runways:EPWA 11-29:centerline
+Runways:EPWA 11-29:name
+Runways:EPWA 15-33:centerline
+Runways:EPWA 15-33:name
+Runways:EPWR 11-29:centerline
+Runways:EPWR 11-29:name
+Runways:EPZG 06-24:centerline
+Runways:EPZG 06-24:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:P21-ACC
+WINDOWAREA:50.057436:19.704441:50.149670:19.956463
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:0
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:4
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0
+PLUGIN:TopSky plugin:HideMapData:MVA,APP,BORDER,TMA,HOLD,LOA,PROC,TLL

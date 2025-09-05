@@ -1,0 +1,496 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:EDDB:name
+Airports:EDDB:symbol
+Airports:EPAR:name
+Airports:EPAR:symbol
+Airports:EPBA:name
+Airports:EPBA:symbol
+Airports:EPBC:name
+Airports:EPBC:symbol
+Airports:EPBK:name
+Airports:EPBK:symbol
+Airports:EPBO:name
+Airports:EPBO:symbol
+Airports:EPBY:name
+Airports:EPBY:symbol
+Airports:EPCD:name
+Airports:EPCD:symbol
+Airports:EPCE:name
+Airports:EPCE:symbol
+Airports:EPDA:name
+Airports:EPDA:symbol
+Airports:EPDE:name
+Airports:EPDE:symbol
+Airports:EPEL:name
+Airports:EPEL:symbol
+Airports:EPGD:name
+Airports:EPGD:symbol
+Airports:EPGE:name
+Airports:EPGE:symbol
+Airports:EPGI:name
+Airports:EPGI:symbol
+Airports:EPGL:name
+Airports:EPGL:symbol
+Airports:EPGY:name
+Airports:EPGY:symbol
+Airports:EPIN:name
+Airports:EPIN:symbol
+Airports:EPIR:name
+Airports:EPIR:symbol
+Airports:EPIW:name
+Airports:EPIW:symbol
+Airports:EPJA:name
+Airports:EPJA:symbol
+Airports:EPJG:name
+Airports:EPJG:symbol
+Airports:EPJS:name
+Airports:EPJS:symbol
+Airports:EPKA:name
+Airports:EPKA:symbol
+Airports:EPKC:name
+Airports:EPKC:symbol
+Airports:EPKE:name
+Airports:EPKE:symbol
+Airports:EPKG:name
+Airports:EPKG:symbol
+Airports:EPKI:name
+Airports:EPKI:symbol
+Airports:EPKK:name
+Airports:EPKK:symbol
+Airports:EPKM:name
+Airports:EPKM:symbol
+Airports:EPKN:name
+Airports:EPKN:symbol
+Airports:EPKO:name
+Airports:EPKO:symbol
+Airports:EPKP:name
+Airports:EPKP:symbol
+Airports:EPKR:name
+Airports:EPKR:symbol
+Airports:EPKS:name
+Airports:EPKS:symbol
+Airports:EPKT:name
+Airports:EPKT:symbol
+Airports:EPKW:name
+Airports:EPKW:symbol
+Airports:EPKX:name
+Airports:EPKX:symbol
+Airports:EPLB:name
+Airports:EPLB:symbol
+Airports:EPLI:name
+Airports:EPLI:symbol
+Airports:EPLK:name
+Airports:EPLK:symbol
+Airports:EPLL:name
+Airports:EPLL:symbol
+Airports:EPLR:name
+Airports:EPLR:symbol
+Airports:EPLS:name
+Airports:EPLS:symbol
+Airports:EPLU:name
+Airports:EPLU:symbol
+Airports:EPLY:name
+Airports:EPLY:symbol
+Airports:EPMB:name
+Airports:EPMB:symbol
+Airports:EPMI:name
+Airports:EPMI:symbol
+Airports:EPML:name
+Airports:EPML:symbol
+Airports:EPMM:name
+Airports:EPMM:symbol
+Airports:EPMO:name
+Airports:EPMO:symbol
+Airports:EPMR:name
+Airports:EPMR:symbol
+Airports:EPMX:name
+Airports:EPMX:symbol
+Airports:EPNC:name
+Airports:EPNC:symbol
+Airports:EPNL:name
+Airports:EPNL:symbol
+Airports:EPNM:name
+Airports:EPNM:symbol
+Airports:EPNT:name
+Airports:EPNT:symbol
+Airports:EPOD:name
+Airports:EPOD:symbol
+Airports:EPOK:name
+Airports:EPOK:symbol
+Airports:EPOM:name
+Airports:EPOM:symbol
+Airports:EPOP:name
+Airports:EPOP:symbol
+Airports:EPPB:name
+Airports:EPPB:symbol
+Airports:EPPG:name
+Airports:EPPG:symbol
+Airports:EPPI:name
+Airports:EPPI:symbol
+Airports:EPPK:name
+Airports:EPPK:symbol
+Airports:EPPL:name
+Airports:EPPL:symbol
+Airports:EPPO:name
+Airports:EPPO:symbol
+Airports:EPPR:name
+Airports:EPPR:symbol
+Airports:EPPT:name
+Airports:EPPT:symbol
+Airports:EPPW:name
+Airports:EPPW:symbol
+Airports:EPPZ:name
+Airports:EPPZ:symbol
+Airports:EPRA:name
+Airports:EPRA:symbol
+Airports:EPRD:name
+Airports:EPRD:symbol
+Airports:EPRG:name
+Airports:EPRG:symbol
+Airports:EPRJ:name
+Airports:EPRJ:symbol
+Airports:EPRP:name
+Airports:EPRP:symbol
+Airports:EPRU:name
+Airports:EPRU:symbol
+Airports:EPRZ:name
+Airports:EPRZ:symbol
+Airports:EPSC:name
+Airports:EPSC:symbol
+Airports:EPSD:name
+Airports:EPSD:symbol
+Airports:EPSI:name
+Airports:EPSI:symbol
+Airports:EPSJ:name
+Airports:EPSJ:symbol
+Airports:EPSK:name
+Airports:EPSK:symbol
+Airports:EPSL:name
+Airports:EPSL:symbol
+Airports:EPSN:name
+Airports:EPSN:symbol
+Airports:EPSO:name
+Airports:EPSO:symbol
+Airports:EPSS:name
+Airports:EPSS:symbol
+Airports:EPST:name
+Airports:EPST:symbol
+Airports:EPSU:name
+Airports:EPSU:symbol
+Airports:EPSW:name
+Airports:EPSW:symbol
+Airports:EPSY:name
+Airports:EPSY:symbol
+Airports:EPTM:name
+Airports:EPTM:symbol
+Airports:EPTO:name
+Airports:EPTO:symbol
+Airports:EPWA:name
+Airports:EPWA:symbol
+Airports:EPWK:name
+Airports:EPWK:symbol
+Airports:EPWR:name
+Airports:EPWR:symbol
+Airports:EPWS:name
+Airports:EPWS:symbol
+Airports:EPWT:name
+Airports:EPWT:symbol
+Airports:EPZA:name
+Airports:EPZA:symbol
+Airports:EPZE:name
+Airports:EPZE:symbol
+Airports:EPZG:name
+Airports:EPZG:symbol
+Airports:EPZP:name
+Airports:EPZP:symbol
+Airports:EPZR:name
+Airports:EPZR:symbol
+ARTCC boundary:Gdansk TMA OUT:
+ARTCC boundary:Lublin TMA OUT:
+ARTCC boundary:Mazury TMA Out:
+ARTCC boundary:Poznan TMA OUT:
+ARTCC boundary:Radom TMA OUT:
+ARTCC boundary:TMA EPBY OUT:
+ARTCC boundary:TMA EPDE OUT:
+ARTCC boundary:TMA EPGD OUT:
+ARTCC boundary:TMA EPKK OUT:
+ARTCC boundary:TMA EPLB OUT:
+ARTCC boundary:TMA EPLL OUT:
+ARTCC boundary:TMA EPRZ OUT:
+ARTCC boundary:TMA EPSC OUT:
+ARTCC boundary:TMA EPSY OUT:
+ARTCC boundary:TMA EPWA OUT:
+ARTCC boundary:TMA EPZG OUT:
+ARTCC boundary:Warszawa TMA OUT:
+ARTCC high boundary:AoR CTR EPWW - EDUU AOR:
+ARTCC high boundary:FIR border 0 - EDMM:
+ARTCC high boundary:FIR border 0 - EDWW:
+ARTCC high boundary:FIR border 0 - ESAA:
+ARTCC high boundary:FIR border 0 - EYVL:
+ARTCC high boundary:FIR border 0 - LKAA:
+ARTCC high boundary:FIR border 0 - LOVV:
+ARTCC high boundary:FIR border 0 - LZBB:
+ARTCC high boundary:FIR border 0 - UKLV-E:
+ARTCC high boundary:FIR border 0 - UKLV-W:
+ARTCC high boundary:FIR border 0 - UMMV:
+ARTCC high boundary:FIR border EPWW:
+ARTCC low boundary:ATZ ALL:
+ARTCC low boundary:CTR ALL:
+ARTCC low boundary:Gdansk TMA IN:
+ARTCC low boundary:Lublin TMA IN:
+ARTCC low boundary:Mazury TMA In:
+ARTCC low boundary:MRVA EPKK:
+ARTCC low boundary:Poznan TMA North:
+ARTCC low boundary:Poznan TMA South:
+ARTCC low boundary:Radom TMA In:
+ARTCC low boundary:TMA EPBY IN:
+ARTCC low boundary:TMA EPLB IN:
+ARTCC low boundary:TMA EPLL IN:
+ARTCC low boundary:TMA EPRA OUT:
+ARTCC low boundary:TMA EPRZ IN:
+ARTCC low boundary:TMA EPSC IN:
+ARTCC low boundary:TMA EPSY IN:
+ARTCC low boundary:TMA EPWA DIR 11:
+ARTCC low boundary:TMA EPWA DIR 15:
+ARTCC low boundary:TMA EPWA DIR 29:
+ARTCC low boundary:TMA EPWA DIR 33:
+ARTCC low boundary:Tower CTR EPWW ALL:
+ARTCC low boundary:TRA ALL:
+Geo:EPBY RMZ:
+Geo:EPLB RMZ:
+Geo:EPWA RMZ:
+Geo:EPWW Coastlines:
+Geo:EPWW Prohibited area:
+Geo:EPWW Restricted area:
+Geo:GEO:
+Runways:EPBC 10L-28R:centerline
+Runways:EPBC 10L-28R:extended centerline 1
+Runways:EPBC 10L-28R:extended centerline 1 left ticks
+Runways:EPBC 10L-28R:extended centerline 1 right ticks
+Runways:EPBC 10L-28R:extended centerline 2
+Runways:EPBC 10L-28R:extended centerline 2 left ticks
+Runways:EPBC 10L-28R:extended centerline 2 right ticks
+Runways:EPBC 10L-28R:name
+Runways:EPBY 08-26:centerline
+Runways:EPBY 08-26:extended centerline 1
+Runways:EPBY 08-26:extended centerline 1 left ticks
+Runways:EPBY 08-26:extended centerline 1 right ticks
+Runways:EPBY 08-26:extended centerline 2
+Runways:EPBY 08-26:extended centerline 2 left ticks
+Runways:EPBY 08-26:extended centerline 2 right ticks
+Runways:EPBY 08-26:name
+Runways:EPGD 11-29:centerline
+Runways:EPGD 11-29:extended centerline 1
+Runways:EPGD 11-29:extended centerline 1 left ticks
+Runways:EPGD 11-29:extended centerline 1 right ticks
+Runways:EPGD 11-29:extended centerline 2
+Runways:EPGD 11-29:extended centerline 2 left ticks
+Runways:EPGD 11-29:extended centerline 2 right ticks
+Runways:EPGD 11-29:name
+Runways:EPKK 07-25:centerline
+Runways:EPKK 07-25:extended centerline 1
+Runways:EPKK 07-25:extended centerline 1 left ticks
+Runways:EPKK 07-25:extended centerline 1 right ticks
+Runways:EPKK 07-25:extended centerline 2
+Runways:EPKK 07-25:extended centerline 2 left ticks
+Runways:EPKK 07-25:extended centerline 2 right ticks
+Runways:EPKK 07-25:name
+Runways:EPKT 08-26:centerline
+Runways:EPKT 08-26:extended centerline 1
+Runways:EPKT 08-26:extended centerline 1 left ticks
+Runways:EPKT 08-26:extended centerline 1 right ticks
+Runways:EPKT 08-26:extended centerline 2
+Runways:EPKT 08-26:extended centerline 2 left ticks
+Runways:EPKT 08-26:extended centerline 2 right ticks
+Runways:EPKT 08-26:name
+Runways:EPLB 07-25:centerline
+Runways:EPLB 07-25:extended centerline 1
+Runways:EPLB 07-25:extended centerline 1 left ticks
+Runways:EPLB 07-25:extended centerline 1 right ticks
+Runways:EPLB 07-25:extended centerline 2
+Runways:EPLB 07-25:extended centerline 2 left ticks
+Runways:EPLB 07-25:extended centerline 2 right ticks
+Runways:EPLB 07-25:name
+Runways:EPLL 07-25:centerline
+Runways:EPLL 07-25:extended centerline 1
+Runways:EPLL 07-25:extended centerline 1 left ticks
+Runways:EPLL 07-25:extended centerline 1 right ticks
+Runways:EPLL 07-25:extended centerline 2
+Runways:EPLL 07-25:extended centerline 2 left ticks
+Runways:EPLL 07-25:extended centerline 2 right ticks
+Runways:EPLL 07-25:name
+Runways:EPMO 08-26:centerline
+Runways:EPMO 08-26:extended centerline 1
+Runways:EPMO 08-26:extended centerline 1 left ticks
+Runways:EPMO 08-26:extended centerline 1 right ticks
+Runways:EPMO 08-26:extended centerline 2
+Runways:EPMO 08-26:extended centerline 2 left ticks
+Runways:EPMO 08-26:extended centerline 2 right ticks
+Runways:EPMO 08-26:name
+Runways:EPPO 10-28:centerline
+Runways:EPPO 10-28:extended centerline 1
+Runways:EPPO 10-28:extended centerline 1 left ticks
+Runways:EPPO 10-28:extended centerline 1 right ticks
+Runways:EPPO 10-28:extended centerline 2
+Runways:EPPO 10-28:extended centerline 2 left ticks
+Runways:EPPO 10-28:extended centerline 2 right ticks
+Runways:EPPO 10-28:name
+Runways:EPRA 07-25:centerline
+Runways:EPRA 07-25:extended centerline 1
+Runways:EPRA 07-25:extended centerline 1 left ticks
+Runways:EPRA 07-25:extended centerline 1 right ticks
+Runways:EPRA 07-25:extended centerline 2
+Runways:EPRA 07-25:extended centerline 2 left ticks
+Runways:EPRA 07-25:extended centerline 2 right ticks
+Runways:EPRA 07-25:name
+Runways:EPRZ 09-27:centerline
+Runways:EPRZ 09-27:extended centerline 1
+Runways:EPRZ 09-27:extended centerline 1 left ticks
+Runways:EPRZ 09-27:extended centerline 1 right ticks
+Runways:EPRZ 09-27:extended centerline 2
+Runways:EPRZ 09-27:extended centerline 2 left ticks
+Runways:EPRZ 09-27:extended centerline 2 right ticks
+Runways:EPRZ 09-27:name
+Runways:EPSC 13-31:centerline
+Runways:EPSC 13-31:extended centerline 1
+Runways:EPSC 13-31:extended centerline 1 left ticks
+Runways:EPSC 13-31:extended centerline 1 right ticks
+Runways:EPSC 13-31:extended centerline 2
+Runways:EPSC 13-31:extended centerline 2 left ticks
+Runways:EPSC 13-31:extended centerline 2 right ticks
+Runways:EPSC 13-31:name
+Runways:EPSY 01-19:centerline
+Runways:EPSY 01-19:extended centerline 1
+Runways:EPSY 01-19:extended centerline 1 left ticks
+Runways:EPSY 01-19:extended centerline 1 right ticks
+Runways:EPSY 01-19:extended centerline 2
+Runways:EPSY 01-19:extended centerline 2 left ticks
+Runways:EPSY 01-19:extended centerline 2 right ticks
+Runways:EPSY 01-19:name
+Runways:EPWA 11-29:centerline
+Runways:EPWA 11-29:extended centerline 1
+Runways:EPWA 11-29:extended centerline 1 left ticks
+Runways:EPWA 11-29:extended centerline 1 right ticks
+Runways:EPWA 11-29:extended centerline 2
+Runways:EPWA 11-29:extended centerline 2 left ticks
+Runways:EPWA 11-29:extended centerline 2 right ticks
+Runways:EPWA 11-29:name
+Runways:EPWA 15-33:centerline
+Runways:EPWA 15-33:extended centerline 1
+Runways:EPWA 15-33:extended centerline 1 left ticks
+Runways:EPWA 15-33:extended centerline 1 right ticks
+Runways:EPWA 15-33:extended centerline 2
+Runways:EPWA 15-33:extended centerline 2 left ticks
+Runways:EPWA 15-33:extended centerline 2 right ticks
+Runways:EPWA 15-33:name
+Runways:EPWR 11-29:centerline
+Runways:EPWR 11-29:extended centerline 1
+Runways:EPWR 11-29:extended centerline 1 left ticks
+Runways:EPWR 11-29:extended centerline 1 right ticks
+Runways:EPWR 11-29:extended centerline 2
+Runways:EPWR 11-29:extended centerline 2 left ticks
+Runways:EPWR 11-29:extended centerline 2 right ticks
+Runways:EPWR 11-29:name
+Runways:EPZG 06-24:centerline
+Runways:EPZG 06-24:extended centerline 1
+Runways:EPZG 06-24:extended centerline 1 left ticks
+Runways:EPZG 06-24:extended centerline 1 right ticks
+Runways:EPZG 06-24:extended centerline 2
+Runways:EPZG 06-24:extended centerline 2 left ticks
+Runways:EPZG 06-24:extended centerline 2 right ticks
+Runways:EPZG 06-24:name
+VORs:BIA:symbol
+VORs:BNO:symbol
+VORs:BRT:symbol
+VORs:BYZ:symbol
+VORs:CMP:symbol
+VORs:CZA:symbol
+VORs:DAR:symbol
+VORs:DIA:symbol
+VORs:DRE:symbol
+VORs:FWE:symbol
+VORs:GRD:symbol
+VORs:GRU:symbol
+VORs:GZD:symbol
+VORs:HDO:symbol
+VORs:IZB:symbol
+VORs:JED:symbol
+VORs:KAK:symbol
+VORs:KAX:symbol
+VORs:KMI:symbol
+VORs:KNA:symbol
+VORs:KRD:symbol
+VORs:KRN:symbol
+VORs:KTN:symbol
+VORs:LAW:symbol
+VORs:LIN:symbol
+VORs:LIV:symbol
+VORs:LOZ:symbol
+VORs:MOL:symbol
+VORs:MRA:symbol
+VORs:NAS:symbol
+VORs:NER:symbol
+VORs:NTA:symbol
+VORs:OKC:symbol
+VORs:OKL:symbol
+VORs:OKX:symbol
+VORs:OLX:symbol
+VORs:OST:symbol
+VORs:OSY:symbol
+VORs:OTA:symbol
+VORs:PCK:symbol
+VORs:PPD:symbol
+VORs:PRH:symbol
+VORs:PSK:symbol
+VORs:PSZ:symbol
+VORs:RDO:symbol
+VORs:RSW:symbol
+VORs:RUD:symbol
+VORs:SCE:symbol
+VORs:SIE:symbol
+VORs:SML:symbol
+VORs:SUW:symbol
+VORs:SWI:symbol
+VORs:SYN:symbol
+VORs:TAS:symbol
+VORs:TBN:symbol
+VORs:TCW:symbol
+VORs:TDA:symbol
+VORs:TDN:symbol
+VORs:TIR:symbol
+VORs:TKS:symbol
+VORs:TLY:symbol
+VORs:TMB:symbol
+VORs:TMI:symbol
+VORs:TMM:symbol
+VORs:TOW:symbol
+VORs:TPW:symbol
+VORs:TSN:symbol
+VORs:TTM:symbol
+VORs:TZE:symbol
+VORs:VLK:symbol
+VORs:VLM:symbol
+VORs:VOZ:symbol
+VORs:WAR:symbol
+VORs:WCL:symbol
+VORs:WIC:symbol
+VORs:WIE:symbol
+VORs:ZLG:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:200
+ABOVE:10000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:P21-TWR
+WINDOWAREA:48.667057:10.891809:54.380063:28.307358

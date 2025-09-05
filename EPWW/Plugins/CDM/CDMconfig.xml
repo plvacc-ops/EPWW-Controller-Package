@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<CDM>
+	<rate ops="20" />
+	<rateLvo ops="10" />
+	<expiredCtot time="5" />
+	<realMode mode="true" />
+	<pilotTobt mode="true" />
+	<autoAtot mode="false" />
+	<invalidateAtTsat mode="true" />
+	<Rates url="https://plvacc.pl/cdm/acdm_plugin/rate.txt" />
+    <Taxizones url="https://plvacc.pl/cdm/acdm_plugin/taxizones.txt" />
+    <Ctot url="https://plvacc.pl/cdm/acdm_plugin/ctot.txt" />
+    <sidInterval url="https://plvacc.pl/cdm/acdm_plugin/SID_rate_EPWW.txt" /> 
+	<DefaultTaxiTime minutes="7" />
+	<DeIceTimes light="3" medium="5" heavy="7" super="10"/>
+	<RefreshTime seconds="5" />
+	<Debug mode="false" />
+	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin" />
+	<vdgsFileType type="3"/>
+	<ftpHost host="" />
+	<ftpUser user="" />
+	<ftpPassword password="" />
+	<sftpConnection mode="false" />
+	<Server mode="true" />
+	<Su_Wait mode="false" />
+</CDM>

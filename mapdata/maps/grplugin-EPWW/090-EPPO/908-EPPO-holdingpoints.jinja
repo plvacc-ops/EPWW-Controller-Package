@@ -1,0 +1,25 @@
+MAP:Holding Points
+AIRPORT:EPPO,EPWW
+FOLDER:Holding Points
+COLOR:holdingpoint
+ACTIVE:LVP:EPPO:0
+STYLE:Solid:2
+{% set default = 0.000005 %}
+{% for name, geom in data.eppo_kml['HP CATI'].items() %}
+    {% if geom[0].__class__.__name__ == 'LinearRing' %}
+    {{- geom | simplify(default) | to_poly(name, 'holdingpoint') -}}
+    {% else %}
+    {{- geom | simplify(default) | to_line(name) -}}
+    {% endif %}
+{% endfor %}
+
+MAP:Holding Points CAT II/III
+AIRPORT:EPPO
+FOLDER:Holding Points
+ACTIVE:LVP:EPPO:1
+COLOR:holdingpoint
+STYLE:Solid:4
+
+{% for name, geom in data.eppo_kml['HP CATII/III'].items() %}
+    {{- geom | simplify(default) | to_line(name) -}}
+{% endfor %}

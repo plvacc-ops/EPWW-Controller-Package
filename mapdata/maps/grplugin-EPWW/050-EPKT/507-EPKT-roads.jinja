@@ -1,0 +1,10 @@
+MAP:Roads
+AIRPORT:EPKT,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
+COLOR:road
+STYLE:solid
+
+{% for name, geom in data.epkt_kml['Roads'].items() %}
+    {{- geom | to_line(name) }}
+{% endfor %}

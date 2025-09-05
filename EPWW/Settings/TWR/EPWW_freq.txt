@@ -1,0 +1,94 @@
+VOICE
+AG:EPBA_R_TWR Bielsko Radio:118.330
+AG:EPBC_I_TWR Babice Information:119.180
+AG:EPBK_R_TWR Bialystok Radio:123.205
+AG:EPBY_ATIS:129.330
+AG:EPBY_I_TWR Bydgoszcz Information:131.005
+AG:EPBY_TWR Bydgoszcz Tower:131.005
+AG:EPDE_APP Deblin Approach:128.250
+AG:EPDE_TWR Deblin Tower:122.750
+AG:EPGD_APP Gdansk Approach:127.280
+AG:EPGD_ATIS:129.630
+AG:EPGD_F_APP Gdansk Approach (DIR):133.660
+AG:EPGD_GND Gdansk Ground:131.330
+AG:EPGD_I_APP Gdansk Information (FIS):127.150
+AG:EPGD_TWR Gdansk Tower:118.105
+AG:EPGL_R_TWR Gliwice Radio:118.260
+AG:EPGY_R_TWR Grady Radio:126.855
+AG:EPJA_R_TWR Jastarnia Radio:122.830
+AG:EPKA_R_TWR Maslow Radio:118.080
+AG:EPKI_R_TWR Kikity Radio:119.405
+AG:EPKK_APP Krakow Approach:121.075
+AG:EPKK_ATIS:126.130
+AG:EPKK_DEL Krakow Delivery:121.980
+AG:EPKK_E_APP Krakow Approach (E):126.975
+AG:EPKK_GND Krakow Ground:118.105
+AG:EPKK_KK_APP Krakow Approach (KK):126.530
+AG:EPKK_KT_APP Krakow Approach (KT):135.405
+AG:EPKK_I_APP Krakow Information (FIS):119.275
+AG:EPKK_TWR Krakow Tower:123.255
+AG:EPKM_R_TWR Katowice Radio:120.080
+AG:EPKP_R_TWR Pobiednik Radio:118.605
+AG:EPKR_R_TWR Krosno Radio:119.555
+AG:EPKS_P_APP Krzesiny Precision:120.750
+AG:EPKS_TWR Krzesiny Tower:121.025
+AG:EPKT_ATIS:120.230
+AG:EPKT_GND Katowice Ground:121.805
+AG:EPKT_TWR Katowice Tower:129.255
+AG:EPLB_TWR Lublin Tower:136.430
+AG:EPLL_ATIS:135.680
+AG:EPLL_DEL Lodz Delivery:120.005
+AG:EPLL_TWR Lodz Tower:124.230
+AG:EPLR_R_TWR Radawiec Radio:121.390
+AG:EPML_I_TWR Mielec Information:119.105
+AG:EPMO_ATIS:136.555
+AG:EPMO_DEL Modlin Delivery:119.680
+AG:EPMO_TWR Modlin Tower:123.930
+AG:EPNT_R_TWR Nowy Targ Radio:122.305
+AG:EPOD_R_TWR Dajtki Radio:124.480
+AG:EPPO_ATIS:124.705
+AG:EPPO_DEL Poznan Delivery:121.805
+AG:EPPO_GND Poznan Ground:124.140
+AG:EPPO_I_APP Poznan Information (FIS):126.300
+AG:EPPO_N_APP Poznan Approach (N):128.925
+AG:EPPO_S_APP Poznan Approach (S):123.040
+AG:EPPO_TWR Poznan Tower:119.980
+AG:EPPZ_R_TWR Przasnysz Radio:122.600
+AG:EPRA_M_GND Radom MIL Ground:121.750
+AG:EPRA_TWR Radom Tower:118.430
+AG:EPRZ_ATIS:124.955
+AG:EPRZ_GND Rzeszow Ground:121.805
+AG:EPRZ_TWR Rzeszow Tower:126.805
+AG:EPSC_ATIS:132.130
+AG:EPSC_TWR Szczecin Tower:121.255
+AG:EPSY_I_APP Warszawa (Olsztyn) Information (FIS):118.775
+AG:EPSY_I_TWR Mazury Information:118.030
+AG:EPSY_TWR Mazury Tower:118.030
+AG:EPWA_APP Warszawa Approach:128.805
+AG:EPWA_ATIS:120.455
+AG:EPWA_DEL Okecie Delivery:121.605
+AG:EPWA_F_APP Warszawa Approach (DIR):129.380
+AG:EPWA_GND Okecie Ground:121.905
+AG:EPWA_I_APP Warszawa Information (FIS):119.450
+AG:EPWA_N_APP Warszawa Approach (N):125.055
+AG:EPWA_S_APP Warszawa Approach (S):135.930
+AG:EPWA_TWR Okecie Tower:118.305
+AG:EPWW_B_CTR Warszawa Radar (B):127.025
+AG:EPWW_C_CTR Warszawa Radar (C):133.475
+AG:EPWW_CTR Warszawa Radar (ALLFIR):125.450
+AG:EPWW_D_CTR Warszawa Radar (D):134.225
+AG:EPWW_E_CTR Warszawa Radar (E):120.950
+AG:EPWW_F_CTR Warszawa Radar (F):129.075
+AG:EPWW_G_CTR Warszawa Radar (G):124.925
+AG:EPWW_I_CTR Warszawa Information Bandbox (FIS):134.875
+AG:EPWW_J_CTR Warszawa Radar (J):124.625
+AG:EPWW_N_CTR Warszawa Radar (N):132.700
+AG:EPWW_R_CTR Warszawa Radar (R):123.625
+AG:EPWW_U_CTR Warszawa Radar (UPPER):130.625
+AG:EPWR_ATIS:124.330
+AG:EPWR_DEL Wroclaw Delivery:121.805
+AG:EPWR_TWR Wroclaw Tower:120.255
+AG:EPZG_TWR Zielona Gora Tower:118.755
+AG:EPZP_R_TWR Przylep Radio:130.780
+AG:EPZR_R_TWR Zar Radio:122.805
+END
