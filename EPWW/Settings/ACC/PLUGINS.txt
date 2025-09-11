@@ -2,16 +2,14 @@ PLUGINS
 CCAMS:ACList/Mode S EHS/m_Visible:1
 CCAMS:ACList/Mode S EHS/m_X:1755
 CCAMS:ACList/Mode S EHS/m_Y:275
-CCAMS:ACList/Mode S EHS/m_LineNumber:0
+CCAMS:ACList/Mode S EHS/m_LineNumber:1
 CCAMS:ACList/Mode S EHS/m_Resizable:1
-CCAMS:ACList/Mode S EHS/m_OrderingColumn:2
-CCAMS:ACList/Mode S EHS/m_Column_0:C/S:7:0:22:6:99:1:TopSky plugin:TopSky plugin:TopSky plugin
-CCAMS:ACList/Mode S EHS/m_Column_1::1:1:1001:0:0:1:RDF Plugin for Euroscope::
-CCAMS:ACList/Mode S EHS/m_Column_2:HDG:4:0:502:0:0:1:CCAMS::
-CCAMS:ACList/Mode S EHS/m_Column_3:Roll:4:1:503:0:0:1:CCAMS::
-CCAMS:ACList/Mode S EHS/m_Column_4:GS:4:1:504:0:15:1:CCAMS::
-CCAMS:ACList/Mode S EHS/m_Column_5:ALT:4:1:4:0:0:1:::
-CCAMS:ACList/Mode S EHS/m_Column_6:FREETEXT:10:0:19:29:29:0:::
+CCAMS:ACList/Mode S EHS/m_OrderingColumn:1
+CCAMS:ACList/Mode S EHS/m_Column_0:C/S:8:0:9:7:0:1:::
+CCAMS:ACList/Mode S EHS/m_Column_1:HDG:5:1:502:0:0:1:CCAMS::
+CCAMS:ACList/Mode S EHS/m_Column_2:Roll:5:1:503:0:0:1:CCAMS::
+CCAMS:ACList/Mode S EHS/m_Column_3:GS:4:1:504:0:0:1:CCAMS::
+CCAMS:ACList/Mode S EHS/m_Column_4:FREETEXT:10:0:19:29:29:0:::
 vSMR:cpdlc_sound:0
 TopSky plugin:ACList/HOLDING LIST/m_Visible:0
 TopSky plugin:ACList/HOLDING LIST/m_X:20

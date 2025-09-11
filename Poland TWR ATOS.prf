@@ -19,14 +19,14 @@ Plugins	Plugin2	\EPWW\Plugins\P21\P21Euroscope.dll
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin2Display1	SMR radar display
 Plugins	Plugin2Display2	Standard ES radar screen
-Plugins	Plugin3	\EPWW\Plugins\TopSky\TWR\TopSky.dll
+Plugins	Plugin3	\EPWW\Plugins\GRPlugin BRIGHT\GRplugin.dll
 Plugins	Plugin3Display0	Ground Radar display
-Plugins	Plugin3Display1	SMR radar display
-Plugins	Plugin3Display2	Standard ES radar screen
-Plugins	Plugin4	\EPWW\Plugins\GRPlugin BRIGHT\GRplugin.dll
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin3Display2	SMR radar display
+Plugins	Plugin4	\EPWW\Plugins\TopSky\TWR\TopSky.dll
 Plugins	Plugin4Display0	Ground Radar display
-Plugins	Plugin4Display1	Standard ES radar screen
-Plugins	Plugin4Display2	SMR radar display
+Plugins	Plugin4Display1	SMR radar display
+Plugins	Plugin4Display2	Standard ES radar screen
 Plugins	Plugin5	\EPWW\Plugins\CDM\CDM.dll
 Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin5Display1	SMR radar display
