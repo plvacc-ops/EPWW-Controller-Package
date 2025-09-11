@@ -33,6 +33,7 @@ AG:EPKR_R_TWR Krosno Radio:119.555
 AG:EPKS_P_APP Krzesiny Precision:120.750
 AG:EPKS_TWR Krzesiny Tower:121.025
 AG:EPKT_ATIS:120.230
+AG:EPKT_DEL Katowice Delivery:124.080
 AG:EPKT_GND Katowice Ground:121.805
 AG:EPKT_TWR Katowice Tower:129.255
 AG:EPLB_TWR Lublin Tower:136.430
@@ -74,17 +75,17 @@ AG:EPWA_N_APP Warszawa Approach (N):125.055
 AG:EPWA_S_APP Warszawa Approach (S):135.930
 AG:EPWA_TWR Okecie Tower:118.305
 AG:EPWW_B_CTR Warszawa Radar (B):127.025
-AG:EPWW_C_CTR Warszawa Radar (C):133.475
+AG:EPWW_C_CTR Warszawa Radar (C):134.875
 AG:EPWW_CTR Warszawa Radar (ALLFIR):125.450
 AG:EPWW_D_CTR Warszawa Radar (D):134.225
-AG:EPWW_E_CTR Warszawa Radar (E):120.950
-AG:EPWW_F_CTR Warszawa Radar (F):129.075
-AG:EPWW_G_CTR Warszawa Radar (G):124.925
-AG:EPWW_I_CTR Warszawa Information Bandbox (FIS):134.875
-AG:EPWW_J_CTR Warszawa Radar (J):124.625
-AG:EPWW_N_CTR Warszawa Radar (N):132.700
-AG:EPWW_R_CTR Warszawa Radar (R):123.625
-AG:EPWW_U_CTR Warszawa Radar (UPPER):130.625
+AG:EPWW_E_CTR Warszawa Radar (E):127.450
+AG:EPWW_F_CTR Warszawa Radar (F):124.275
+AG:EPWW_G_CTR Warszawa Radar (G):129.075
+AG:EPWW_I_CTR Warszawa Information Bandbox (FIS):128.325
+AG:EPWW_J_CTR Warszawa Radar (J):127.660
+AG:EPWW_N_CTR Warszawa Radar (N):130.625
+AG:EPWW_R_CTR Warszawa Radar (R):130.875
+AG:EPWW_U_CTR Warszawa Radar (UPPER):132.700
 AG:EPWR_ATIS:124.330
 AG:EPWR_DEL Wroclaw Delivery:121.805
 AG:EPWR_TWR Wroclaw Tower:120.255

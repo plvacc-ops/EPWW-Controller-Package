@@ -63,7 +63,7 @@ Settings	SettingsfileTAKEOFF	\EPWW\Settings\ACC\TAKEOFF.txt
 Settings	SettingsfileTAXIIN	\EPWW\Settings\ACC\TAXIIIN.txt
 Settings	SettingsfileTAXIOUT	\EPWW\Settings\ACC\TAXIOUT.txt
 Settings	SettingsfileVCCS	\EPWW\Settings\ACC\G2G_comms.txt
-Settings	SettingsfileVOICE	\EPWW\Settings\ACC\EPWW_freq.txt
+Settings	SettingsfileVOICE	\EPWW\Settings\EPWW_freq.txt
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Sounds	Sound0	\EPWW\Sounds\handoff_request.wav
