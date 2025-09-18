@@ -12,18 +12,18 @@ Plugins	Plugin0	\EPWW\Plugins\AFV\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	SMR radar display
 Plugins	Plugin0Display2	Standard ES radar screen
-Plugins	Plugin1	\EPWW\Plugins\CCAMS\CCAMS.dll
+Plugins	Plugin1	\EPWW\Plugins\P21\P21Euroscope.dll
 Plugins	Plugin1Display0	Ground Radar display
-Plugins	Plugin1Display1	Standard ES radar screen
-Plugins	Plugin1Display2	SMR radar display
-Plugins	Plugin2	\EPWW\Plugins\P21\P21Euroscope.dll
+Plugins	Plugin1Display1	SMR radar display
+Plugins	Plugin1Display2	Standard ES radar screen
+Plugins	Plugin2	\EPWW\Plugins\GRPlugin DARK\GRplugin.dll
 Plugins	Plugin2Display0	Ground Radar display
-Plugins	Plugin2Display1	SMR radar display
-Plugins	Plugin2Display2	Standard ES radar screen
-Plugins	Plugin3	\EPWW\Plugins\GRPlugin DARK\GRplugin.dll
-Plugins	Plugin3Display0	Ground Radar display
-Plugins	Plugin3Display1	Standard ES radar screen
-Plugins	Plugin3Display2	SMR radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin2Display2	SMR radar display
+Plugins	Plugin3	\EPWW\Plugins\TopSky\RADAR\TopSky.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin3Display1	SMR radar display
+Plugins	Plugin3Display2	Standard ES radar screen
 Plugins	Plugin4	\EPWW\Plugins\CDM\CDM.dll
 Plugins	Plugin4Display0	Ground Radar display
 Plugins	Plugin4Display1	SMR radar display
@@ -34,35 +34,31 @@ Plugins	Plugin5Display1	SMR radar display
 Plugins	Plugin5Display2	Standard ES radar screen
 Plugins	Plugin6	\EPWW\Plugins\VCH\VCH.dll
 Plugins	Plugin6Display0	Ground Radar display
-Plugins	Plugin6Display1	SMR radar display
-Plugins	Plugin6Display2	Standard ES radar screen
-Plugins	Plugin7	\EPWW\Plugins\SMR\vSMR.dll
-Plugins	Plugin7Display0	SMR radar display
 Settings	aircraft	\EPWW\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\EPWW\ICAO\ICAO_Airlines.txt
 Settings	airports	\EPWW\ICAO\ICAO_Airports.txt
 Settings	airways	\EPWW\NavData\AIRWAY.txt
 Settings	alias	\EPWW\Alias\alias.txt
-Settings	Settingsfile	\EPWW\Settings\ACC\ACCgeneral.txt
-Settings	SettingsfileADCS	\EPWW\Settings\ACC\ADCS.txt
-Settings	SettingsfileARR	\EPWW\Settings\ACC\ARR.txt
-Settings	SettingsfileCONFLICT	\EPWW\Settings\ACC\CONFLICT.txt
-Settings	SettingsfileDEP	\EPWW\Settings\ACC\DEP.txt
-Settings	SettingsfileFP	\EPWW\Settings\ACC\FP.txt
-Settings	SettingsfileORIGPLANE	\EPWW\Settings\ACC\ORIGPLANE.txt
-Settings	SettingsfilePILOTING	\EPWW\Settings\ACC\PILOT.txt
-Settings	SettingsfilePLUGINS	\EPWW\Settings\ACC\PLUGINS.txt
-Settings	SettingsfilePROFILE	\EPWW\Settings\ACC\ACC_Positions.txt
-Settings	SettingsfileSCREEN	\EPWW\Settings\ACC\Screen.txt
-Settings	SettingsfileSEL	\EPWW\Settings\ACC\SEL.txt
-Settings	SettingsfileSIL	\EPWW\Settings\ACC\SIL.txt
-Settings	SettingsfileSYMBOLOGY	\EPWW\Settings\ACC\P21-SYMBOLS.txt
-Settings	SettingsfileSTUP	\EPWW\Settings\ACC\STUP.txt
-Settings	SettingsfileTAGS	\EPWW\Settings\ACC\P21-TAGS.txt
-Settings	SettingsfileTAKEOFF	\EPWW\Settings\ACC\TAKEOFF.txt
-Settings	SettingsfileTAXIIN	\EPWW\Settings\ACC\TAXIIIN.txt
-Settings	SettingsfileTAXIOUT	\EPWW\Settings\ACC\TAXIOUT.txt
-Settings	SettingsfileVCCS	\EPWW\Settings\ACC\G2G_comms.txt
+Settings	Settingsfile	\EPWW\Settings\RADAR\RADARgeneral.txt
+Settings	SettingsfileADCS	\EPWW\Settings\RADAR\ADCS.txt
+Settings	SettingsfileARR	\EPWW\Settings\RADAR\ARR.txt
+Settings	SettingsfileCONFLICT	\EPWW\Settings\RADAR\CONFLICT.txt
+Settings	SettingsfileDEP	\EPWW\Settings\RADAR\DEP.txt
+Settings	SettingsfileFP	\EPWW\Settings\RADAR\FP.txt
+Settings	SettingsfileORIGPLANE	\EPWW\Settings\RADAR\ORIGPLANE.txt
+Settings	SettingsfilePILOTING	\EPWW\Settings\RADAR\PILOT.txt
+Settings	SettingsfilePLUGINS	\EPWW\Settings\RADAR\PLUGINS.txt
+Settings	SettingsfilePROFILE	\EPWW\Settings\RADAR\RADAR_Positions.txt
+Settings	SettingsfileSCREEN	\EPWW\Settings\RADAR\Screen.txt
+Settings	SettingsfileSEL	\EPWW\Settings\RADAR\SEL.txt
+Settings	SettingsfileSIL	\EPWW\Settings\RADAR\SIL.txt
+Settings	SettingsfileSYMBOLOGY	\EPWW\Settings\RADAR\P21-SYMBOLS.txt
+Settings	SettingsfileSTUP	\EPWW\Settings\RADAR\STUP.txt
+Settings	SettingsfileTAGS	\EPWW\Settings\RADAR\P21-TAGS.txt
+Settings	SettingsfileTAKEOFF	\EPWW\Settings\RADAR\TAKEOFF.txt
+Settings	SettingsfileTAXIIN	\EPWW\Settings\RADAR\TAXIIIN.txt
+Settings	SettingsfileTAXIOUT	\EPWW\Settings\RADAR\TAXIOUT.txt
+Settings	SettingsfileVCCS	\EPWW\Settings\RADAR\G2G_comms.txt
 Settings	SettingsfileVOICE	\EPWW\Settings\EPWW_freq.txt
 Settings	AselKey	5111808
 Settings	FreqKey	3604480

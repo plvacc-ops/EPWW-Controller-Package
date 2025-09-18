@@ -37,15 +37,15 @@ root = "EPWR"
 
 [profiles]
 
-[profiles.ACC]
+[profiles.RADAR]
 maps = [
-    { map = "topsky-acc", target = "EPWW/Plugins/TopSky/ACC/TopSkyMaps.txt" },
-	{ map = "topsky-cpdlc", target = "EPWW/Plugins/TopSky/ACC/TopSkyCPDLC.txt" },
-    { map = "topsky-settings", target = "EPWW/Plugins/TopSky/ACC/TopSkySettings.txt" },
-	{ map = "topsky-ssr", target = "EPWW/Plugins/TopSky/ACC/TopSkySSRcodes.txt" },
+    { map = "topsky-radar", target = "EPWW/Plugins/TopSky/RADAR/TopSkyMaps.txt" },
+	{ map = "topsky-cpdlc", target = "EPWW/Plugins/TopSky/RADAR/TopSkyCPDLC.txt" },
+    { map = "topsky-settings", target = "EPWW/Plugins/TopSky/RADAR/TopSkySettings.txt" },
+	{ map = "topsky-ssr", target = "EPWW/Plugins/TopSky/RADAR/TopSkySSRcodes.txt" },
 ]
-dir = "EPWW/Plugins/TopSky/ACC"
-aliases = [ "acc" ]
+dir = "EPWW/Plugins/TopSky/RADAR"
+aliases = [ "radar" ]
 
 [profiles.TWR]
 maps = [
