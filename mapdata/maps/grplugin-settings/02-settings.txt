@@ -67,10 +67,13 @@ RawVideo=1
 
 /--------------------WINDOWS---------------------
 
+Window_APP_DefPos=1469,505
+Window_APP_DefSize=450,450
 Window_APP_Scale=18
 Window_APP_AltFilter=6500
 Window_APP_Extensions_TickWidth=0.3
 Window_APP_Rotation=0
+Window_APP_DefPos=1469,505
 
 /--------------------TAG---------------------
 
@@ -229,7 +232,7 @@ Airport_Elevation=236
 Airport_Radius=2.0
 Airport_Dep_Transfer_Height=13000
 Airport_LVP=0
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPGD]
@@ -240,7 +243,7 @@ Airport_LVP=1
 Airport_ModeA=2
 Airport_ModeS=2
 GroundLabel_Filter_Stby=1
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPKK]
@@ -250,7 +253,7 @@ Airport_Elevation=791
 Airport_LVP=1
 Airport_Radius=2.0
 Airport_Runway_End=25:N050.04.48.875:E019.48.10.598
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPKT]
@@ -258,7 +261,7 @@ Airport_Elevation=1007
 Airport_Radius=2.0
 Airport_Dep_Transfer_Height=2000
 Airport_LVP=1
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPLB]
@@ -266,7 +269,7 @@ Airport_Elevation=633
 Airport_Radius=2.0
 Airport_Dep_Transfer_Height=13000
 Airport_LVP=0
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPLL]
@@ -274,7 +277,7 @@ Airport_Elevation=606
 Airport_Radius=2.0
 Airport_Dep_Transfer_Height=8000
 Airport_LVP=0
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPMO]
@@ -285,7 +288,7 @@ List_Outbound=*,2,300,900
 Airport_LVP=1
 Airport_Dep_Transfer_Height=2000
 Airport_Dep_Transfer_Dist=10
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPPO]
@@ -293,7 +296,7 @@ Airport_Elevation=308
 Airport_Radius=2.0
 Airport_Dep_Transfer_Height=2000
 Airport_LVP=1
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPRA]
@@ -301,7 +304,7 @@ Airport_Elevation=623
 Airport_Radius=2.0
 Airport_Dep_Transfer_Height=9000
 Airport_LVP=0
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPRZ]
@@ -309,7 +312,7 @@ Airport_Elevation=693
 Airport_Radius=2.0
 Airport_Dep_Transfer_Height=13000
 Airport_LVP=1
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPSC]
@@ -317,7 +320,7 @@ Airport_Elevation=155
 Airport_Radius=2.0
 Airport_Dep_Transfer_Height=13000
 Airport_LVP=0
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPSY]
@@ -325,7 +328,7 @@ Airport_Elevation=464
 Airport_Radius=2.0
 Airport_Dep_Transfer_Height=11000
 Airport_LVP=0
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPWA]
@@ -347,7 +350,7 @@ Airport_Runway_Buffer=33:N052.10.44.363:E020.57.25.549:N052.10.43.570:E020.57.26
 Airport_SMR_Raw=2
 Airport_SMR_Track=2
 GroundLabel_Filter_Stby=1
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPWR]
@@ -355,7 +358,7 @@ Airport_Elevation=406
 Airport_Radius=2.0
 Airport_Dep_Transfer_Height=2000
 Airport_LVP=1
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPZG]
@@ -363,5 +366,5 @@ Airport_Elevation=194
 Airport_Radius=2.0
 Airport_Dep_Transfer_Height=9000
 Airport_LVP=0
-Window_APP=1,1,0,550,450,450
+Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
