@@ -1,5 +1,5 @@
 SEL
-m_Visible:1
+m_Visible:0
 m_X:0
 m_Y:59
 m_LineNumber:8
@@ -22,5 +22,5 @@ m_Column:OXT:5:1:53:0:0:1::::1:0.0
 m_Column:OXP:6:1:51:22:22:1::::1:0.0
 m_Column:OXF:4:1:52:24:24:1::::1:0.0
 m_Column:OXC:5:1:14:20:20:1::::1:0.0
-m_Column:FREE TXT:9:1:19:29:29:1::::1:0.0
+m_Column:FREE TEXT:9:1:19:29:29:1::::1:0.0
 END

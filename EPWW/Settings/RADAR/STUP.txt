@@ -20,5 +20,5 @@ m_Column:CTOT:5:1:10:108:129:1:CDM Plugin:CDM Plugin:CDM Plugin:1:0.0
 m_Column:eCTOT:5:1:15:129:130:1:CDM Plugin:CDM Plugin:CDM Plugin:0:0.0
 m_Column:RWY:3:1:47:19:0:1::::1:0.0
 m_Column:STND:6:1:1:1:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
-m_Column:FREE TXT:9:1:19:29:0:1::::1:0.0
+m_Column:FREE TEXT:9:1:19:29:0:1::::1:0.0
 END
