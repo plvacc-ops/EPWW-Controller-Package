@@ -38,6 +38,7 @@ Settings	airlines	\EPWW\ICAO\ICAO_Airlines.txt
 Settings	airports	\EPWW\ICAO\ICAO_Airports.txt
 Settings	airways	\EPWW\NavData\AIRWAY.txt
 Settings	alias	\EPWW\Alias\alias.txt
+Settings	sector	\LOAD_SECTORFILE.sct
 Settings	Settingsfile	\EPWW\Settings\TWR\TWRgeneral.txt
 Settings	SettingsfileADCS	\EPWW\Settings\TWR\ADCS.txt
 Settings	SettingsfileARR	\EPWW\Settings\TWR\ARR.txt
