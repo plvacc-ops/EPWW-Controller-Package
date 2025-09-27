@@ -26,6 +26,7 @@ AG:EPKK_GND Krakow Ground:118.105
 AG:EPKK_KK_APP Krakow Approach (KK):126.530
 AG:EPKK_KT_APP Krakow Approach (KT):135.405
 AG:EPKK_I_APP Krakow Information (FIS):119.275
+AG:EPKK_RZ_APP Krakow Approach (RZ):133.030
 AG:EPKK_TWR Krakow Tower:123.255
 AG:EPKM_R_TWR Katowice Radio:120.080
 AG:EPKP_R_TWR Pobiednik Radio:118.605

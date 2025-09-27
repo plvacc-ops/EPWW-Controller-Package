@@ -93,6 +93,10 @@ PROFILE:EPKK_KT_APP:150:5
 ATIS2:Krakow Approach | Katowice Director Sector
 ATIS3:REPORT CALLSIGN ONLY | Pilot briefing and charts on vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
+PROFILE:EPKK_RZ_APP:150:5
+ATIS2:Krakow Approach | Rzeszow Sector | PDC/DCL [EPRZ]
+ATIS3:Covering EPRZ | Pilot briefing and charts at vats.im/EPWW
+ATIS4:Check airports coverage and submit your feedback at plvacc.pl
 PROFILE:EPLB_TWR:30:4
 ATIS2:Lublin Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/eplb

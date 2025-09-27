@@ -142,9 +142,9 @@
 .llc Expect late landing clearance.
 ..llc Spodziewaj sie poznego zezwolenia na ladowanie.
 .lineup Line up runway $deprwy and wait
-..lineup Zajmij pas $deprwy i czekaj
+..lineup Zajmij pas $deprwy i oczekuj
 .lu Line up runway $deprwy and wait
-..lu Zajmij pas $deprwy i czekaj
+..lu Zajmij pas $deprwy i oczekuj
 .lub Behind arriving traffic, line up and wait runway $deprwy, behind.
 ..lub Za przylatujacym ruchem, zajmij pas $deprwy i oczekuj, za przylatujacym.
 .depfq Airborne contact $radioname($1), frequency $freq($1).
@@ -162,7 +162,7 @@
 .rdimm Are you ready for immediate departure?
 ..rdimm Czy jestes gotowy do natychmiastowego odlotu?
 
-;*** - APP/ACC - ***
+;*** - RADAR - ***
 ;-- GENERAL -- 
 .rst Radar service terminated
 ..rst Sluzba radarowa zakonczona
