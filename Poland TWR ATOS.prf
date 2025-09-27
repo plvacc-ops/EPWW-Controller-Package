@@ -27,7 +27,7 @@ Plugins	Plugin4	\EPWW\Plugins\CDM\CDM.dll
 Plugins	Plugin4Display0	Ground Radar display
 Plugins	Plugin4Display1	SMR radar display
 Plugins	Plugin4Display2	Standard ES radar screen
-Plugins	Plugin5	\EPWW\Plugins\initialClimb\InitialClimbPlugin.dll
+Plugins	Plugin5	\EPWW\Plugins\InitialClimb\InitialClimbPlugin.dll
 Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin5Display1	SMR radar display
 Plugins	Plugin5Display2	Standard ES radar screen
@@ -38,7 +38,6 @@ Settings	airlines	\EPWW\ICAO\ICAO_Airlines.txt
 Settings	airports	\EPWW\ICAO\ICAO_Airports.txt
 Settings	airways	\EPWW\NavData\AIRWAY.txt
 Settings	alias	\EPWW\Alias\alias.txt
-Settings	sector	\LOAD_SECTORFILE.sct
 Settings	Settingsfile	\EPWW\Settings\TWR\TWRgeneral.txt
 Settings	SettingsfileADCS	\EPWW\Settings\TWR\ADCS.txt
 Settings	SettingsfileARR	\EPWW\Settings\TWR\ARR.txt

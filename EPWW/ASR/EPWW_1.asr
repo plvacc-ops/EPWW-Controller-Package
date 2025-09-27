@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
+SECTORFILE:C:\PLVACC\LOAD_SECTORFILE.sct
 SECTORTITLE:
 ARTCC boundary:Poznan TMA OUT:
 ARTCC boundary:Radom TMA OUT:
