@@ -9,36 +9,25 @@ ASRFastKeys	8	\EPWW\ASR\EPWR_GND.asr
 RecentFiles	Recent1	\EPWW\ASR\EPWW_TWR.asr
 Plugins	Plugin0	\EPWW\Plugins\AFV\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Ground Radar display
-Plugins	Plugin0Display1	SMR radar display
-Plugins	Plugin0Display2	Standard ES radar screen
-Plugins	Plugin1	\EPWW\Plugins\CCAMS\CCAMS.dll
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin1	\EPWW\Plugins\P21\P21Euroscope.dll
 Plugins	Plugin1Display0	Ground Radar display
 Plugins	Plugin1Display1	Standard ES radar screen
-Plugins	Plugin1Display2	SMR radar display
-Plugins	Plugin2	\EPWW\Plugins\P21\P21Euroscope.dll
+Plugins	Plugin2	\EPWW\Plugins\GRPlugin DARK\GRplugin.dll
 Plugins	Plugin2Display0	Ground Radar display
-Plugins	Plugin2Display1	SMR radar display
-Plugins	Plugin2Display2	Standard ES radar screen
+Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin3	\EPWW\Plugins\TopSky\TWR\TopSky.dll
 Plugins	Plugin3Display0	Ground Radar display
-Plugins	Plugin3Display1	SMR radar display
-Plugins	Plugin3Display2	Standard ES radar screen
-Plugins	Plugin4	\EPWW\Plugins\GRPlugin DARK\GRplugin.dll
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\EPWW\Plugins\CDM\CDM.dll
 Plugins	Plugin4Display0	Ground Radar display
 Plugins	Plugin4Display1	Standard ES radar screen
-Plugins	Plugin4Display2	SMR radar display
-Plugins	Plugin5	\EPWW\Plugins\CDM\CDM.dll
+Plugins	Plugin5	\EPWW\Plugins\InitialClimb\InitialClimbPlugin.dll
 Plugins	Plugin5Display0	Ground Radar display
-Plugins	Plugin5Display1	SMR radar display
-Plugins	Plugin5Display2	Standard ES radar screen
-Plugins	Plugin6	\EPWW\Plugins\initialClimb\InitialClimbPlugin.dll
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\EPWW\Plugins\VCH\VCH.dll
 Plugins	Plugin6Display0	Ground Radar display
-Plugins	Plugin6Display1	SMR radar display
-Plugins	Plugin6Display2	Standard ES radar screen
-Plugins	Plugin7	\EPWW\Plugins\VCH\VCH.dll
-Plugins	Plugin7Display0	Ground Radar display
-Plugins	Plugin8	\EPWW\Plugins\SMR\vSMR.dll
-Plugins	Plugin8Display0	SMR radar display
+Plugins	Plugin6Display1	Standard ES radar screen
 Settings	aircraft	\EPWW\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\EPWW\ICAO\ICAO_Airlines.txt
 Settings	airports	\EPWW\ICAO\ICAO_Airports.txt
@@ -64,7 +53,7 @@ Settings	SettingsfileTAKEOFF	\EPWW\Settings\TWR\TAKEOFF.txt
 Settings	SettingsfileTAXIIN	\EPWW\Settings\TWR\TAXIIIN.txt
 Settings	SettingsfileTAXIOUT	\EPWW\Settings\TWR\TAXIOUT.txt
 Settings	SettingsfileVCCS	\EPWW\Settings\TWR\G2G_comms.txt
-Settings	SettingsfileVOICE	\EPWW\Settings\TWR\EPWW_freq.txt
+Settings	SettingsfileVOICE	\EPWW\Settings\EPWW_freq.txt
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Sounds	Sound0	\EPWW\Sounds\handoff_request.wav

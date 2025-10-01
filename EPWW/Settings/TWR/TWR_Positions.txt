@@ -1,5 +1,5 @@
 PROFILE
-PROFILE:%%_OBS:300:0
+PROFILE:%%_OBS:250:0
 ATIS2:REPLACE %% WITH YOUR INITIALS
 ATIS3:
 ATIS4:
@@ -8,7 +8,7 @@ PROFILE:EPBY_TWR:30:4
 ATIS2:Bydgoszcz Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epby
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPGD_GND:25:3
+PROFILE:EPGD_GND:20:3
 ATIS2:Gdansk Ground | PDC/DCL [EPGD]
 ATIS3:Pilot briefing and charts on vats.im/epgd
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
@@ -20,7 +20,7 @@ PROFILE:EPKK_DEL:20:2
 ATIS2:Krakow Delivery | PDC/DCL [EPKK]
 ATIS3:Pilot briefing and charts on vats.im/epkk
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPKK_GND:25:3
+PROFILE:EPKK_GND:20:3
 ATIS2:Krakow Ground | PDC/DCL [EPKK]
 ATIS3:Pilot briefing and charts on vats.im/epkk
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
@@ -40,7 +40,7 @@ PROFILE:EPKT_DEL:20:2
 ATIS2:Katowice Delivery | PDC/DCL [EPKT]
 ATIS3:Pilot briefing and charts on vats.im/epkt
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPKT_GND:25:3
+PROFILE:EPKT_GND:20:3
 ATIS2:Katowice Ground | PDC/DCL [EPKT]
 ATIS3:Pilot briefing and charts on vats.im/epkt
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
@@ -72,7 +72,7 @@ PROFILE:EPPO_DEL:20:2
 ATIS2:Poznan Delivery | PDC/DCL [EPPO]
 ATIS3:Pilot briefing and charts on vats.im/eppo
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPPO_GND:25:3
+PROFILE:EPPO_GND:20:3
 ATIS2:Poznan Ground | PDC/DCL [EPPO]
 ATIS3:Pilot briefing and charts on vats.im/eppo
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
@@ -80,7 +80,7 @@ PROFILE:EPPO_TWR:30:4
 ATIS2:Poznan Tower | PDC/DCL [EPPO]
 ATIS3:Pilot briefing and charts on vats.im/eppo
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPRA_M_GND:25:3
+PROFILE:EPRA_M_GND:20:3
 ATIS2:Radom Ground | Covering only the MIL aprons, CIV tfc contact TWR.
 ATIS3:Pilot briefing and charts on vats.im/epra
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
@@ -88,7 +88,7 @@ PROFILE:EPRA_TWR:30:4
 ATIS2:Radom Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epra
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPRZ_GND:25:3
+PROFILE:EPRZ_GND:20:3
 ATIS2:Rzeszow Ground | PROCEDURAL CONTROL | PDC/DCL [EPRZ]
 ATIS3:Pilot briefing and charts on vats.im/eprz
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
@@ -116,7 +116,7 @@ PROFILE:EPWA_DEL:20:2
 ATIS2:Okecie Delivery | *CDM is in use* | PDC/DCL [EPWA]
 ATIS3:Pilot briefing and charts on vats.im/epwa
 ATIS4:Submit your TOBT and check your slot at vats.im/EPWA-ACDM
-PROFILE:EPWA_GND:25:3
+PROFILE:EPWA_GND:20:3
 ATIS2:Okecie Ground | *CDM is in use* | PDC/DCL [EPWA]
 ATIS3:Pilot briefing and charts on vats.im/epwa
 ATIS4:Submit your TOBT and check your slot at vats.im/EPWA-ACDM

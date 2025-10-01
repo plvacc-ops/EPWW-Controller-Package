@@ -122,17 +122,17 @@
 .toadv Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure monitor advisory on 122.800, bye bye.
 ..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie monitoruj czestotliwosc doradcza 122.800, do uslyszenia.
 .toawa Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Approach on 128.805, bye bye.
-..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Zblizanie na 128.805, do uslyszenia.
+..toawa Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Zblizanie na 128.805, do uslyszenia.
 .toakk Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Krakow Approach on 121.075, bye bye.
-..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Krakow Zblizanie na 121.075, do uslyszenia.
+..toakk Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Krakow Zblizanie na 121.075, do uslyszenia.
 .toagd Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Gdansk Approach on 127.280, bye bye.
-..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Gdansk Zblizanie na 127.280, do uslyszenia.
+..toagd Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Gdansk Zblizanie na 127.280, do uslyszenia.
 .toepww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 125.450, bye bye.
-..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 125.450, do uslyszenia.
-.tojww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 124.625, bye bye.
-..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 124.625, do uslyszenia
-.tonww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 132.700, bye bye.
-..toadv Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 132.700, do uslyszenia.
+..toepww Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 125.450, do uslyszenia.
+.tojww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 127.660, bye bye.
+..tojww Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 127.660, do uslyszenia
+.tonww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 130.625, bye bye.
+..tonww Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 130.625, do uslyszenia.
 .land Wind $wind, runway $arrrwy, cleared to land.
 ..land Wiatr $wind, pas $arrrwy, zezwalam ladowac.
 .ga GO AROUND, I say again, Go Around.
@@ -142,9 +142,9 @@
 .llc Expect late landing clearance.
 ..llc Spodziewaj sie poznego zezwolenia na ladowanie.
 .lineup Line up runway $deprwy and wait
-..lineup Zajmij pas $deprwy i czekaj
+..lineup Zajmij pas $deprwy i oczekuj
 .lu Line up runway $deprwy and wait
-..lu Zajmij pas $deprwy i czekaj
+..lu Zajmij pas $deprwy i oczekuj
 .lub Behind arriving traffic, line up and wait runway $deprwy, behind.
 ..lub Za przylatujacym ruchem, zajmij pas $deprwy i oczekuj, za przylatujacym.
 .depfq Airborne contact $radioname($1), frequency $freq($1).
@@ -162,7 +162,7 @@
 .rdimm Are you ready for immediate departure?
 ..rdimm Czy jestes gotowy do natychmiastowego odlotu?
 
-;*** - APP/ACC - ***
+;*** - RADAR - ***
 ;-- GENERAL -- 
 .rst Radar service terminated
 ..rst Sluzba radarowa zakonczona

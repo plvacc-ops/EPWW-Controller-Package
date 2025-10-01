@@ -4,6 +4,7 @@ on:
   push
 
 permissions: write-all
+
 jobs:
   build-maps:
     runs-on: ubuntu-latest

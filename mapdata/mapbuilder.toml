@@ -15,6 +15,16 @@ type = "kml"
 source = "kml/EPKT.kml"
 root = "EPKT"
 
+[data.eplb_kml]
+type = "kml"
+source = "kml/EPLB.kml"
+root = "EPLB"
+
+[data.epll_kml]
+type = "kml"
+source = "kml/EPLL.kml"
+root = "EPLL"
+
 [data.epmo_kml]
 type = "kml"
 source = "kml/EPMO.kml"
@@ -24,6 +34,16 @@ root = "EPMO"
 type = "kml"
 source = "kml/EPPO.kml"
 root = "EPPO"
+
+[data.epsc_kml]
+type = "kml"
+source = "kml/EPSC.kml"
+root = "EPSC"
+
+[data.epsy_kml]
+type = "kml"
+source = "kml/EPSY.kml"
+root = "EPSY"
 
 [data.epwa_kml]
 type = "kml"
@@ -37,15 +57,15 @@ root = "EPWR"
 
 [profiles]
 
-[profiles.ACC]
+[profiles.RADAR]
 maps = [
-    { map = "topsky-acc", target = "EPWW/Plugins/TopSky/ACC/TopSkyMaps.txt" },
-	{ map = "topsky-cpdlc", target = "EPWW/Plugins/TopSky/ACC/TopSkyCPDLC.txt" },
-    { map = "topsky-settings", target = "EPWW/Plugins/TopSky/ACC/TopSkySettings.txt" },
-	{ map = "topsky-ssr", target = "EPWW/Plugins/TopSky/ACC/TopSkySSRcodes.txt" },
+    { map = "topsky-radar", target = "EPWW/Plugins/TopSky/RADAR/TopSkyMaps.txt" },
+	{ map = "topsky-cpdlc", target = "EPWW/Plugins/TopSky/RADAR/TopSkyCPDLC.txt" },
+    { map = "topsky-settings", target = "EPWW/Plugins/TopSky/RADAR/TopSkySettings.txt" },
+	{ map = "topsky-ssr", target = "EPWW/Plugins/TopSky/RADAR/TopSkySSRcodes.txt" },
 ]
-dir = "EPWW/Plugins/TopSky/ACC"
-aliases = [ "acc" ]
+dir = "EPWW/Plugins/TopSky/RADAR"
+aliases = [ "radar" ]
 
 [profiles.TWR]
 maps = [
