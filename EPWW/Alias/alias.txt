@@ -56,6 +56,8 @@
 ;*** - DELIVERY - ***
 .nofp I have not received a flight plan from you. Please make sure you have actually filed one, have set the correct ICAO codes for the departure and arrival airport, and that the callsign in your flight plan and the one you are connected with are the same.
 ..nofp Nie dostalem twojego planu lotu. Prosze upewnij sie, ze go zlozyles, wpisales poprawne kody ICAO lotniska odlotowego i docelowego oraz masz ten sam callsign, jak w planie lotu.
+.clr You are cleared for flight to $arr via flight planned route, $sid departure runway from $deprwy, climb initially $temp, squawk $asquawk. Current information $atiscode
+..clr Masz zezwolenie na lot do $arr drogami planowanymi, odlot $sid z pasa $deprwy, wznos poczatkowo $temp, kod transpondera $asquawk. Informacja $atiscode
 .ifr You are cleared for flight to $arr via flight planned route, $sid departure runway from $deprwy, climb initially $temp, squawk $asquawk. Current information $atiscode
 ..ifr Masz zezwolenie na lot do $arr drogami planowanymi, odlot $sid z pasa $deprwy, wznos poczatkowo $temp, kod transpondera $asquawk. Informacja $atiscode
 .vfr You are cleared for VFR flight in $1 CTR, not higher than altitude $2 ft, departure runway $deprwy, squawk $asquawk.
