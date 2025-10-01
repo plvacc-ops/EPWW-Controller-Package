@@ -161,37 +161,6 @@ Free Text:SCT2\F660/F410:freetext
 Geo:EPWW Coastlines:
 Geo:EPWW Prohibited area:
 Geo:EPWW Restricted area:
-Regions:EPAR SMR:polygon
-Regions:EPBC SMR:polygon
-Regions:EPBK SMR:polygon
-Regions:EPBY SMR:polygon
-Regions:EPDE SMR:polygon
-Regions:EPGD SMR:polygon
-Regions:EPGL SMR:polygon
-Regions:EPGY SMR:polygon
-Regions:EPKA SMR:polygon
-Regions:EPKI SMR:polygon
-Regions:EPKK SMR:polygon
-Regions:EPKR SMR:polygon
-Regions:EPKT SMR:polygon
-Regions:EPLB SMR:polygon
-Regions:EPLL SMR:polygon
-Regions:EPLR SMR:polygon
-Regions:EPML SMR:polygon
-Regions:EPMO SMR:polygon
-Regions:EPNC SMR:polygon
-Regions:EPNT SMR:polygon
-Regions:EPOD SMR:polygon
-Regions:EPPO SMR:polygon
-Regions:EPPZ SMR:polygon
-Regions:EPRA SMR:polygon
-Regions:EPRZ SMR:polygon
-Regions:EPSC SMR:polygon
-Regions:EPSY SMR:polygon
-Regions:EPWA SMR JK:polygon
-Regions:EPWR SMR:polygon
-Regions:EPZG SMR:polygon
-Regions:EPZR SMR:polygon
 Runways:EDDB 06L-24R:centerline
 Runways:EDDB 06L-24R:name
 Runways:EDDB 06R-24L:centerline

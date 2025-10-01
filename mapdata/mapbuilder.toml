@@ -40,6 +40,11 @@ type = "kml"
 source = "kml/EPSC.kml"
 root = "EPSC"
 
+[data.epsy_kml]
+type = "kml"
+source = "kml/EPSY.kml"
+root = "EPSY"
+
 [data.epwa_kml]
 type = "kml"
 source = "kml/EPWA.kml"
