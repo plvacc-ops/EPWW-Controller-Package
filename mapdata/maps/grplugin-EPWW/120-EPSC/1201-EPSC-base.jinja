@@ -1,0 +1,11 @@
+MAP:Base
+AIRPORT:EPSC,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
+COLOR:basectr
+COORDTYPE:OTHER:REGION
+
+
+{% for name, geom in data.epsc_kml['Base'].items() %}
+    {{- geom | to_poly(name, 'base') }}
+{% endfor %}

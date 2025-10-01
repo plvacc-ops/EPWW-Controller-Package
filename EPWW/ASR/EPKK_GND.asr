@@ -17,7 +17,7 @@ DISABLEZOOMING:0
 DisplayRotation:12.80000
 TAGFAMILY:P21-TWR
 WINDOWAREA:50.065821:19.757896:50.084135:19.814272
-PLUGIN:Ground Radar plugin:AirportElevation:791
+PLUGIN:Ground Radar plugin:AirportElevation:792
 PLUGIN:Ground Radar plugin:AirportRadius:2
 PLUGIN:Ground Radar plugin:GroundMode:EPKK
 PLUGIN:TopSky plugin:NoDraw:1

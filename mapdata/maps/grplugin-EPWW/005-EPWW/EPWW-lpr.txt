@@ -88,9 +88,9 @@ SYMBOL:hospital:N050.08.06.000:E019.25.49.200:Chrzanow H253:4:0
 SYMBOL:hospital:N050.10.35.400:E020.58.37.800:Dabrowa Tarnowska H299:4:0
 SYMBOL:hospital:N049.39.01.800:E021.09.49.800:Gorlice H300:4:0
 SYMBOL:hospital:N050.05.28.200:E019.56.12.000:Krakow Jana Pawla II H326:4:0
-SYMBOL:hospital:N050.03.54.000:E019.57.22.800:Krakow CUMRiK-Jakubowskiego H324:4:0
+SYMBOL:hospital:N050.00.30.600:E019.59.50.600:Krakow CUMRiK-Jakubowskiego H324:4:0
 SYMBOL:hospital:N050.04.55.800:E019.56.19.800:Krakow Narutowicza H321:4:0
-SYMBOL:hospital:N050.00.46.200:E020.00.06.600:Krakow Prokocim Dzieciecy USD H329:4:0
+SYMBOL:hospital:N050.00.46.198:E020.00.06.598:Krakow Prokocim Dzieciecy USD H329:4:0
 SYMBOL:hospital:N050.05.39.000:E020.01.17.400:Krakow Rydygiera H264:4:0
 SYMBOL:hospital:N050.03.52.800:E020.02.40.800:Krakow Zeromskiego H265:4:0
 SYMBOL:hospital:N049.42.56.400:E020.24.40.200:Limanowa H268:4:0

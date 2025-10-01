@@ -165,3 +165,28 @@ PROFILE:EPZG_TWR:30:4
 ATIS2:Zielona Gora Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epzg
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+
+PROFILE:EPWW_I_CTR:300:6
+ATIS2:Warszawa Information
+ATIS3:Flight Information Service | Covering FIR EPWW below FL95 in class G airspace ONLY
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPGD_I_APP:150:5
+ATIS2:Gdansk Information
+ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPKK_I_APP:150:5
+ATIS2:Krakow Information
+ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPPO_I_APP:150:5
+ATIS2:Poznan Information
+ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPSY_I_APP:150:5
+ATIS2:Warszawa Information
+ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWA_I_APP:150:5
+ATIS2:Warszawa Information
+ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl

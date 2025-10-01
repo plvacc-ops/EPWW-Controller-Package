@@ -1,0 +1,11 @@
+MAP:Taxiway Labels
+AIRPORT:EPBY,EPWW
+FOLDER:Labels
+ACTIVE:1
+ZOOM:400
+FONTSIZE:=:10
+
+COLOR:labels-twy
+{% for name, geom in data.epby_kml['TaxiwayLabels'].items() %}
+    {{- geom | to_text(name) }}
+{% endfor %}

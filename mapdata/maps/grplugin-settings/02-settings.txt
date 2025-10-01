@@ -368,3 +368,8 @@ Airport_Dep_Transfer_Height=9000
 Airport_LVP=0
 Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
+
+[EPWW]
+Airport_LVP=0
+Window_APP=1,1,1469,505,450,450
+Window_APP_Extensions=10

@@ -1,0 +1,8 @@
+MAP:Runway
+AIRPORT:EPLB,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
+
+{% for name, geom in data.eplb_kml['RWY'].items() %}
+    {{- geom | to_poly(name, 'runway') }}
+{% endfor %}

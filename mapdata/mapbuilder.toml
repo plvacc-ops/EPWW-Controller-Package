@@ -15,6 +15,16 @@ type = "kml"
 source = "kml/EPKT.kml"
 root = "EPKT"
 
+[data.eplb_kml]
+type = "kml"
+source = "kml/EPLB.kml"
+root = "EPLB"
+
+[data.epll_kml]
+type = "kml"
+source = "kml/EPLL.kml"
+root = "EPLL"
+
 [data.epmo_kml]
 type = "kml"
 source = "kml/EPMO.kml"
@@ -24,6 +34,11 @@ root = "EPMO"
 type = "kml"
 source = "kml/EPPO.kml"
 root = "EPPO"
+
+[data.epsc_kml]
+type = "kml"
+source = "kml/EPSC.kml"
+root = "EPSC"
 
 [data.epwa_kml]
 type = "kml"
