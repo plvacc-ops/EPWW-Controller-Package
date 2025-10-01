@@ -1,12 +1,12 @@
 ASRFastKeys	1	\EPWW\ASR\EPWW_1.asr
-ASRFastKeys	2	\EPWW\ASR\EPWW_GND.asr
-ASRFastKeys	3	\EPWW\ASR\EPWA_GND.asr
-ASRFastKeys	4	\EPWW\ASR\EPWW_2.asr
-ASRFastKeys	5	\EPWW\ASR\EPWW_3.asr
-ASRFastKeys	6	\EPWW\ASR\EPKK_GND.asr
-ASRFastKeys	7	\EPWW\ASR\EPGD_GND.asr
-ASRFastKeys	8	\EPWW\ASR\EPPO_GND.asr
-ASRFastKeys	9	\EPWW\ASR\EPWW_4.asr
+ASRFastKeys	2	\EPWW\ASR\EPWW_2.asr
+ASRFastKeys	3	\EPWW\ASR\EPWW_3.asr
+ASRFastKeys	4	\EPWW\ASR\EPWW_4.asr
+ASRFastKeys	5	\EPWW\ASR\EPWW_GND.asr
+ASRFastKeys	6	\EPWW\ASR\EPWA_GND.asr
+ASRFastKeys	7	\EPWW\ASR\EPKK_GND.asr
+ASRFastKeys	8	\EPWW\ASR\EPGD_GND.asr
+ASRFastKeys	9	\EPWW\ASR\EPPO_GND.asr
 RecentFiles	Recent1	\EPWW\ASR\EPWW_1.asr
 Plugins	Plugin0	\EPWW\Plugins\AFV\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Ground Radar display
