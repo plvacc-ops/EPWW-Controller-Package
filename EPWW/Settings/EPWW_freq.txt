@@ -9,7 +9,7 @@ AG:EPDE_APP Deblin Approach:128.250
 AG:EPDE_TWR Deblin Tower:122.750
 AG:EPGD_APP Gdansk Approach:127.280
 AG:EPGD_ATIS:129.630
-AG:EPGD_F_APP Gdansk Approach (DIR):133.660
+AG:EPGD_L_APP Gdansk Approach (LOW):133.660
 AG:EPGD_GND Gdansk Ground:131.330
 AG:EPGD_I_APP Gdansk Information (FIS):127.150
 AG:EPGD_TWR Gdansk Tower:118.105

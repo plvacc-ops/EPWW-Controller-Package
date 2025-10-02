@@ -65,9 +65,9 @@ PROFILE:EPGD_APP:150:5
 ATIS2:Gdansk Approach | PDC/DCL [EPGD]
 ATIS3:Covering EPBY, EPGD | Pilot briefing and charts at vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
-PROFILE:EPGD_F_APP:150:5
-ATIS2:Gdansk Approach | Director Sector
-ATIS3:REPORT CALLSIGN ONLY | Pilot briefing and charts on vats.im/EPWW
+PROFILE:EPGD_L_APP:150:5
+ATIS2:Gdansk Approach | Lower Sector | PDC/DCL [EPGD]
+ATIS3:Covering EPGD | Pilot briefing and charts on vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
 PROFILE:EPKK_APP:150:5
 ATIS2:Krakow Approach | PDC/DCL [EPKK]
