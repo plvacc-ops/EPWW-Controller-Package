@@ -131,9 +131,6 @@ Equip_ModeS=WZLCISG
 Equip_Use_SUR_Mode_S=0
 
 //FlightLeg settings
-FlightLeg_AssumeTime=5
-FlightLeg_AutoShow=1
-FlightLeg_Label_RFL=1
 FlightLeg_LineWidth=0
 
 HTTP_GRIB_Latitude_Max=55
