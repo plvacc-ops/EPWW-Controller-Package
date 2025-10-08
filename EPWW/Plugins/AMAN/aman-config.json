@@ -1,5 +1,5 @@
 {
-    "openAutomatically": false,
+    "openAutomatically": true,
     "timelines": {
         "GD11": {
             "targetFixes": ["GD801"],

@@ -18,4 +18,3 @@ DisplayRotation:0
 TAGFAMILY:P21-TWR
 WINDOWAREA:48.667057:10.891809:54.380063:28.307358
 PLUGIN:Ground Radar plugin:GroundMode:EPWW
-PLUGIN:TopSky plugin:NoDraw:1
