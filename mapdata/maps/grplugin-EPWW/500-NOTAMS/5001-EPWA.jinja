@@ -9,5 +9,5 @@ FONTSIZE:=:15
 ACTIVE:251002:251025:0:0900:1700
 
 {% for name, geom in data.notams_kml['EPWA A2880/25'].items() %}
-    {{- geom | to_poly(name, 'runwayepwa') }}
+    {{- geom | to_poly(name, 'closure') }}
 {% endfor %}

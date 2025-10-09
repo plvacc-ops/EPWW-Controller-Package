@@ -51,9 +51,7 @@ Equip_UseCodes=1
 Equip_ModeS=WZLCISG
 Equip_Use_SUR_Mode_S=0
 
-//FlightLeg settings
-FlightLeg_LineWidth=0
-
+//HTTP settings
 HTTP_GRIB_Latitude_Max=55
 HTTP_GRIB_Latitude_Min=49
 HTTP_GRIB_Longitude_Max=25
