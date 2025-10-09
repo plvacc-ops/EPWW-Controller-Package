@@ -71,7 +71,7 @@ root = "NOTAMS"
 maps = [
     { map = "topsky-radar", target = "EPWW/Plugins/TopSky/RADAR/TopSkyMaps.txt" },
 	{ map = "topsky-cpdlc", target = "EPWW/Plugins/TopSky/RADAR/TopSkyCPDLC.txt" },
-    { map = "topsky-settings", target = "EPWW/Plugins/TopSky/RADAR/TopSkySettings.txt" },
+    { map = "topsky-radar-settings", target = "EPWW/Plugins/TopSky/RADAR/TopSkySettings.txt" },
 	{ map = "topsky-ssr", target = "EPWW/Plugins/TopSky/RADAR/TopSkySSRcodes.txt" },
 ]
 dir = "EPWW/Plugins/TopSky/RADAR"
@@ -81,7 +81,7 @@ aliases = [ "radar" ]
 maps = [
     { map = "topsky-twr", target = "EPWW/Plugins/TopSky/TWR/TopSkyMaps.txt" },
 	{ map = "topsky-cpdlc", target = "EPWW/Plugins/TopSky/TWR/TopSkyCPDLC.txt" },
-    { map = "topsky-settings", target = "EPWW/Plugins/TopSky/TWR/TopSkySettings.txt" },
+    { map = "topsky-twr-settings", target = "EPWW/Plugins/TopSky/TWR/TopSkySettings.txt" },
 	{ map = "topsky-ssr", target = "EPWW/Plugins/TopSky/TWR/TopSkySSRcodes.txt" },
 ]
 dir = "EPWW/Plugins/TopSky/TWR"
