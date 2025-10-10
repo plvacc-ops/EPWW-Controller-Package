@@ -122,7 +122,7 @@ m_UseIsectForScratchPad:1
 m_RotateRadarTargetSymbol:0
 m_RotateFlightPlanTrackSymbol:0
 m_RubberHeadingRounding:5
-SqawkForSModeTransponder:
+SqawkForSModeTransponder:1000
 m_TransparentTagBackground:1
 m_UseArrDepTagBgColor:0
 SET_MTCA_Show:1

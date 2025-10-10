@@ -51,12 +51,7 @@ Equip_UseCodes=1
 Equip_ModeS=WZLCISG
 Equip_Use_SUR_Mode_S=0
 
-//FlightLeg settings
-FlightLeg_AssumeTime=5
-FlightLeg_AutoShow=1
-FlightLeg_Label_RFL=1
-FlightLeg_LineWidth=0
-
+//HTTP settings
 HTTP_GRIB_Latitude_Max=55
 HTTP_GRIB_Latitude_Min=49
 HTTP_GRIB_Longitude_Max=25
@@ -104,7 +99,7 @@ MSAW_VFR=0
 
 MTCD_Filter_Dep=3
 
-RDF_Mode=1
+RDF_Mode=0
 RDF_Floor=-100
 
 RwyAppLines_Auto=0
