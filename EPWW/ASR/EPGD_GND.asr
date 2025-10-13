@@ -1,7 +1,7 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
+SECTORFILE:C:\PLVACC\LOAD_SECTORFILE.sct
 SECTORTITLE:
 SHOWC:1
 SHOWSB:1

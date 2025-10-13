@@ -218,11 +218,13 @@ System_RMCA_RWY_Closure=50
 System_RMCA_RWY_Closure_Info=20
 System_RMCA_RWY_Closure_LVP=40
 System_RMCA_RWY_Closure_LVP_Info=20
-System_RMCA_APP_Time=20
-System_RMCA_APP_Time_Info=35
+System_RMCA_APP_Time=15
+System_RMCA_APP_Time_Info=30
 System_RMCA_APP_Time_LVP=30
-System_RMCA_APP_Time_LVP_Info=50
+System_RMCA_APP_Time_LVP_Info=45
 System_RMCA_NoLineUpState=0
+
+System_Alert_Transfer_Info_Label=NO TRANSFER
 
 
 /--------------------AIRPORT SETTINGS---------------------
@@ -380,3 +382,4 @@ Window_APP_Extensions=10
 [EPWW]
 Airport_LVP=0
 Window_APP_Extensions=10
+GroundLabel_Filter_Stby=0

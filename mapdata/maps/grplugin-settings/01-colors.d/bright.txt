@@ -35,6 +35,7 @@ Color_WBackground4=24,24,24
 Color_WBorder=128,128,128
 Color_WForeground=250,250,250
 Color_WForeground2=255,255,255
+Color_WForeground3=255,255,255
 Color_WSlider_Bg=143,143,143
 Color_WTitleBar=128,128,128
 Color_WTitleText=32,32,32
