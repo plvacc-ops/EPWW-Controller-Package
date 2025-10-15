@@ -235,7 +235,7 @@ List_Departure_SID_MaxChars=3
 
 List_Inbound_DTT=1
 List_Inbound_TYPE=1
-List_Inbound_WTC=0
+List_Inbound_WTC=1
 List_Inbound_ETA=1
 List_Inbound_STAND=1
 List_Inbound_WTC_Type=0
@@ -244,7 +244,7 @@ List_Outbound_TYPE=0
 List_Outbound_WTC=1
 List_Outbound_SID=1
 List_Outbound_ADES=0
-List_Outbound_ExpiryTime=220
+List_Outbound_ExpiryTime=420
 List_Outbound_WTC_Type=0
 List_Outbound_SID_MaxChars=3
 
