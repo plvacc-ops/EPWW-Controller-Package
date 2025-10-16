@@ -1,7 +1,7 @@
 COLORDEF:base:39:41:61
 COLORDEF:basectr:39:41:61
 COLORDEF:runway:63:65:83
-COLORDEF:runway-marking:80:82:99
+COLORDEF:runway-marking:238:238:240
 COLORDEF:runway-grass:63:65:83
 COLORDEF:apron:62:64:82
 COLORDEF:apron-grass:62:64:82
