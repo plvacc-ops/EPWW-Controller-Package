@@ -5,7 +5,7 @@ ACTIVE:1
 STYLE:solid
 {% set default = 0.000005 %}
 
-COLOR:taxilane
+COLOR:taxilaneepwa
 {% for name, geom in data.epwa_kml['Taxilanes'].items() %}
     {{- geom | simplify(default) | to_line(name) }}
 {% endfor %}
