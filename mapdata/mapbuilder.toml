@@ -69,9 +69,7 @@ root = "NOTAMS"
 
 [profiles.RADAR]
 maps = [
-    { map = "topsky-radar", target = "EPWW/Plugins/TopSky/RADAR/TopSkyMaps.txt" },
 	{ map = "topsky-cpdlc", target = "EPWW/Plugins/TopSky/RADAR/TopSkyCPDLC.txt" },
-    { map = "topsky-radar-settings", target = "EPWW/Plugins/TopSky/RADAR/TopSkySettings.txt" },
 	{ map = "topsky-ssr", target = "EPWW/Plugins/TopSky/RADAR/TopSkySSRcodes.txt" },
 ]
 dir = "EPWW/Plugins/TopSky/RADAR"
@@ -109,145 +107,145 @@ aliases = [ "bright" ]
 
 [runways.EPBY.08]
 thr = [ 53.095247, 17.959186 ]
-bearing = 82.0
+bearing = 82.03
 fap = [ 53.084028, 17.826917 ] # BY806
 loc = [ ]
 
 [runways.EPBY.26]
 thr = [ 53.098358, 17.996153 ]
-bearing = 262.1
+bearing = 262.06
 fap = [ 53.112806, 18.169694 ] # BY637
 loc = [ 53.094722, 17.952917 ]
 
 [runways.EPGD.11]
 thr = [ 54.381067, 18.452050 ]
-bearing = 113.0
+bearing = 113.00
 fap = [ 54.415917, 18.310389 ] # GD801
 loc = [ ]
 
 [runways.EPGD.29]
 thr = [ 54.371267, 18.491717 ]
-bearing = 293.0
+bearing = 293.00
 fap = [ 54.321028, 18.693972 ] # GD941
 loc = [ 54.382306, 18.447028 ]
 
 [runways.EPKK.07]
 thr = [ 50.075397, 19.768094 ]
-bearing = 78.0
+bearing = 78.00
 fap = [ 50.051389, 19.596750 ] # KK591
 loc = [ ]
 
 [runways.EPKK.25]
 thr = [ 50.079792, 19.799658 ]
-bearing = 258.0
+bearing = 258.00
 fap = [ 50.103667, 19.972167 ] # KK367
 loc = [ 50.074917, 19.764694 ]
 
 [runways.EPKT.08]
 thr = [ 50.476050, 19.059569 ]
-bearing = 90.2
+bearing = 90.18
 fap = [ 50.476278, 18.897333 ] # KT736
 loc = [ ]
 
 [runways.EPKT.26]
 thr = [ 50.475961, 19.100139 ]
-bearing = 270.2
+bearing = 270.21
 fap = [ 50.475472, 19.259639 ] # KT536
 loc = [ 50.476056, 19.055639 ]
 
 [runways.EPLB.07]
 thr = [ 51.237644, 22.695936 ]
-bearing = 77.1
+bearing = 77.07
 fap = [ 51.212972, 22.525028 ] # LB398
 loc = [ ]
 
 [runways.EPLB.25]
 thr = [ 51.242689, 22.731117 ]
-bearing = 257.1
+bearing = 257.07
 fap = [ 51.257944, 22.838000 ] # 4.3 ISWI
 loc = [ 51.237083, 22.692028 ]
 
 [runways.EPLL.07]
 thr = [ 51.716222, 19.372189 ]
-bearing = 71.0
+bearing = 71.00
 fap = [ 51.692611, 19.264416 ] # LL731
 loc = [ ]
 
 [runways.EPLL.25]
 thr = [ 51.723669, 19.406319 ]
-bearing = 251.0
+bearing = 251.00
 fap = [ 51.748611, 19.521027 ] # LL532
 loc = [ 51.715528, 19.369000 ]
 
 [runways.EPMO.08]
 thr = [ 52.449511, 20.633694 ]
-bearing = 81.0
+bearing = 81.00
 fap = [ 52.428583, 20.413722 ] # 8.4 IMDX
 loc = [ 52.453333, 20.674250 ]
 
 [runways.EPMO.26]
 thr = [ 52.452928, 20.670039 ]
-bearing = 261.0
+bearing = 261.00
 fap = [ 52.470583, 20.859750 ] # MO998
 loc = [ ]
 
 [runways.EPPO.10]
 thr = [ 52.424958, 16.806006 ]
-bearing = 107.5
+bearing = 107.53
 fap = [ 52.450722, 16.672083 ] # PO601
 loc = [ ]
 
 [runways.EPPO.28]
 thr = [ 52.418175, 16.841094 ]
-bearing = 287.6
+bearing = 287.56
 fap = [ 52.379194, 17.041528 ] # PO701
 loc = [ 52.425833, 16.801444 ]
 
 [runways.EPRA.07]
 thr = [ 51.386986, 21.200572 ]
-bearing = 75.1
+bearing = 75.05
 fap = [ 51.355417, 21.012639 ] # RA409
 loc = [ ]
 
 [runways.EPRA.25]
 thr = [ 51.392306, 21.232444 ]
-bearing = 255.1
+bearing = 255.05
 fap = [ 51.405500, 21.311806 ] # RA503
 loc = [ 51.385806, 21.193500 ]
 
 [runways.EPRZ.09]
 thr = [ 50.110186, 22.001536 ]
-bearing = 91.2
+bearing = 91.16
 fap = [ 50.112167, 21.842028 ] # RZ436
 loc = [ ]
 
 [runways.EPRZ.27]
 thr = [ 50.109594, 22.046158 ]
-bearing = 271.2
+bearing = 271.20
 fap = [ 50.107556, 22.190750 ] # RZ778
 loc = [ 50.110278, 21.995528 ]
 
 [runways.EPSC.13]
 thr = [ 53.592083, 14.887925 ]
-bearing = 130.9
+bearing = 130.87
 fap = [ 53.640972, 14.792638 ] # SC411
 loc = [ ]
 
 [runways.EPSC.31]
 thr = [ 53.577381, 14.916464 ]
-bearing = 310.9
+bearing = 310.90
 fap = [ 53.526194, 15.0155277 ] # SC521
 loc = [ 53.594417, 14.8833889 ]
 
 [runways.EPSY.01]
 thr = [ 53.471211, 20.9317278 ]
-bearing = 19.0
+bearing = 19.00
 fap = [ 53.396444, 20.8900000 ] # SY371
 loc = [ 53.495000, 20.9450556 ]
 
 [runways.EPSY.19]
 thr = [ 53.492519, 20.943658 ]
-bearing = 199.0
+bearing = 199.00
 fap = [ 53.396556, 20.890028 ] # SY368
 loc = [ ]
 
@@ -277,24 +275,24 @@ loc = [ 52.180556, 20.954167 ]
 
 [runways.EPWR.11]
 thr = [ 51.108803, 16.865828 ]
-bearing = 116.0
+bearing = 116.00
 fap = [ 51.137250, 16.772694 ] # WR601
 loc = [ ]
 
 [runways.EPWR.29]
 thr = [ 51.098961, 16.897958 ]
-bearing = 296.0
+bearing = 296.00
 fap = [ 51.047333, 17.065778 ] # WR702
 loc = [ 51.110389, 16.860694 ]
 
 [runways.EPZG.06]
 thr = [ 52.133703, 15.782047 ]
-bearing = 64.7
+bearing = 64.65
 fap = [ 52.112278, 15.708694 ] # ZG463
 loc = [ ]
 
 [runways.EPZG.24]
 thr = [ 52.143322, 15.815058 ]
-bearing = 244.7
+bearing = 244.67
 fap = [ 52.178167, 15.934972 ] # ZG424
 loc = [ 52.132583, 15.778222 ]
