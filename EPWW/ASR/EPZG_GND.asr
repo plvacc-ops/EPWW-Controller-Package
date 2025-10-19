@@ -1,0 +1,37 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\zkarg\OneDrive\Dokumenty\EuroScope\Poland EPWW\EPWW-Sector_20251002184342-251001-0001.sct
+SECTORTITLE:EPWW-Sector_20251002184342-251001-0001.sct
+Free Text:EPZG GND\A:freetext
+Free Text:EPZG GND\E:freetext
+Free Text:EPZG GND\K:freetext
+Free Text:EPZG GND\L:freetext
+Free Text:EPZG STANDS\1:freetext
+Free Text:EPZG STANDS\2:freetext
+Free Text:EPZG STANDS\3:freetext
+Free Text:EPZG STANDS\4:freetext
+Free Text:EPZG STANDS\5:freetext
+Free Text:EPZG STANDS\6:freetext
+Free Text:EPZG STANDS\7:freetext
+Free Text:EPZG STANDS\8:freetext
+Free Text:EPZG STANDS\9:freetext
+Geo:EPZG Groundlayout:
+Regions:EPZG Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:10000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:205.50000
+TAGFAMILY:P21-TWR
+WINDOWAREA:52.127070:15.758083:52.150510:15.827483
+PLUGIN:Ground Radar plugin:AirportElevation:194
+PLUGIN:Ground Radar plugin:AirportRadius:2
+PLUGIN:Ground Radar plugin:GroundMode:EPZG
