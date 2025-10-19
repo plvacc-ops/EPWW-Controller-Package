@@ -2325,7 +2325,6 @@
 	<Folder>
 		<name>EPWA</name>
 		<visibility>0</visibility>
-		<open>1</open>
 		<Folder>
 			<name>Base</name>
 			<visibility>0</visibility>
@@ -2382,7 +2381,7 @@
 			</Placemark>
 		</Folder>
 		<Folder>
-			<name>RWY-Markings</name>
+			<name>RWY Markings</name>
 			<visibility>0</visibility>
 			<Placemark>
 				<name>33 Threshold 1</name>

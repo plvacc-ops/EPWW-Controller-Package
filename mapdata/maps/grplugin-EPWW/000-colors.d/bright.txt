@@ -3,6 +3,7 @@ COLORDEF:basectr:39:41:61
 COLORDEF:runway:63:65:83
 COLORDEF:runway-marking:176:176:176
 COLORDEF:runway-grass:63:65:83
+COLORDEF:runway-app:248:127:110
 COLORDEF:runway-ctrline:225:250:255
 COLORDEF:apron:62:64:82
 COLORDEF:apron-grass:62:64:82

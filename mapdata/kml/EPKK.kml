@@ -1173,7 +1173,7 @@
 			</Placemark>
 		</Folder>
 		<Folder>
-			<name>RWY-Markings</name>
+			<name>RWY Markings</name>
 			<visibility>0</visibility>
 			<Placemark>
 				<name>25 Centerline</name>

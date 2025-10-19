@@ -67,6 +67,7 @@ RawVideo=1
 
 /--------------------WINDOWS---------------------
 
+Window_APP_Draw_Runways=0
 Window_APP_DefPos=1469,505
 Window_APP_DefSize=450,450
 Window_APP_Scale=18
@@ -382,4 +383,6 @@ Window_APP_Extensions=10
 [EPWW]
 Airport_LVP=0
 Window_APP_Extensions=10
+Window_APP_CenterPos=1,N052.06.51.621,E019.25.25.220
+Window_APP_Scale=1
 GroundLabel_Filter_Stby=0
