@@ -1,13 +1,13 @@
-ASRFastKeys	1	\EPWW\ASR\EPWW_1.asr
-ASRFastKeys	2	\EPWW\ASR\EPWW_2.asr
-ASRFastKeys	3	\EPWW\ASR\EPWW_3.asr
-ASRFastKeys	4	\EPWW\ASR\EPWW_4.asr
-ASRFastKeys	5	\EPWW\ASR\EPWW_GND.asr
-ASRFastKeys	6	\EPWW\ASR\EPWA_GND.asr
-ASRFastKeys	7	\EPWW\ASR\EPKK_GND.asr
-ASRFastKeys	8	\EPWW\ASR\EPGD_GND.asr
-ASRFastKeys	9	\EPWW\ASR\EPPO_GND.asr
-RecentFiles	Recent1	\EPWW\ASR\EPWW_1.asr
+ASRFastKeys	1	\EPWW\ASR\EPWW.asr
+ASRFastKeys	2	\EPWW\ASR\EPWW_GND.asr
+ASRFastKeys	3	\EPWW\ASR\EPWA_GND.asr
+ASRFastKeys	4	\EPWW\ASR\EPKK_GND.asr
+ASRFastKeys	5	\EPWW\ASR\EPGD_GND.asr
+ASRFastKeys	6	\EPWW\ASR\EPPO_GND.asr
+ASRFastKeys	7	\EPWW\ASR\EPWR_GND.asr
+ASRFastKeys	8	\EPWW\ASR\EPKT_GND.asr
+ASRFastKeys	9	\EPWW\ASR\EPMO_GND.asr
+RecentFiles	Recent1	\EPWW\ASR\EPWW.asr
 Plugins	Plugin0	\EPWW\Plugins\AFV\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	Standard ES radar screen
@@ -29,6 +29,7 @@ Plugins	Plugin5Display1	Standard ES radar screen
 Plugins	Plugin6	\EPWW\Plugins\VCH\VCH.dll
 Plugins	Plugin6Display0	Ground Radar display
 Plugins	Plugin6Display1	Standard ES radar screen
+Plugins	Plugin7	\EPWW\Plugins\AMAN\Aman.dll
 Settings	aircraft	\EPWW\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\EPWW\ICAO\ICAO_Airlines.txt
 Settings	airports	\EPWW\ICAO\ICAO_Airports.txt
@@ -54,7 +55,7 @@ Settings	SettingsfileTAKEOFF	\EPWW\Settings\RADAR\TAKEOFF.txt
 Settings	SettingsfileTAXIIN	\EPWW\Settings\RADAR\TAXIIIN.txt
 Settings	SettingsfileTAXIOUT	\EPWW\Settings\RADAR\TAXIOUT.txt
 Settings	SettingsfileVCCS	\EPWW\Settings\RADAR\G2G_comms.txt
-Settings	SettingsfileVOICE	\EPWW\Settings\VoiceChannels.txt
+Settings	SettingsfileVOICE	\EPWW\Settings\EPWW_freq.txt
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Sounds	Sound0	\EPWW\Sounds\handoff_request.wav
@@ -76,5 +77,5 @@ Sounds	Sound15	\EPWW\Sounds\new_atis.wav
 Sounds	Sound16	\EPWW\Sounds\handoff_refused.wav
 Sounds	Sound17	\EPWW\Sounds\pointout.wav
 Sounds	Sound18	\EPWW\Sounds\startup.wav
-TeamSpeakVccs	TsVccsMiniControlX	1535
-TeamSpeakVccs	TsVccsMiniControlY	24
+TeamSpeakVccs	TsVccsMiniControlX	2
+TeamSpeakVccs	TsVccsMiniControlY	46
