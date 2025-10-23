@@ -40,6 +40,11 @@ type = "kml"
 source = "kml/EPPO.kml"
 root = "EPPO"
 
+[data.eprz_kml]
+type = "kml"
+source = "kml/EPRZ.kml"
+root = "EPRZ"
+
 [data.epsc_kml]
 type = "kml"
 source = "kml/EPSC.kml"
