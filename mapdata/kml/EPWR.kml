@@ -5,7 +5,7 @@
 	<StyleMap id="m_ylw-pushpin110">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin20</styleUrl>
+			<styleUrl>#s_ylw-pushpin201</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -15,7 +15,7 @@
 	<StyleMap id="m_ylw-pushpin21">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin02</styleUrl>
+			<styleUrl>#s_ylw-pushpin020</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -142,7 +142,7 @@
 			<styleUrl>#sh_ylw-pushpin41</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="s_ylw-pushpin02">
+	<Style id="s_ylw-pushpin020">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -151,7 +151,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin20">
+	<Style id="s_ylw-pushpin201">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
