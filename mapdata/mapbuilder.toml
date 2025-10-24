@@ -40,6 +40,11 @@ type = "kml"
 source = "kml/EPPO.kml"
 root = "EPPO"
 
+[data.epra_kml]
+type = "kml"
+source = "kml/EPRA.kml"
+root = "EPRA"
+
 [data.eprz_kml]
 type = "kml"
 source = "kml/EPRZ.kml"
@@ -64,6 +69,11 @@ root = "EPWA"
 type = "kml"
 source = "kml/EPWR.kml"
 root = "EPWR"
+
+[data.epzg_kml]
+type = "kml"
+source = "kml/EPZG.kml"
+root = "EPZG"
 
 [data.notams_kml]
 type = "kml"
