@@ -54,19 +54,6 @@ ACTIVE:250922:251128:0:0645:2159
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
-MAP:RWY 11/29 CLOSURE
-AIRPORT:EPWR,EPWW
-FOLDER:NOTAMS
-COLOR:closure
-COORDTYPE:RWYCLOSED:REGION
-RWYCLOSEDDEP:EPWR:11,29
-RWYCLOSEDARR:EPWR:11,29
-FONTSIZE:=:15
-ACTIVE:251026:251204:0:2300:1800
-{% for name, geom in data.notams_kml['EPWR H2966/25'].items() %}
-    {{- geom | to_poly(name, 'closure') }}
-{% endfor %}
-
 MAP:STND 3 AND 4 CLOSURE
 AIRPORT:EPZG,EPWW
 FOLDER:NOTAMS
