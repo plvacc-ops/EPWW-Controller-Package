@@ -1,11 +1,12 @@
 ASRFastKeys	1	\EPWW\ASR\EPWW.asr
-ASRFastKeys	2	\EPWW\ASR\TWR\EPWA_GND.asr
-ASRFastKeys	3	\EPWW\ASR\TWR\EPKK_GND.asr
-ASRFastKeys	4	\EPWW\ASR\TWR\EPGD_GND.asr
-ASRFastKeys	5	\EPWW\ASR\TWR\EPKT_GND.asr
-ASRFastKeys	6	\EPWW\ASR\TWR\EPMO_GND.asr
-ASRFastKeys	7	\EPWW\ASR\TWR\EPPO_GND.asr
-ASRFastKeys	8	\EPWW\ASR\TWR\EPWR_GND.asr
+ASRFastKeys	2	\EPWW\ASR\EPWW_GND.asr
+ASRFastKeys	3	\EPWW\ASR\EPWA_GND.asr
+ASRFastKeys	4	\EPWW\ASR\EPKK_GND.asr
+ASRFastKeys	5	\EPWW\ASR\EPGD_GND.asr
+ASRFastKeys	6	\EPWW\ASR\EPPO_GND.asr
+ASRFastKeys	7	\EPWW\ASR\EPWR_GND.asr
+ASRFastKeys	8	\EPWW\ASR\EPKT_GND.asr
+ASRFastKeys	9	\EPWW\ASR\EPMO_GND.asr
 RecentFiles	Recent1	\EPWW\ASR\EPWW.asr
 Plugins	Plugin0	\EPWW\Plugins\AFV\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Ground Radar display
@@ -54,7 +55,7 @@ Settings	SettingsfileTAKEOFF	\EPWW\Settings\RADAR\TAKEOFF.txt
 Settings	SettingsfileTAXIIN	\EPWW\Settings\RADAR\TAXIIIN.txt
 Settings	SettingsfileTAXIOUT	\EPWW\Settings\RADAR\TAXIOUT.txt
 Settings	SettingsfileVCCS	\EPWW\Settings\RADAR\G2G_comms.txt
-Settings	SettingsfileVOICE	\EPWW\Settings\EPWW_freq.txt
+Settings	SettingsfileVOICE	\EPWW\Settings\VoiceChannels.txt
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 Sounds	Sound0	\EPWW\Sounds\handoff_request.wav
