@@ -1,7 +1,7 @@
 ARR
 m_Visible:1
-m_X:1000
-m_Y:43
+m_X:751
+m_Y:46
 m_LineNumber:6
 m_Resizable:0
 m_OrderingColumn:1

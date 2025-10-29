@@ -1,10 +1,10 @@
 STUP
 m_Visible:0
-m_X:0
-m_Y:44
+m_X:179
+m_Y:45
 m_LineNumber:0
 m_Resizable:1
-m_OrderingColumn:17
+m_OrderingColumn:7
 m_HeaderOnly:0
 m_Column:C/S:7:1:9:7:1:1::::0:0.0
 m_Column:RT:2:1:80:32:0:1::::0:0.0
