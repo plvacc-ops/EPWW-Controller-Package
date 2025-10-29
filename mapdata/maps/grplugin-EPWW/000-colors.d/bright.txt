@@ -1,16 +1,18 @@
 COLORDEF:base:39:41:61
 COLORDEF:basectr:39:41:61
 COLORDEF:runway:63:65:83
-COLORDEF:runway-marking:80:82:99
+COLORDEF:runway-marking:176:176:176
 COLORDEF:runway-grass:63:65:83
+COLORDEF:runway-app:248:127:110
+COLORDEF:runway-ctrline:225:250:255
 COLORDEF:apron:62:64:82
 COLORDEF:apron-grass:62:64:82
 COLORDEF:building:90:91:110
 COLORDEF:taxiway:74:75:93
-COLORDEF:taxilane:80:82:99
-COLORDEF:taxilane-blue:80:82:99
-COLORDEF:taxilane-orange:80:82:99
-COLORDEF:standline:80:82:99
+COLORDEF:taxilane:90:90:100
+COLORDEF:taxilane-blue:90:90:100
+COLORDEF:taxilane-orange:90:90:100
+COLORDEF:standline:90:90:100
 COLORDEF:holdingpoint:89:90:102
 COLORDEF:stopbar:193:121:4
 

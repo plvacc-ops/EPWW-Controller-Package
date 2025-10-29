@@ -21,7 +21,7 @@ NDBs:symbol:6579300:1.0:0:0:7
 NDBs:name:8355711:3.1:0:0:12
 NDBs:frequency:8421504:3.5:0:0:0
 Runways:centerline:16777215:3.5:0:1:7
-Runways:extended centerline:10526880:3.5:0:1:7
+Runways:extended centerline:7237230:3.5:0:1:7
 Runways:name:8421504:3.5:0:0:7
 Datablock:non concerned:10262166:3.2:0:1:7
 Datablock:notified:16777215:3.2:0:1:7
@@ -75,7 +75,7 @@ Other:direct no airway:16776960:3.5:0:1:7
 Other:free of conflict:65280:3.5:0:2:7
 Other:conflict warning:65535:3.5:0:2:7
 Other:conflict detected:8421631:3.5:0:2:7
-Other:route annotation:53760:3.4:0:2:7
+Other:route annotation:40704:3.1:0:2:0
 Other:freetext:12632256:3.7:0:1:7
 Other:range rings:12566272:4.0:0:0:2
 Other:off antenna range rings:255:5.0:0:0:2
@@ -84,6 +84,7 @@ Other:manual taxi line:16777215:5.0:0:3:2
 Other:manual taxi line ends at predefined point:65535:5.0:0:3:2
 Other:predefined taxi line:65280:5.0:0:3:2
 Other:terminal taxi line:255:5.0:0:3:2
+Other:list title bar:16777215:0.0:0:0:7
 Other:list header:15263976:3.5:0:0:7
 Other:normal menu item:13619151:3.5:0:0:7
 Other:disabled menu item:8421504:3.5:0:0:7

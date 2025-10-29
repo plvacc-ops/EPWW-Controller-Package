@@ -1,0 +1,67 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\zkarg\OneDrive\Dokumenty\EuroScope\Poland EPWW\EPWW-Sector_20251002184342-251001-0001.sct
+SECTORTITLE:EPWW-Sector_20251002184342-251001-0001.sct
+Free Text:EPRA GND\A:freetext
+Free Text:EPRA GND\A1:freetext
+Free Text:EPRA GND\A4:freetext
+Free Text:EPRA GND\A5:freetext
+Free Text:EPRA GND\A6:freetext
+Free Text:EPRA GND\Apron 1:freetext
+Free Text:EPRA GND\Apron 2 (DEICE):freetext
+Free Text:EPRA GND\Apron 3 (MIL):freetext
+Free Text:EPRA GND\Apron 4 (MIL):freetext
+Free Text:EPRA GND\Apron 5 (MIL):freetext
+Free Text:EPRA GND\B:freetext
+Free Text:EPRA GND\D:freetext
+Free Text:EPRA GND\E:freetext
+Free Text:EPRA GND\FIRE STATION:freetext
+Free Text:EPRA GND\G:freetext
+Free Text:EPRA GND\H:freetext
+Free Text:EPRA GND\HANGAR:freetext
+Free Text:EPRA GND\K1:freetext
+Free Text:EPRA GND\K2:freetext
+Free Text:EPRA GND\K3:freetext
+Free Text:EPRA GND\K4:freetext
+Free Text:EPRA GND\K5:freetext
+Free Text:EPRA GND\M:freetext
+Free Text:EPRA GND\M1:freetext
+Free Text:EPRA GND\M2:freetext
+Free Text:EPRA GND\M3:freetext
+Free Text:EPRA GND\S:freetext
+Free Text:EPRA GND\TWR:freetext
+Free Text:EPRA GND\TWR (MIL):freetext
+Free Text:EPRA STANDS\1:freetext
+Free Text:EPRA STANDS\10:freetext
+Free Text:EPRA STANDS\11:freetext
+Free Text:EPRA STANDS\12:freetext
+Free Text:EPRA STANDS\13:freetext
+Free Text:EPRA STANDS\14:freetext
+Free Text:EPRA STANDS\2:freetext
+Free Text:EPRA STANDS\3:freetext
+Free Text:EPRA STANDS\4:freetext
+Free Text:EPRA STANDS\5:freetext
+Free Text:EPRA STANDS\6:freetext
+Free Text:EPRA STANDS\7:freetext
+Free Text:EPRA STANDS\8:freetext
+Free Text:EPRA STANDS\9:freetext
+Geo:EPRA Groundlayout:
+Regions:EPRA Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:10000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:15.20000
+TAGFAMILY:P21-TWR
+WINDOWAREA:51.379292:21.182301:51.402732:21.251701
+PLUGIN:Ground Radar plugin:AirportElevation:625
+PLUGIN:Ground Radar plugin:AirportRadius:2
+PLUGIN:Ground Radar plugin:GroundMode:EPRA

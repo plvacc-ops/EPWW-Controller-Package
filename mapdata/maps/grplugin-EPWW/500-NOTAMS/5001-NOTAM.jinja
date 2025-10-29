@@ -1,0 +1,67 @@
+MAP:TWY C CLOSURE
+AIRPORT:EPLB,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:250901:251201:0:0958:2359
+{% for name, geom in data.notams_kml['EPLB E2522/25'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:TWY A5 AND S CLOSURE
+AIRPORT:EPRA,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:250908:251201:0:0607:2359
+{% for name, geom in data.notams_kml['EPRA H2372/25'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:APN 2 AND TWY S CLOSURE
+AIRPORT:EPSY,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:251015:260115:0:0005:2359
+{% for name, geom in data.notams_kml['EPSY E3054/25'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:APN 10 CLOSURE
+AIRPORT:EPWA,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+BLOCKS:EPWA:53,53B,54,54A,54B
+FONTSIZE:=:15
+ACTIVE:251030:270130:0:0000:2359
+{% for name, geom in data.notams_kml['EPWA SUP 131/25'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:TWY C CLOSURE
+AIRPORT:EPWR,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:250922:251128:0:0645:2159
+{% for name, geom in data.notams_kml['EPWR H2568/25'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:STND 3 AND 4 CLOSURE
+AIRPORT:EPZG,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+BLOCKS:EPZG:3,4
+FONTSIZE:=:15
+ACTIVE:251014:260115:0:0959:2259
+{% for name, geom in data.notams_kml['EPZG E3046/25'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}

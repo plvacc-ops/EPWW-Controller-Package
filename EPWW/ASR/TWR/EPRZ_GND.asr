@@ -1,0 +1,68 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\zkarg\OneDrive\Dokumenty\EuroScope\Poland EPWW\EPWW-Sector_20251002184342-251001-0001.sct
+SECTORTITLE:EPWW-Sector_20251002184342-251001-0001.sct
+Free Text:EPRZ GND\08L:freetext
+Free Text:EPRZ GND\08R:freetext
+Free Text:EPRZ GND\26L:freetext
+Free Text:EPRZ GND\26R:freetext
+Free Text:EPRZ GND\A:freetext
+Free Text:EPRZ GND\AEROKLUB:freetext
+Free Text:EPRZ GND\AIR RES:freetext
+Free Text:EPRZ GND\APRON 1:freetext
+Free Text:EPRZ GND\APRON 2:freetext
+Free Text:EPRZ GND\APRON PPH:freetext
+Free Text:EPRZ GND\B:freetext
+Free Text:EPRZ GND\C1:freetext
+Free Text:EPRZ GND\C2:freetext
+Free Text:EPRZ GND\G:freetext
+Free Text:EPRZ GND\GA:freetext
+Free Text:EPRZ GND\H:freetext
+Free Text:EPRZ GND\H1:freetext
+Free Text:EPRZ GND\H2:freetext
+Free Text:EPRZ GND\HANGAR:freetext
+Free Text:EPRZ GND\HANGARS:freetext
+Free Text:EPRZ GND\J:freetext
+Free Text:EPRZ GND\K:freetext
+Free Text:EPRZ GND\L:freetext
+Free Text:EPRZ GND\M:freetext
+Free Text:EPRZ GND\N:freetext
+Free Text:EPRZ GND\OKL:freetext
+Free Text:EPRZ GND\R1:freetext
+Free Text:EPRZ GND\R2:freetext
+Free Text:EPRZ GND\R3:freetext
+Free Text:EPRZ GND\TLOF:freetext
+Free Text:EPRZ GND\TWR:freetext
+Free Text:EPRZ GND\Z:freetext
+Free Text:EPRZ STANDS\1:freetext
+Free Text:EPRZ STANDS\15:freetext
+Free Text:EPRZ STANDS\2:freetext
+Free Text:EPRZ STANDS\21:freetext
+Free Text:EPRZ STANDS\22:freetext
+Free Text:EPRZ STANDS\23:freetext
+Free Text:EPRZ STANDS\24:freetext
+Free Text:EPRZ STANDS\25:freetext
+Free Text:EPRZ STANDS\3:freetext
+Free Text:EPRZ STANDS\4:freetext
+Free Text:EPRZ STANDS\5:freetext
+Free Text:EPRZ STANDS\7:freetext
+Geo:EPRZ Groundlayout:
+Regions:EPRZ Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:10000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:178.80000
+TAGFAMILY:P21-TWR
+WINDOWAREA:50.095979:21.975881:50.125280:22.062631
+PLUGIN:Ground Radar plugin:AirportElevation:693
+PLUGIN:Ground Radar plugin:AirportRadius:2
+PLUGIN:Ground Radar plugin:GroundMode:EPRZ

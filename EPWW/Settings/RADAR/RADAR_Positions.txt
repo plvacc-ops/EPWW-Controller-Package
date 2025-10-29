@@ -71,19 +71,19 @@ ATIS3:Covering EPGD | Pilot briefing and charts on vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
 PROFILE:EPKK_APP:150:5
 ATIS2:Krakow Approach | PDC/DCL [EPKK]
-ATIS3:Covering EPKK, EPKT | Pilot briefing and charts at vats.im/EPWW
+ATIS3:Covering EPKK, EPKT, EPRZ | Pilot briefing and charts at vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
 PROFILE:EPKK_T_APP:150:5
 ATIS2:Krakow Approach | TRAINING SESSION - Trainee | PDC/DCL [EPKK]
-ATIS3:Covering EPKK, EPKT | Pilot briefing and charts at vats.im/EPWW
+ATIS3:Covering EPKK, EPKT, EPRZ | Pilot briefing and charts at vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
 PROFILE:EPKK_X_APP:150:5
 ATIS2:Krakow Approach | TRAINING SESSION - Mentor | PDC/DCL [EPKK]
-ATIS3:Covering EPKK, EPKT | Pilot briefing and charts at vats.im/EPWW
+ATIS3:Covering EPKK, EPKT, EPRZ | Pilot briefing and charts at vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
 PROFILE:EPKK_E_APP:150:5
 ATIS2:Krakow Approach | East Sector | PDC/DCL [EPKK]
-ATIS3:Covering EPKK, EPKT | Pilot briefing and charts at vats.im/EPWW
+ATIS3:Covering EPKK, EPKT, EPRZ | Pilot briefing and charts at vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
 PROFILE:EPKK_KK_APP:150:5
 ATIS2:Krakow Approach | Krakow Director Sector

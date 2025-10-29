@@ -1,60 +1,11 @@
 Setup_AutoSignIn=1
 
-//You can add personal settings here so they won't get overwritten by data updates from GNG.
+System_GUI_Scale_GlobalMenu=1.0
+System_GUI_Scale_Menus=1.3
+System_GUI_Scale_Screen=1.3
 
-//4k-Settings - To activate delete this row and the "/" in following rows
-//System_GUI_Scale_GlobalMenu=1.4
-//System_GUI_Scale_Menus=1.4
-//System_GUI_Scale_Screen=1.4
-//System_GUI_Scale_Tracks=1.5
-//System_GUI_Scale_Windows=1.4
-
-//BEGIN SCALING (change values to your liking) 
-//in the Full Package the default states as stated below are used
-
-//Cursors
-//System_GUI_Scale_Cursors=1
-
-//Global Menu
-//System_GUI_Scale_GlobalMenu=
-
-//Radar Menu
-//System_GUI_Scale_Menus=
-
-//Route Vector
-//System_GUI_Scale_Screen=
-
-//Radar Targets
-//System_GUI_Scale_Tracks=
-
-//Normale Fenster
-//System_GUI_Scale_Windows=
-
-//END SCALING
-
-//Activate RDF
-//RDF_Mode=2
-//RDF_Floor=0
-//RDF_Accuracy_Degrees=0.0
-//RDF_Accuracy=0.0
-
-//Profile for 4K-Screens
-//[_CTR]
-//Window_CPDLC_Current=3,1940,165
-//Window_CARD=3,10,800,400,300
-//Window_VAW=3,10,490,400,300
-//Window_WxMsgs=3,10,280,400,200
-//Window_QNHTL=3,2260,165
-//
-//[_APP]
-//Window_WxMsgs=3,10,280,400,200
-//Window_QNHTL=3,10,490
-//Window_Notepad=3,160,490,250,155
-//
-//[_OBS]
-//Window_Ops=2,10,55,345,300
-//Window_PredTfc=2,365,55,345,300
-//Window_LFUNCFP=2,10,365
-//Window_Notepad=2,160,365,195,145
-//Window_WxMsgs=2,10,520,345,200
-//Window_VAW=2,365,365,345,355
+Window_CARD=1,1530,662,450,277
+Window_VAW=0,1080,662,450,277
+Window_CPDLC_Current=1,1160,868
+Window_CPDLC_Setting=1,60,65
+Window_View=1,0,65

@@ -9,3 +9,14 @@ ZOOM:500
 {% for name, geom in data.epwa_kml['StandLabels'].items() %}
     {{- geom | to_text(name) }}
 {% endfor %}
+
+MAP:Stands Alternate
+AIRPORT:EPWA,EPWW
+FOLDER:Labels
+COLOR:labels-stand
+FONTSIZE:=:10
+ACTIVE:1
+ZOOM:800
+{% for name, geom in data.epwa_kml['StandLabelsZoom'].items() %}
+    {{- geom | to_text(name) }}
+{% endfor %}

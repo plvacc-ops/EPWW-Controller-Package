@@ -1,0 +1,21 @@
+MAP:RWY:A
+AIRPORT:EPKK,EPWW
+FOLDER:APP
+COLOR:runway-app
+ASRDATA:TWR
+ACTIVE:1
+STYLE:Solid:2
+//07-25
+LINE:N050.04.31.429:E019.46.05.138:N050.04.47.251:E019.47.58.769
+
+MAP:RWY CTRLINE:A
+AIRPORT:EPKK,EPWW
+FOLDER:APP
+COLOR:runway-ctrline
+ASRDATA:TWR
+ACTIVE:1
+{{ ecl_dashes(runways['EPKK']['07'], 15) }}
+{{ marker_ticks(runways['EPKK']['07'], [5, 10, 15], -0.5, 1) }}
+
+{{ ecl_dashes(runways['EPKK']['25'], 15) }}
+{{ marker_ticks(runways['EPKK']['25'], [5, 10, 15], -0.5, 1) }}

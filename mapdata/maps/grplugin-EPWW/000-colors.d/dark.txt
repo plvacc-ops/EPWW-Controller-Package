@@ -1,8 +1,10 @@
 COLORDEF:base:20:20:20
 COLORDEF:basectr:5:5:5
 COLORDEF:runway:78:78:78
-COLORDEF:runway-marking:150:150:150
+COLORDEF:runway-marking:176:176:176
 COLORDEF:runway-grass:59:100:59
+COLORDEF:runway-app:248:127:110
+COLORDEF:runway-ctrline:225:250:255
 COLORDEF:apron:40:40:40
 COLORDEF:apron-grass:79:134:79
 COLORDEF:building:90:91:110
