@@ -1,23 +1,23 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-ARTCC boundary:Gdansk TMA OUT:
-ARTCC boundary:Lublin TMA OUT:
-ARTCC boundary:Mazury TMA Out:
-ARTCC boundary:Poznan TMA OUT:
-ARTCC boundary:Radom TMA OUT:
-ARTCC boundary:TMA EPBY OUT:
-ARTCC boundary:TMA EPDE OUT:
-ARTCC boundary:TMA EPGD OUT:
-ARTCC boundary:TMA EPKK OUT:
-ARTCC boundary:TMA EPLB OUT:
-ARTCC boundary:TMA EPLL OUT:
-ARTCC boundary:TMA EPRZ OUT:
-ARTCC boundary:TMA EPSC OUT:
-ARTCC boundary:TMA EPSY OUT:
-ARTCC boundary:TMA EPWA OUT:
-ARTCC boundary:TMA EPZG OUT:
-ARTCC boundary:Warszawa TMA OUT:
+SECTORFILE:C:\PLVACC\LOAD_SECTORFILE.sct
+SECTORTITLE:
+ARTCC boundary:EPBY TMA OUT:
+ARTCC boundary:EPDE MTMA OUT:
+ARTCC boundary:EPGD TMA OUT:
+ARTCC boundary:EPKK TMA OUT:
+ARTCC boundary:EPLB TMA OUT:
+ARTCC boundary:EPLL TMA OUT:
+ARTCC boundary:EPPO TMA N OUT:
+ARTCC boundary:EPPO TMA S OUT:
+ARTCC boundary:EPRA TMA OUT:
+ARTCC boundary:EPRZ TMA OUT:
+ARTCC boundary:EPSC TMA OUT:
+ARTCC boundary:EPSY TMA OUT:
+ARTCC boundary:EPWA TMA OUT:
+ARTCC boundary:EPZG TMA OUT:
+ARTCC high boundary:AoR CTR EPWW Over EPWA:
 ARTCC high boundary:FIR border 0 - EDMM:
 ARTCC high boundary:FIR border 0 - EDWW:
 ARTCC high boundary:FIR border 0 - ESAA:
@@ -29,7 +29,6 @@ ARTCC high boundary:FIR border 0 - UKLV-E:
 ARTCC high boundary:FIR border 0 - UKLV-W:
 ARTCC high boundary:FIR border 0 - UMMV:
 ARTCC high boundary:FIR border EPWW:
-ARTCC low boundary:TMA EPRA OUT:
 Geo:EPWW Coastlines:
 Runways:EPBY 08-26:centerline
 Runways:EPBY 08-26:extended centerline 1

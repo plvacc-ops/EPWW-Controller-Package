@@ -1,23 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\zkarg\OneDrive\Dokumenty\EuroScope\Poland EPWW\EPWW-Sector_20251002184342-251001-0001.sct
-SECTORTITLE:EPWW-Sector_20251002184342-251001-0001.sct
-Free Text:EPZG GND\A:freetext
-Free Text:EPZG GND\E:freetext
-Free Text:EPZG GND\K:freetext
-Free Text:EPZG GND\L:freetext
-Free Text:EPZG STANDS\1:freetext
-Free Text:EPZG STANDS\2:freetext
-Free Text:EPZG STANDS\3:freetext
-Free Text:EPZG STANDS\4:freetext
-Free Text:EPZG STANDS\5:freetext
-Free Text:EPZG STANDS\6:freetext
-Free Text:EPZG STANDS\7:freetext
-Free Text:EPZG STANDS\8:freetext
-Free Text:EPZG STANDS\9:freetext
-Geo:EPZG Groundlayout:
-Regions:EPZG Groundlayout:polygon
+SECTORFILE:C:\PLVACC\LOAD_SECTORFILE.sct
+SECTORTITLE:
 SHOWC:1
 SHOWSB:1
 BELOW:0
