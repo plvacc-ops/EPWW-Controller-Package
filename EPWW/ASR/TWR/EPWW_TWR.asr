@@ -1,6 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:C:\PLVACC\LOAD_SECTORFILE.sct
+SECTORTITLE:
 ARTCC boundary:Gdansk TMA OUT:
 ARTCC boundary:Lublin TMA OUT:
 ARTCC boundary:Mazury TMA Out:
