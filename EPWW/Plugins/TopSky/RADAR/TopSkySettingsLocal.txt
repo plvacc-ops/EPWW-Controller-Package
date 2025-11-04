@@ -1,8 +1,8 @@
 Setup_AutoSignIn=1
 
 System_GUI_Scale_GlobalMenu=1.0
-System_GUI_Scale_Menus=1.3
-System_GUI_Scale_Screen=1.3
+System_GUI_Scale_Menus=1.0
+System_GUI_Scale_Screen=1.0
 
 Window_CARD=1,1530,662,450,277
 Window_VAW=0,1080,662,450,277

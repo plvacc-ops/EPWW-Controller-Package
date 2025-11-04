@@ -6,6 +6,7 @@ Color_Coordination=0,210,0
 Color_Assumed=0,210,0
 Color_Redundant=236,155,90
 Color_Urgency=225,25,26
+
 // Other Colors
 Color_Active_Map_Type_4=182,128,104
 Color_AIW_Intrusion=192,192,192
@@ -178,8 +179,6 @@ MSAW_AppInhibit=1
 MSAW_Filter=1
 MSAW_VFR=0
 
-MTCD_Filter_Dep=3
-
 RDF_Mode=0
 RDF_Floor=-100
 
@@ -188,6 +187,21 @@ RwyAppLines_Length=20
 RwyAppLines_Markers=5
 
 SAP=1
+MTCD=1
+MTCD_Floor=12500
+MTCD_Sep_Lat=5.5
+MTCD_Sep_Vert_U=1600
+MTCD_Sep_Vert_L=700
+MTCD_Filter_Dep=3
+FPCP_4D=1
+FPCP_4D_PathBuffer_Climb=1000
+FPCP_4D_PathBuffer_Climb_Max=1500
+FPCP_4D_PathBuffer_Descent=1000
+FPCP_4D_PathBuffer_Descent_Max=1500
+FPCP_PredictionTime=10
+
+Vector_Label_Position=0
+Vector_AHDG_Label_Time=1
 
 SafetyNets_Inhibit_SSR=0002
 
@@ -196,12 +210,12 @@ Shortcut_RadarMenu_Combo=0x00
 //STCA
 STCA=1
 STCA_AlertSound=1
-STCA_Coarse_Sep_Vert_L=1000
-STCA_Coarse_Sep_Vert_U=1000
-STCA_CurrProx_Sep_Vert_L=800
-STCA_CurrProx_Sep_Vert_U=800
-STCA_FastDiv_Sep_Vert_L=650
-STCA_FastDiv_Sep_Vert_U=650
+STCA_Coarse_Sep_Vert_L=700
+STCA_Coarse_Sep_Vert_U=700
+STCA_CurrProx_Sep_Vert_L=700
+STCA_CurrProx_Sep_Vert_U=700
+STCA_FastDiv_Sep_Vert_L=700
+STCA_FastDiv_Sep_Vert_U=700
 STCA_Filter=1
 STCA_Floor=2500
 STCA_Inhibit_ActiveAreas=1
@@ -265,3 +279,19 @@ WXR_Latitude=52
 WXR_Longitude_Max=25
 WXR_Longitude_Min=13
 WXR_Longitude=19
+
+//Map loading
+
+Setup_LoadMap=TMA BYDGOSZCZ\TMA FIXES
+Setup_LoadMap=TMA GDANSK\TMA FIXES
+Setup_LoadMap=TMA KRAKOW\TMA FIXES
+Setup_LoadMap=TMA LODZ\TMA FIXES
+Setup_LoadMap=TMA LUBLIN\TMA FIXES
+Setup_LoadMap=TMA MAZURY\TMA FIXES
+Setup_LoadMap=TMA POZNAN N\TMA FIXES
+Setup_LoadMap=TMA POZNAN S\TMA FIXES
+Setup_LoadMap=TMA RADOM\TMA FIXES
+Setup_LoadMap=TMA RZESZOW\TMA FIXES
+Setup_LoadMap=TMA SZCZECIN\TMA FIXES
+Setup_LoadMap=TMA WARSZAWA\TMA FIXES
+Setup_LoadMap=TMA ZIELONA GORA\TMA FIXES

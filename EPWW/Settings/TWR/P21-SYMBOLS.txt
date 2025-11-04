@@ -63,19 +63,19 @@ Metar:modified:8491516:3.5:0:0:7
 Metar:timeout:16777215:3.5:0:0:7
 Other:wait:16777215:3.5:0:0:7
 Other:distance line:9811412:3.5:0:0:7
-Other:distance values:9811412:4.5:0:0:7
+Other:distance values:9811412:4.0:0:0:7
 Other:distance annotation:65535:3.5:0:0:7
 Other:separation leader:7500402:3.5:0:3:7
 Other:separation leader2:16777215:3.5:0:1:7
 Other:find:16777215:3.5:0:5:7
-Other:valid airway:65408:3.5:0:1:7
+Other:valid airway:53760:3.5:0:0:7
 Other:bad direction airway:255:3.5:0:1:7
 Other:unconnected airway:16711680:3.5:0:1:7
-Other:direct no airway:16776960:3.5:0:1:7
+Other:direct no airway:13816320:3.5:0:0:7
 Other:free of conflict:65280:3.5:0:2:7
 Other:conflict warning:65535:3.5:0:2:7
 Other:conflict detected:8421631:3.5:0:2:7
-Other:route annotation:40704:3.1:0:2:0
+Other:route annotation:53760:3.1:0:2:0
 Other:freetext:12632256:3.7:0:1:7
 Other:range rings:12566272:4.0:0:0:2
 Other:off antenna range rings:255:5.0:0:0:2
@@ -86,7 +86,7 @@ Other:predefined taxi line:65280:5.0:0:3:2
 Other:terminal taxi line:255:5.0:0:3:2
 Other:list title bar:16777215:0.0:0:0:7
 Other:list header:15263976:3.5:0:0:7
-Other:normal menu item:13619151:3.5:0:0:7
+Other:normal menu item:16777215:3.5:0:0:7
 Other:disabled menu item:8421504:3.5:0:0:7
 Transitions:transition grid:5263440:3.0:0:0:7
 Chat:text:16777215:3.5:0:0:7
