@@ -427,8 +427,13 @@ Window_APP=1,1,1469,505,450,450
 Window_APP_Extensions=10
 
 [EPWW]
+Airport_Elevation=1010
+Airport_Radius=100.0
+Airport_Refpoint=N051.16.17.786:E020.47.19.719
 Airport_LVP=0
 Window_APP_Extensions=10
 Window_APP_CenterPos=1,N052.06.51.621,E019.25.25.220
 Window_APP_Scale=1
 GroundLabel_Filter_Stby=0
+Airport_SMR_Raw=2
+Airport_SMR_Track=2
