@@ -12,10 +12,10 @@ m_Column:R:2:1:80:32:0:1::::1:0.0
 m_Column:ATYP:5:1:16:0:0:1::::1:0.0
 m_Column:R:1:1:63:0:0:1::::1:0.0
 m_Column:ADEP:4:1:61:7:7:1::::1:0.0
-m_Column:EOBT:5:1:1:100:0:0:CDM Plugin:CDM Plugin::1:0.0
+m_Column:EOBT:5:1:1:100:0:1:CDM Plugin:CDM Plugin::1:0.0
 m_Column:CTOT:5:1:10:108:0:1:CDM Plugin:CDM Plugin::1:0.0
 m_Column:RWY:3:1:47:19:0:1::::8:0.0
-m_Column:SID:6:0:56:17:0:1::::1:0.0
+m_Column:SID:7:0:56:17:0:1::::1:0.0
 m_Column:ADES:5:1:17:7:7:1::::1:0.0
 m_Column:CFL:4:1:20:11:100:1:::Initial Climb:1:0.0
 m_Column:X:1:1:1:11:100:0:Initial Climb::Initial Climb:1:0.0

@@ -6,11 +6,12 @@ Color_Coordination=0,210,0
 Color_Assumed=0,210,0
 Color_Redundant=236,155,90
 Color_Urgency=225,25,26
+
 // Other Colors
 Color_Active_Map_Type_4=182,128,104
 Color_AIW_Intrusion=192,192,192
 Color_Arm=170,170,170
-Color_Background=100,100,100
+Color_Background=24,24,24
 Color_Border=128,128,128
 Color_BottomShadow=70,70,70
 Color_CARD_Mark_All=212,128,44

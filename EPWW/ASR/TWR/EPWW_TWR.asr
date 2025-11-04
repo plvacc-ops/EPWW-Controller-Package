@@ -17,7 +17,6 @@ ARTCC boundary:EPSC TMA OUT:
 ARTCC boundary:EPSY TMA OUT:
 ARTCC boundary:EPWA TMA OUT:
 ARTCC boundary:EPZG TMA OUT:
-ARTCC high boundary:AoR CTR EPWW Over EPWA:
 ARTCC high boundary:FIR border 0 - EDMM:
 ARTCC high boundary:FIR border 0 - EDWW:
 ARTCC high boundary:FIR border 0 - ESAA:
@@ -29,7 +28,34 @@ ARTCC high boundary:FIR border 0 - UKLV-E:
 ARTCC high boundary:FIR border 0 - UKLV-W:
 ARTCC high boundary:FIR border 0 - UMMV:
 ARTCC high boundary:FIR border EPWW:
+Free Text:SCT2\A007/GND:freetext
+Free Text:SCT2\A010/GND:freetext
+Free Text:SCT2\A013/GND:freetext
+Free Text:SCT2\A015/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A037/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A045/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A053/GND:freetext
+Free Text:SCT2\A061/GND:freetext
+Free Text:SCT2\A064/GND:freetext
+Free Text:SCT2\A065/GND:freetext
+Free Text:SCT2\A075/GND:freetext
+Free Text:SCT2\F085/GND:freetext
+Free Text:SCT2\F090/GND:freetext
+Free Text:SCT2\F095/GND:freetext
+Free Text:SCT2\F115/GND:freetext
+Free Text:SCT2\F165/GND:freetext
+Free Text:SCT2\F410/F165:freetext
+Free Text:SCT2\F660/F410:freetext
 Geo:EPWW Coastlines:
+Geo:EPWW Prohibited area:
+Geo:EPWW Restricted area:
 Runways:EPBY 08-26:centerline
 Runways:EPBY 08-26:extended centerline 1
 Runways:EPBY 08-26:extended centerline 1 left ticks
