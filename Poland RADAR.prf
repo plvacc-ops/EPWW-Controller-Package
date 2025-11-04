@@ -2,7 +2,7 @@ ASRFastKeys	1	\EPWW\ASR\EPWW.asr
 ASRFastKeys	2	\EPWW\ASR\EPWW_GND.asr
 ASRFastKeys	3	\EPWW\ASR\EPWW_TWR.asr
 RecentFiles	Recent1	\EPWW\ASR\EPWW.asr
-Plugins	Plugin0	\EPWW\Plugins\EuroScopeTrails.dll
+Plugins	Plugin0	\EPWW\Plugins\ESTrails\EuroScopeTrails.dll
 Plugins	Plugin0Display0	Ground Radar display
 Plugins	Plugin0Display1	Standard ES radar screen
 Plugins	Plugin1	\EPWW\Plugins\AFV\AfvEuroScopeBridge.dll
