@@ -127,6 +127,8 @@
 ..toawa Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Zblizanie na 128.805, do uslyszenia.
 .toakk Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Krakow Approach on 121.075, bye bye.
 ..toakk Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Krakow Zblizanie na 121.075, do uslyszenia.
+.toakke Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Krakow Approach on 126.975, bye bye.
+..toakke Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Krakow Zblizanie na 126.975, do uslyszenia.
 .toagd Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Gdansk Approach on 127.280, bye bye.
 ..toagd Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Gdansk Zblizanie na 127.280, do uslyszenia.
 .toepww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 125.450, bye bye.
