@@ -77,6 +77,8 @@
 ..tobt Prosze ustawic swoj TOBT na https://vats.im/EPWA-ACDM
 .tsat You can find your current TSAT at https://vats.im/EPWA-ACDM
 ..tsat Mozecie sprawdzic swoj aktualny TSAT na https://vats.im/EPWA-ACDM
+.vdgs Please set your TOBT at https://vats.im/vdgs
+..vdgs Prosze ustawic swoj TOBT na https://vats.im/vdgs
 
 ;*** - GROUND - ***
 .ps Pushback and startup approved, QNH $altim($dep).
@@ -133,10 +135,10 @@
 ..toagd Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Gdansk Zblizanie na 127.280, do uslyszenia.
 .toepww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 125.450, bye bye.
 ..toepww Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 125.450, do uslyszenia.
-.tojww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 127.660, bye bye.
-..tojww Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 127.660, do uslyszenia
-.tonww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 130.625, bye bye.
-..tonww Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 130.625, do uslyszenia.
+.tojww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 124.625, bye bye.
+..tojww Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 124.625, do uslyszenia
+.tonww Wind is $wind($dep), runway $deprwy, cleared for takeoff, after departure contact Warszawa Radar on 132.700, bye bye.
+..tonww Wiatr $wind, pas $deprwy, zezwalam startowac, po odlocie nawiaz lacznosc z Warszawa Radar na 132.700, do uslyszenia.
 .land Wind $wind, runway $arrrwy, cleared to land.
 ..land Wiatr $wind, pas $arrrwy, zezwalam ladowac.
 .ga GO AROUND, I say again, Go Around.

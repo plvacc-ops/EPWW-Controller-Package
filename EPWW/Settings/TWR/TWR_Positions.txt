@@ -121,8 +121,8 @@ ATIS2:Okecie Ground | *CDM is in use* | PDC/DCL [EPWA]
 ATIS3:Pilot briefing and charts on vats.im/epwa
 ATIS4:Submit your TOBT and check your slot at vats.im/EPWA-ACDM
 PROFILE:EPWA_TWR:30:4
-ATIS2:Okecie Tower | PDC/DCL [EPWA]
-ATIS3:Pilot briefing and charts on vats.im/epwa
+ATIS2:Okecie Tower | *CDM is in use* | PDC/DCL [EPWA]
+ATIS3:Pilot briefing and charts on vats.im/epwa | Submit your TOBT at vats.im/EPWA-ACDM
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPWA_T_TWR:30:4
 ATIS2:Okecie Tower | TRAINING SESSION - Trainee | PDC/DCL [EPWA]
