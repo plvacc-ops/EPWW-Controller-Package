@@ -1,5 +1,5 @@
-MAP:Base
-AIRPORT:EPLL,EPWW
+MAP:CTR
+AIRPORT:EPLL
 FOLDER:Airport Layout
 ACTIVE:1
 COLOR:basectr
@@ -16,6 +16,10 @@ COORD:N051.39.46.000:E019.09.51.000
 COORD:N051.38.30.000:E019.16.18.000
 COORD:N051.38.01.000:E019.17.35.000
 
+MAP:Base
+AIRPORT:EPLL,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
 {% for name, geom in data.epll_kml['Base'].items() %}
     {{- geom | to_poly(name, 'base') }}
 {% endfor %}

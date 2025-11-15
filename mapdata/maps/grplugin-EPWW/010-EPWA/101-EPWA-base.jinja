@@ -1,5 +1,5 @@
-MAP:Base
-AIRPORT:EPWA,EPWW
+MAP:CTR
+AIRPORT:EPWA
 FOLDER:Airport Layout
 ACTIVE:1
 COLOR:basectr
@@ -34,6 +34,10 @@ COORD:N052.15.47.000:E020.50.10.000
 COORD:N052.15.47.000:E020.50.10.000
 COORD:N052.15.47.000:E020.52.43.000
 
+MAP:Base
+AIRPORT:EPWA,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
 {% for name, geom in data.epwa_kml['Base'].items() %}
     {{- geom | to_poly(name, 'baseepwa') }}
 {% endfor %}

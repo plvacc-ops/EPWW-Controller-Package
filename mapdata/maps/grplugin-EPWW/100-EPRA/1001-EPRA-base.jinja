@@ -1,5 +1,5 @@
-MAP:Base
-AIRPORT:EPRA,EPWW
+MAP:CTR
+AIRPORT:EPRA
 FOLDER:Airport Layout
 ACTIVE:1
 COLOR:basectr
@@ -21,6 +21,10 @@ COORD:N051.25.58.000:E021.02.43.000
 COORD:N051.25.58.000:E021.02.43.000
 COORD:N051.31.11.000:E021.22.49.000
 
+MAP:Base
+AIRPORT:EPRA,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
 {% for name, geom in data.epra_kml['Base'].items() %}
     {{- geom | to_poly(name, 'base') }}
 {% endfor %}

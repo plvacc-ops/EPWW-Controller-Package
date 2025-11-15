@@ -1,3 +1,14 @@
+MAP:TWY C1 CLOSURE
+AIRPORT:EPBY,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:250220:260121:0:0000:2359
+{% for name, geom in data.notams_kml['EPBY SUP 18/25'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
 MAP:TWY C CLOSURE
 AIRPORT:EPLB,EPWW
 FOLDER:NOTAMS
@@ -9,6 +20,17 @@ ACTIVE:250901:251201:0:0958:2359
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
+MAP:APN GA4 CLOSURE
+AIRPORT:EPMO,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:250123:251231:0:0000:2359
+{% for name, geom in data.notams_kml['EPMO SUP 01/25'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
 MAP:TWY A5 AND S CLOSURE
 AIRPORT:EPRA,EPWW
 FOLDER:NOTAMS
@@ -17,6 +39,17 @@ COORDTYPE:TWYCLOSED:REGION
 FONTSIZE:=:15
 ACTIVE:250908:251201:0:0607:2359
 {% for name, geom in data.notams_kml['EPRA H2372/25'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:CONSTRUCTION TWY E, F, R4, R5
+AIRPORT:EPRZ,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:250515:260815:0:0000:2359
+{% for name, geom in data.notams_kml['EPRZ SUP 56/25'].items() %}
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
@@ -38,7 +71,7 @@ COLOR:closure
 COORDTYPE:TWYCLOSED:REGION
 BLOCKS:EPWA:53,53B,54,54A,54B
 FONTSIZE:=:15
-ACTIVE:251030:270130:0:0000:2359
+ACTIVE:251030:270131:0:0000:2359
 {% for name, geom in data.notams_kml['EPWA SUP 131/25'].items() %}
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
@@ -51,6 +84,28 @@ COORDTYPE:TWYCLOSED:REGION
 FONTSIZE:=:15
 ACTIVE:250922:251128:0:0645:2159
 {% for name, geom in data.notams_kml['EPWR H2568/25'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:CONSTRUCTION WORKS
+AIRPORT:EPWR,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:251205:251230:0:0000:2359
+{% for name, geom in data.notams_kml['EPWR SUP 137/25'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:CONSTRUCTION WORKS
+AIRPORT:EPWR,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:251231:261231:0:0000:2359
+{% for name, geom in data.notams_kml['EPWR SUP 138/25'].items() %}
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 

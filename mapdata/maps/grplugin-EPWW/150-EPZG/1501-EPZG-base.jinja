@@ -1,5 +1,5 @@
-MAP:Base
-AIRPORT:EPZG,EPWW
+MAP:CTR
+AIRPORT:EPZG
 FOLDER:Airport Layout
 ACTIVE:1
 COLOR:basectr
@@ -267,6 +267,10 @@ COORD:N052.09.01.000:E015.58.08.000
 COORD:N052.11.13.000:E016.01.26.000
 COORD:N052.14.26.000:E015.59.26.000
 
+MAP:Base
+AIRPORT:EPZG,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
 {% for name, geom in data.epzg_kml['Base'].items() %}
     {{- geom | to_poly(name, 'base') }}
 {% endfor %}
