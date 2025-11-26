@@ -185,7 +185,7 @@
 .qnh QNH $altim($arr)
 ..qnh QNH $altim($arr)
 .nair You are not in my airspace. Please check our map at https://plvacc.pl/
-..nair Nie jestes w mojej przestrzeni. Proszę sprawdzić naszą mapę na https://plvacc.pl/
+..nair Nie jestes w mojej przestrzeni. Prosze sprawdzic nasza mapę na https://plvacc.pl/
 
 ;-- ROUTE AND HEADING --
 .rh Turn right heading $1.
@@ -347,11 +347,12 @@
 .wallcoc .wallop Hello, $aircraft unable to comply with ATC instructions (CoC B8)
 .wallnocont .wallop Hello, $aircraft not in contact with anyone and ignoring contact me messages (CoC B3), first contact me sent at $1
 .wallemer .wallop Hello, $aircraft not cancelling their emergency despite having been instructed to do so (CoC B6)
+.walltext .wallop Hello, $aircraft is using text instead of voice communication, abusing Text/Receive Only permissions (CoC A14)
 .helpnewbie .msg $aircraft You seem to be new to VATSIM. First of all: Welcome! It might be tempting to jump straight in and start flying, but we suggest you read through some documentation first in order to prepare yourself for the situations you will encounter on the network. You can find a lot of helpful information at https://my.vatsim.net/learn.
-.helbrief .msg $aircraft You can find charts, pilot briefings and recommended sceneries for airports in Poland at https://vats.im/EPWW
+.helpbrief .msg $aircraft You can find charts, pilot briefings and recommended sceneries for airports in Poland at https://vats.im/EPWW
 .helpiata .msg $aircraft You seem to be logged in with the 2-letter IATA code for your airline. On VATSIM (and in the real world), we use the 3-letter ICAO codes. Please change your callsign accordingly and don't forget that you will have to refile your flight plan with the correct callsign as well. Otherwise, ATC might not recognize your callsign
 .helpscenery .msg $aircraft Seems like you're using outdated scenery, I suggest checking https://vats.im/EPWW, where you'll find links to free and up to date sceneries (and charts) both for MSFS and X-Plane.
-..helpscenery .msg $aircraft Wyglada na to, ze masz nieaktualna scenerie, sugeruję sprawdzić https://vats.im/EPWW, znajdziesz tam darmowe i aktualne scenerie (i mapy) dla MSFS i X-Plane.
+..helpscenery .msg $aircraft Wyglada na to, ze masz nieaktualna scenerie, sugeruje sprawdzic https://vats.im/EPWW, znajdziesz tam darmowe i aktualne scenerie (i mapy) dla MSFS i X-Plane.
 .helpsid .msg $aircraft Your flight plan is starting with incorrect waypoint as it is outdated TMA exit point. Unfortunately, Simbrief still proposes this outdated route. Check up-to-date SID charts and file a correct waypoint. 
 ..helpsid .msg $aircraft Twoj plan lotu zaczyna sie niepoprawnym punktem, to stary punkt wylotowy z TMA. Niestety Simbrief wciaz sugeruje nieaktualna trase. Sprawdz aktualne mapy procedur SID i zloz plan lotu z poprawnym punktem. 
 .helpvacate .msg $aircraft Seems that the tail of your aircraft has not crossed the runway stopbar yet. Please taxi forward and make sure the entire aircraft has left the runway to avoid go-arounds of other traffic.
@@ -360,6 +361,10 @@
 .helpsimbrief If You for some reason don't understand flight planning or are unable to file a valid route please at least try to use freeware flight planner such as SimBrief at https://www.simbrief.com/home/.
 .helpnopush You are on remote stand that don't require pushback, only start-up. After start-up you can just taxi out of your stand. 
 ..helpnopush Znajdujesz sie na stanowisku oddalonym, ktore nie wymaga wypychania, jedynie uruchamiania. Po uruchomieniu mozesz wykolowac ze stanowiska.
+.helptext Voice is the preferred method of communication on VATSIM. Ability to at least receive voice communication is now required, unless you have qualifying disabilities. Are you able to receive voice?
+..helptext Glos jest preferowana metoda komunikacji na VATSIM. Umiejetnosc co najmniej odbierania transmisji glosowych jest teraz wymagana, z wyjatkiem uzasadnionych przyczyn medycznych. Jesteś w stanie odbierac komunikaty glosowe?
+.v Voice is the preferred method of communication on VATSIM. Ability to at least receive voice communication is now required, unless you have qualifying disabilities. Are you able to receive voice?
+..v Glos jest preferowana metoda komunikacji na VATSIM. Umiejetnosc co najmniej odbierania transmisji glosowych jest teraz wymagana, z wyjatkiem uzasadnionych przyczyn medycznych. Jesteś w stanie odbierac komunikaty glosowe?
 .ch .chat $aircraft
 .with Are you with me, on the frequency?
 .hmic Please check your microphone, you're still trasmitting

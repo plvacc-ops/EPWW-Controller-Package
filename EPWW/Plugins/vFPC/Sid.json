@@ -1,0 +1,1079 @@
+[
+   {
+      "icao": "EPBY",
+      "sids": {
+         "GOBNI": [
+            {
+               "suffix": "1A",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1B",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1H",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1G",
+               "direction": "ODD",
+               "min_fl": 100
+            }
+         ],
+         "INTUN": [
+            {
+               "suffix": "1A",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1B",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1H",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1G",
+               "direction": "ODD",
+               "min_fl": 100
+            }
+         ],
+         "LUXUD": [
+            {
+               "suffix": "1A",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1B",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1H",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1G",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPGD",
+      "sids": {
+         "VAPOS": [
+            {
+               "suffix": "3B",
+               "direction": "ANY",
+               "min_fl": 120
+            },
+            {
+               "suffix": "2H",
+               "direction": "ANY",
+               "min_fl": 110
+            }
+         ],
+         "VIZAN": [
+            {
+               "suffix": "2B",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "2H",
+               "direction": "ANY"
+            }
+         ],
+         "DEXIR": [
+            {
+               "suffix": "3B",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "3H",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ],
+         "IRLUN": [
+            {
+               "suffix": "3B",
+               "direction": "ANY",
+               "min_fl": 130
+            },
+            {
+               "suffix": "3H",
+               "direction": "ANY",
+               "min_fl": 130
+            }
+         ],
+         "NIKMI": [
+            {
+               "suffix": "3B",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "2H",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPKK",
+      "sids": {
+         "ADADO": [
+            {
+               "suffix": "1F",
+               "direction": "EVEN",
+               "min_fl": 180
+            },
+            {
+               "suffix": "1J",
+               "direction": "EVEN",
+               "min_fl": 160
+            }
+         ],
+         "BABKO": [
+            {
+               "suffix": "4F",
+               "direction": "ANY",
+               "min_fl": 90
+            },
+            {
+               "suffix": "5J",
+               "direction": "ANY"
+            }
+         ],
+         "LUMVE": [
+            {
+               "suffix": "2F",
+               "direction": "EVEN",
+               "min_fl": 230
+            },
+            {
+               "suffix": "2J",
+               "direction": "EVEN",
+               "min_fl": 220
+            }
+         ],
+         "LUXAR": [
+            {
+               "suffix": "4F",
+               "direction": "ODD"
+            },
+            {
+               "suffix": "5J",
+               "direction": "ODD",
+               "min_fl": 90
+            }
+         ],
+         "NAVUR": [
+            {
+               "suffix": "5F",
+               "direction": "ANY",
+               "min_fl": 170
+            },
+            {
+               "suffix": "6J",
+               "direction": "ANY",
+               "min_fl": 170
+            }
+         ],
+         "OMFOL": [
+            {
+               "suffix": "2F",
+               "direction": "EVEN",
+               "min_fl": 230
+            },
+            {
+               "suffix": "1J",
+               "direction": "EVEN",
+               "min_fl": 200
+            }
+         ],
+         "POBOK": [
+            {
+               "suffix": "4F",
+               "direction": "ANY"
+            },
+            {
+               "suffix": "5J",
+               "direction": "ANY",
+               "min_fl": 110
+            }
+         ],
+         "REGTO": [
+            {
+               "suffix": "4F",
+               "direction": "ANY",
+               "min_fl": 180
+            },
+            {
+               "suffix": "7J",
+               "direction": "ANY",
+               "min_fl": 120
+            }
+         ],
+         "TUSIN": [
+            {
+               "suffix": "4F",
+               "direction": "ANY",
+               "min_fl": 180
+            },
+            {
+               "suffix": "5J",
+               "direction": "ANY",
+               "min_fl": 150
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPKT",
+      "sids": {
+         "ADADO": [
+            {
+               "suffix": "1L",
+               "direction": "EVEN",
+               "min_fl": 140
+            },
+            {
+               "suffix": "1M",
+               "direction": "EVEN"
+            }
+         ],
+         "BABKO": [
+            {
+               "suffix": "4L",
+               "direction": "ANY"
+            },
+            {
+               "suffix": "5M",
+               "direction": "ANY",
+               "min_fl": 110
+            }
+         ],
+         "LUMVE": [
+            {
+               "suffix": "1L",
+               "direction": "EVEN",
+               "min_fl": 240
+            },
+            {
+               "suffix": "2M",
+               "direction": "EVEN"
+            }
+         ],
+         "LUXAR": [
+            {
+               "suffix": "5L",
+               "direction": "ODD",
+               "min_fl": 120
+            },
+            {
+               "suffix": "6M",
+               "direction": "ODD",
+               "min_fl": 210
+            }
+         ],
+         "NAVUR": [
+            {
+               "suffix": "4L",
+               "direction": "ANY"
+            },
+            {
+               "suffix": "4M",
+               "direction": "ANY",
+               "min_fl": 120
+            }
+         ],
+         "OMFOL": [
+            {
+               "suffix": "1L",
+               "direction": "EVEN",
+               "min_fl": 140
+            },
+            {
+               "suffix": "1M",
+               "direction": "EVEN"
+            }
+         ],
+         "KURON": [
+            {
+               "suffix": "4L",
+               "direction": "ANY",
+               "min_fl": 120
+            },
+            {
+               "suffix": "5M",
+               "direction": "ANY",
+               "min_fl": 170
+            }
+         ],
+         "REGTO": [
+            {
+               "suffix": "3L",
+               "direction": "ANY",
+               "min_fl": 250
+            },
+            {
+               "suffix": "4M",
+               "direction": "ANY",
+               "min_fl": 220
+            }
+         ],
+         "TUSIN": [
+            {
+               "suffix": "4L",
+               "direction": "ANY",
+               "min_fl": 180
+            },
+            {
+               "suffix": "4M",
+               "direction": "ANY",
+               "min_fl": 150
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPLB",
+      "sids": {
+         "ARGIX": [
+            {
+               "suffix": "1D",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1F",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1J",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ],
+         "LIBGA": [
+            {
+               "suffix": "1F",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ],
+         "LIGBA": [
+            {
+               "suffix": "1J",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ],
+         "USEGI": [
+            {
+               "suffix": "1F",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1J",
+               "direction": "ODD",
+               "min_fl": 100
+            }
+         ],
+         "VADOL": [
+            {
+               "suffix": "1F",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1J",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1R",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1U",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPLL",
+      "sids": {
+         "ADOXO": [
+            {
+               "suffix": "1E",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "2W",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ],
+         "AGAVA": [
+            {
+               "suffix": "1E",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1W",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ],
+         "BAXIS": [
+            {
+               "suffix": "1E",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "2W",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ],
+         "UTOLU": [
+            {
+               "suffix": "1E",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "2W",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ],
+         "VIDEV": [
+            {
+               "suffix": "1E",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "2W",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPMO",
+      "sids": {
+         "BAMSO": [
+            {
+               "suffix": "3C",
+               "direction": "ODD"
+            },
+            {
+               "suffix": "3J",
+               "direction": "ODD"
+            }
+         ],
+         "EVINA": [
+            {
+               "suffix": "3C",
+               "direction": "ANY"
+            },
+            {
+               "suffix": "3J",
+               "direction": "ANY"
+            }
+         ],
+         "LOLSI": [
+            {
+               "suffix": "3C",
+               "direction": "EVEN"
+            },
+            {
+               "suffix": "3J",
+               "direction": "EVEN"
+            }
+         ],
+         "OLILA": [
+            {
+               "suffix": "4C",
+               "direction": "ANY"
+            },
+            {
+               "suffix": "4J",
+               "direction": "ANY"
+            }
+         ],
+         "SOXER": [
+            {
+               "suffix": "3C",
+               "direction": "EVEN"
+            },
+            {
+               "suffix": "3J",
+               "direction": "EVEN"
+            }
+         ],
+         "XIMBA": [
+            {
+               "suffix": "3C",
+               "direction": "ODD"
+            },
+            {
+               "suffix": "3J",
+               "direction": "ODD"
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPPO",
+      "sids": {
+         "DEKUT": [
+            {
+               "suffix": "1H",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1B",
+               "direction": "ANY",
+               "min_fl": 180
+            }
+         ],
+         "ELSUP": [
+            {
+               "suffix": "1H",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1B",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ],
+         "ERNOX": [
+            {
+               "suffix": "1H",
+               "direction": "EVEN",
+               "min_fl": 150
+            },
+            {
+               "suffix": "1B",
+               "direction": "EVEN",
+               "min_fl": 130
+            }
+         ],
+         "OBOKU": [
+            {
+               "suffix": "1H",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1B",
+               "direction": "ODD",
+               "min_fl": 100
+            }
+         ],
+         "XERBI": [
+            {
+               "suffix": "1H",
+               "direction": "EVEN",
+               "min_fl": 180
+            },
+            {
+               "suffix": "1B",
+               "direction": "EVEN",
+               "min_fl": 150
+            }
+         ],
+         "XIDNA": [
+            {
+               "suffix": "1H",
+               "direction": "ANY",
+               "min_fl": 150
+            },
+            {
+               "suffix": "1B",
+               "direction": "ANY",
+               "min_fl": 130
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPRA",
+      "sids": {
+         "BAMSO": [
+            {
+               "suffix": "1B",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1F",
+               "direction": "ODD",
+               "min_fl": 100
+            }
+         ],
+         "OLILA": [
+            {
+               "suffix": "1B",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1F",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ],
+         "POLON": [
+            {
+               "suffix": "1B",
+               "direction": "EVEN",
+               "min_fl": 160
+            },
+            {
+               "suffix": "1F",
+               "direction": "EVEN",
+               "min_fl": 160
+            }
+         ],
+         "RUXOM": [
+            {
+               "suffix": "1B",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1F",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ],
+         "VENES": [
+            {
+               "suffix": "1B",
+               "direction": "ODD",
+               "min_fl": 140
+            },
+            {
+               "suffix": "1K",
+               "direction": "ODD",
+               "min_fl": 140
+            },
+            {
+               "suffix": "1F",
+               "direction": "ODD",
+               "min_fl": 140
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPRZ",
+      "sids": {
+         "DIBED": [
+            {
+               "suffix": "2P",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "2R",
+               "direction": "ODD",
+               "min_fl": 100
+            }
+         ],
+         "ETITI": [
+            {
+               "suffix": "2P",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "2R",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ],
+         "GOVRI": [
+            {
+               "suffix": "2E",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "2P",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "2R",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ],
+         "LUMEQ": [
+            {
+               "suffix": "1P",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1R",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ],
+         "LUXAR": [
+            {
+               "suffix": "2P",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "2R",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ],
+         "VELAX": [
+            {
+               "suffix": "2P",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "2R",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPSC",
+      "sids": {
+         "APNEZ": [
+            {
+               "suffix": "1D",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1E",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1F",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ],
+         "BINKA": [
+            {
+               "suffix": "1D",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1F",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ],
+         "NEHIM": [
+            {
+               "suffix": "1D",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1F",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ],
+         "PESEL": [
+            {
+               "suffix": "1D",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1F",
+               "direction": "EVEN",
+               "min_fl": 100
+            }
+         ],
+         "UNVOX": [
+            {
+               "suffix": "1D",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1F",
+               "direction": "ODD",
+               "min_fl": 100
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPSY",
+      "sids": {
+         "LUSUL": [
+            {
+               "suffix": "1S",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1W",
+               "direction": "ODD",
+               "min_fl": 100
+            }
+         ],
+         "NIVON": [
+            {
+               "suffix": "1S",
+               "direction": "EVEN",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1W",
+               "direction": "EVEN",
+               "min_fl": 90
+            }
+         ],
+         "UDROV": [
+            {
+               "suffix": "1S",
+               "direction": "ANY",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1W",
+               "direction": "ANY",
+               "min_fl": 90
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPWA",
+      "sids": {
+         "BAMSO": [
+            {
+               "suffix": "6A",
+               "direction": "ODD"
+            },
+            {
+               "suffix": "6D",
+               "direction": "ODD"
+            },
+            {
+               "suffix": "6G",
+               "direction": "ODD"
+            },
+            {
+               "suffix": "5K",
+               "direction": "ODD"
+            }
+         ],
+         "EVINA": [
+            {
+               "suffix": "5A",
+               "direction": "ANY",
+               "min_fl": 180
+            },
+            {
+               "suffix": "5D",
+               "direction": "ANY",
+               "min_fl": 180
+            },
+            {
+               "suffix": "7G",
+               "direction": "ANY",
+               "min_fl": 180
+            },
+            {
+               "suffix": "4K",
+               "direction": "ANY",
+               "min_fl": 180
+            }
+         ],
+         "LOLSI": [
+            {
+               "suffix": "6A",
+               "direction": "EVEN"
+            },
+            {
+               "suffix": "6D",
+               "direction": "EVEN"
+            },
+            {
+               "suffix": "7G",
+               "direction": "EVEN"
+            },
+            {
+               "suffix": "5K",
+               "direction": "EVEN"
+            }
+         ],
+         "OLILA": [
+            {
+               "suffix": "6A",
+               "direction": "ANY"
+            },
+            {
+               "suffix": "5D",
+               "direction": "ANY"
+            },
+            {
+               "suffix": "6G",
+               "direction": "ANY"
+            },
+            {
+               "suffix": "5K",
+               "direction": "ANY"
+            }
+         ],
+         "SOXER": [
+            {
+               "suffix": "6A",
+               "direction": "EVEN"
+            },
+            {
+               "suffix": "6D",
+               "direction": "EVEN"
+            },
+            {
+               "suffix": "7G",
+               "direction": "EVEN"
+            },
+            {
+               "suffix": "5K",
+               "direction": "EVEN"
+            }
+         ],
+         "XIMBA": [
+            {
+               "suffix": "5A",
+               "direction": "ODD"
+            },
+            {
+               "suffix": "6D",
+               "direction": "ODD"
+            },
+            {
+               "suffix": "8G",
+               "direction": "ODD",
+               "min_fl": 150
+            },
+            {
+               "suffix": "5K",
+               "direction": "ODD",
+               "min_fl": 150
+            }
+         ]
+      }
+   },
+   {
+      "icao": "EPWR",
+      "sids": {
+         "LUNUK": [
+            {
+               "suffix": "1A",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1K",
+               "direction": "ODD",
+               "min_fl": 130
+            }
+         ],
+         "MOFKE": [
+            {
+               "suffix": "1A",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1K",
+               "direction": "ODD",
+               "min_fl": 130
+            }
+         ],
+         "PEKOT": [
+            {
+               "suffix": "1A",
+               "direction": "ODD",
+               "min_fl": 100
+            },
+            {
+               "suffix": "1K",
+               "direction": "ODD",
+               "min_fl": 130
+            }
+         ],
+         "ULGIL": [
+            {
+               "suffix": "2A",
+               "direction": "ANY",
+               "min_fl": 120
+            },
+            {
+               "suffix": "1K",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ],
+         "XIDNA": [
+            {
+               "suffix": "1A",
+               "direction": "ANY",
+               "min_fl": 130
+            },
+            {
+               "suffix": "1K",
+               "direction": "ANY",
+               "min_fl": 100
+            }
+         ]
+      }
+   }
+]
