@@ -22,7 +22,7 @@ AIRPORT:EPRZ,EPWW
 FOLDER:Airport Layout
 ACTIVE:1
 
-{% for name, geom in data.eprz_kml['RWY'].items() %}
+{% for name, geom in data.eprz_kml['RWY EPRJ'].items() %}
     {{- geom | to_poly(name, 'runway') }}
 {% endfor %}
 

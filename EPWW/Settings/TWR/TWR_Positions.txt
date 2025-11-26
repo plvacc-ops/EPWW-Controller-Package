@@ -121,8 +121,8 @@ ATIS2:Okecie Ground | *CDM is in use* | PDC/DCL [EPWA]
 ATIS3:Pilot briefing and charts on vats.im/epwa
 ATIS4:Submit your TOBT and check your slot at vats.im/EPWA-ACDM
 PROFILE:EPWA_TWR:30:4
-ATIS2:Okecie Tower | PDC/DCL [EPWA]
-ATIS3:Pilot briefing and charts on vats.im/epwa
+ATIS2:Okecie Tower | *CDM is in use* | PDC/DCL [EPWA]
+ATIS3:Pilot briefing and charts on vats.im/epwa | Submit your TOBT at vats.im/EPWA-ACDM
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPWA_T_TWR:30:4
 ATIS2:Okecie Tower | TRAINING SESSION - Trainee | PDC/DCL [EPWA]
@@ -145,17 +145,21 @@ ATIS2:Zielona Gora Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epzg
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 
+PROFILE:EPBY_I_TWR:30:4
+ATIS2:Bydgoszcz Information
+ATIS3:Aerodrome Flight Information Service | Pilot briefing and charts on vats.im/epby
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPBC_I_TWR:30:4
 ATIS2:Babice Information
 ATIS3:Aerodrome Flight Information Service
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPML_I_TWR:30:4
 ATIS2:Mielec Information
-ATIS3:Aerodrome Flight Information Service | Pilot briefing and charts on vats.im/epsy
+ATIS3:Aerodrome Flight Information Service
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPSY_I_TWR:30:4
 ATIS2:Mazury Information
-ATIS3:Aerodrome Flight Information Service
+ATIS3:Aerodrome Flight Information Service | Pilot briefing and charts on vats.im/epsy
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPBA_R_TWR:30:4
 ATIS2:Bielsko Radio

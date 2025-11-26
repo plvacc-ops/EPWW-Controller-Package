@@ -23,7 +23,7 @@ PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
 PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
 PLUGIN:EuroScope History Trails:HistoryTrailDotSize:4
 PLUGIN:EuroScope History Trails:HistoryTrailFade:1
-PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailLength:8
 PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
 PLUGIN:EuroScope History Trails:HistoryTrailType:0

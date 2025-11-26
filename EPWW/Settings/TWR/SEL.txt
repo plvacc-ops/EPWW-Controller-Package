@@ -7,10 +7,10 @@ m_Resizable:1
 m_OrderingColumn:6
 m_HeaderOnly:0
 m_Column:  C/S:7:0:9:0:1:1::::0:0.0
-m_Column:RT:2:0:80:32:0:1::::0:0.0
+m_Column:R:2:0:80:32:0:1::::0:0.0
 m_Column:S:2:1:63:7:7:1::::0:0.0
-m_Column:AFL:4:1:4:7:7:1::::0:0.0
-m_Column:CFL:4:1:20:0:0:0::::1:0.0
+m_Column:AFL:4:1:4:7:7:0::::0:0.0
+m_Column:CFL:4:1:20:0:0:1::::1:0.0
 m_Column:ASSR:5:1:60:62:62:1::TopSky plugin:TopSky plugin:1:0.0
 m_Column:ADEP:4:1:61:7:7:1::::0:0.0
 m_Column:ADES:4:1:17:7:7:1::::0:0.0
