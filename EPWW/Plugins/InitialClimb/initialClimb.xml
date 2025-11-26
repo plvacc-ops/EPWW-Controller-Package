@@ -339,42 +339,42 @@
 	<apt icao="EPRZ">
 		<runway name="09">
 			<sid name="DIBED">
-				<alt>110</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="ETITI">
-				<alt>120</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="GOVRI">
-				<alt>120</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="LUMEQ">
-				<alt>120</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="LUXAR">
-				<alt>120</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="VELAX">
-				<alt>120</alt>
+				<alt>060</alt>
 			</sid>
 		</runway>
 		<runway name="27">
 			<sid name="DIBED">
-				<alt>110</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="ETITI">
-				<alt>120</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="GOVRI">
-				<alt>120</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="LUMEQ">
-				<alt>120</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="LUXAR">
-				<alt>120</alt>
+				<alt>060</alt>
 			</sid>
 			<sid name="VELAX">
-				<alt>120</alt>
+				<alt>060</alt>
 			</sid>
 		</runway>
 	</apt>
