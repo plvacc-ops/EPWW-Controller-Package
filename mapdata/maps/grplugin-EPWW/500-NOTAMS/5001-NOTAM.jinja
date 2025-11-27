@@ -76,36 +76,14 @@ ACTIVE:251030:270131:0:0000:2359
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
-MAP:TWY C CLOSURE
-AIRPORT:EPWR,EPWW
-FOLDER:NOTAMS
-COLOR:closure
-COORDTYPE:TWYCLOSED:REGION
-FONTSIZE:=:15
-ACTIVE:250922:251128:0:0645:2159
-{% for name, geom in data.notams_kml['EPWR H2568/25'].items() %}
-    {{- geom | to_poly(name, 'closure') }}
-{% endfor %}
-
 MAP:CONSTRUCTION WORKS
 AIRPORT:EPWR,EPWW
 FOLDER:NOTAMS
 COLOR:closure
 COORDTYPE:TWYCLOSED:REGION
 FONTSIZE:=:15
-ACTIVE:251205:251230:0:0000:2359
+ACTIVE:251127:261231:0:0000:2359
 {% for name, geom in data.notams_kml['EPWR SUP 137/25'].items() %}
-    {{- geom | to_poly(name, 'closure') }}
-{% endfor %}
-
-MAP:CONSTRUCTION WORKS
-AIRPORT:EPWR,EPWW
-FOLDER:NOTAMS
-COLOR:closure
-COORDTYPE:TWYCLOSED:REGION
-FONTSIZE:=:15
-ACTIVE:251231:261231:0:0000:2359
-{% for name, geom in data.notams_kml['EPWR SUP 138/25'].items() %}
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
