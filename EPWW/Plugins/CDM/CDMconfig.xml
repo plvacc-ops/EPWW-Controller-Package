@@ -7,13 +7,14 @@
 	<pilotTobt mode="true" />
 	<autoAtot mode="false" />
 	<invalidateAtTsat mode="true" />
+	<invalidateAtTobt mode="true" />
 	<Rates url="https://plvacc.pl/cdm/acdm_plugin/rate.txt" />
 	<Taxizones url="https://plvacc.pl/cdm/acdm_plugin/taxizones.txt" />
 	<Ctot url="https://plvacc.pl/cdm/acdm_plugin/ctot.txt" />
 	<sidInterval url="https://plvacc.pl/cdm/acdm_plugin/SID_rate_EPWW.txt" />
 	<DefaultTaxiTime minutes="7" />
 	<DeIceTimes light="3" medium="5" heavy="7" super="10"/>
-	<RefreshTime seconds="5" />
+	<RefreshTime seconds="10" />
 	<Debug mode="false" />
 	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin" />
 	<vdgsFileType type="3"/>
