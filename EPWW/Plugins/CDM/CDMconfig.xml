@@ -7,7 +7,7 @@
 	<pilotTobt mode="true" />
 	<autoAtot mode="false" />
 	<invalidateAtTsat mode="true" />
-	<invalidateAtTobt mode="true" />
+	<invalidateAtTobt mode="false" />
 	<Rates url="https://plvacc.pl/cdm/acdm_plugin/rate.txt" />
 	<Taxizones url="https://plvacc.pl/cdm/acdm_plugin/taxizones.txt" />
 	<Ctot url="https://plvacc.pl/cdm/acdm_plugin/ctot.txt" />
