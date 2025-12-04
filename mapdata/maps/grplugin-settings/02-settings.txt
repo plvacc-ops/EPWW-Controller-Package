@@ -53,8 +53,9 @@ System_State_Taxi_Out=TAXI
 Equip_ProMode=0
 
 Equip_ModeS=WZLCISG
-System_AutoAssignDist=20
-System_AutoAssignDist=EPWA,50
+System_AutoAssignDist=18
+System_AutoAssignDist=EPWA,18
+System_NoDupeCodes=0001,0002,1000,1200,1234,2000,2200,7000,7500,7600,7700
 System_RwyArea=30
 System_RwyBufferArea=60
 System_UseReportedGS=1
@@ -107,25 +108,25 @@ Label_WTG_EU=0,0,0,0
 /-----APP Window Departure Tag-----
 Label=APP:DEP:0:SI,0,0,0:ASSR_E,0,1,1:ALRT,0,1
 Label=APP:DEP:1:CALLSIGN,0,1:COMM,0,0,1:ATYP,2,2:WTC,0,0
-Label=APP:DEP:2:AFL+VS,0,0,123:GS,0,0,0:DEP,0,1
+Label=APP:DEP:2:AFL+VS,0,0,2023:GS,0,0,0:DEP,0,1
 Label=APP:DEP:3:CFL,0,0,13:ADES,0,1:RMK,0,1
 
 /-----APP Window Arrival Tag-----
 Label=APP:ARR:0:SI,0,0,0:ASSR_E,0,1,1:ALRT,0,1
 Label=APP:ARR:1:CALLSIGN,0,1:COMM,0,0,1:ATYP,2,2:WTC,0,0
-Label=APP:ARR:2:AFL+VS,0,0,123:GS,0,0,0:ADES,0,1
+Label=APP:ARR:2:AFL+VS,0,0,2023:GS,0,0,0:ADES,0,1
 Label=APP:ARR:3:CFL,0,0,13:RMK,0,1
 
 /-----APP Window Uncorrelated Tag-----
 Label=APP:UNC:0:SI,0,0,0:ALRT,0,1
 Label=APP:UNC:1:CALLSIGN,0,1:COMM,0,0,1
-Label=APP:UNC:2:AFL+VS,0,0,123:GS,0,2,0
+Label=APP:UNC:2:AFL+VS,0,0,2023:GS,0,2,0
 Label=APP:UNC:3:RMK,0,1
 
 /-----APP Window Other Tag-----
 Label=APP:OTH:0:SI,0,0,0:ALRT,0,1
 Label=APP:OTH:1:CALLSIGN,0,1:COMM,0,0,1:ATYP,2,2:WTC,0,0
-Label=APP:OTH:2:AFL+VS,0,0,123:GS,0,0,0:ADES,0,1
+Label=APP:OTH:2:AFL+VS,0,0,2023:GS,0,0,0:ADES,0,1
 Label=APP:OTH:3:CFL,0,0,13:RMK,0,1
 
 /-----Ground Mode Departure Tag-----
@@ -153,16 +154,16 @@ Label=GND:OTH:2:TSSR,0,1,1:RMK,0,1
 Label=GND:OTH:3:
 
 /-----Tower Mode Departure Tag-----
-Label=TWR:DEP:0:ALRT,0,0:ASSR_E,0,2,1
-Label=TWR:DEP:1:CALLSIGN,0,0:COMM,0,0,1
-Label=TWR:DEP:2:AFL,0,0,13:VS,0,0,2:GS,0,1,0
-Label=TWR:DEP:3:ATYP,0,1:WTC,0,1
+Label=APP:DEP:0:SI,0,0,0:ASSR_E,0,1,1:ALRT,0,1
+Label=APP:DEP:1:CALLSIGN,0,1:COMM,0,0,1:ATYP,2,2:WTC,0,0
+Label=APP:DEP:2:AFL+VS,0,0,2023:GS,0,0,0:DEP,0,1
+Label=APP:DEP:3:CFL,0,0,13:ADES,0,1:RMK,0,1
 
 /-----Tower Mode Arrival Tag-----
-Label=TWR:ARR:0:ALRT,0,0:ASSR_E,0,2,1
-Label=TWR:ARR:1:CALLSIGN,0,0:COMM,0,0,1
-Label=TWR:ARR:2:AFL,0,0,13:VS,0,0,2:GS,0,1,0
-Label=TWR:ARR:3:ATYP,0,0:WTC,0,0:ADES,0,1,1:STAND,0,1:RMK,0,1
+Label=APP:ARR:0:SI,0,0,0:ASSR_E,0,1,1:ALRT,0,1
+Label=APP:ARR:1:CALLSIGN,0,1:COMM,0,0,1:ATYP,2,2:WTC,0,0
+Label=APP:ARR:2:AFL+VS,0,0,2023:GS,0,0,0:ADES,0,1
+Label=APP:ARR:3:CFL,0,0,13:RMK,0,1
 
 /--------------------LISTS---------------------
 
