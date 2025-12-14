@@ -39,3 +39,5 @@ Color_WForeground3=255,255,255
 Color_WSlider_Bg=143,143,143
 Color_WTitleBar=128,128,128
 Color_WTitleText=32,32,32
+
+Maps_URL=https://raw.githubusercontent.com/plvacc-ops/EPWW-Controller-Package/refs/heads/main/EPWW/Plugins/GRPlugin%20DARK/GRpluginMaps.txt

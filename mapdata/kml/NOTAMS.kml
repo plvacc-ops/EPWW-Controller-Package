@@ -9,23 +9,43 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="m_ylw-pushpin0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin0</styleUrl>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl04</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="m_ylw-pushpin01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="m_ylw-pushpin18">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin00</styleUrl>
+			<styleUrl>#s_ylw-pushpin06</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -43,6 +63,15 @@
 		</Pair>
 	</StyleMap>
 	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -78,6 +107,27 @@
 			<color>33ffffff</color>
 		</PolyStyle>
 	</Style>
+	<Style id="s_ylw-pushpin06">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>33ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
 	<Style id="s_ylw-pushpin_hl0">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -91,6 +141,18 @@
 		</PolyStyle>
 	</Style>
 	<Style id="s_ylw-pushpin_hl00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>33ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl04">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -159,7 +221,7 @@
 			</Placemark>
 		</Folder>
 		<Folder>
-			<name>EPLB E2522/25</name>
+			<name>EPLB E3597/25</name>
 			<Placemark>
 				<name>TWY C CLSD</name>
 				<styleUrl>#msn_ylw-pushpin14</styleUrl>
@@ -193,7 +255,24 @@
 			</Placemark>
 		</Folder>
 		<Folder>
-			<name>EPRA H2372/25</name>
+			<name>EPMO H3285/25</name>
+			<Placemark>
+				<name>TWY D CLSD</name>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.64328195611586,52.44721752350269,0 20.64399672342294,52.44725794676674,0 20.64383748726408,52.44749215653519,0 20.6439758134112,52.4497024600274,0 20.64414282478851,52.45003730036518,0 20.64322238873264,52.4499714737092,0 20.64365839506497,52.44949263438242,0 20.64353632261908,52.44751474366545,0 20.64328195611586,52.44721752350269,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>EPRA H3271/25</name>
 			<Placemark>
 				<name>TWY A5 CLSD</name>
 				<styleUrl>#msn_ylw-pushpin14</styleUrl>
@@ -289,17 +368,91 @@
 			</Placemark>
 		</Folder>
 		<Folder>
-			<name>EPWR SUP 137/25</name>
-			<open>1</open>
+			<name>EPWA A3130/25</name>
 			<Placemark>
-				<name>CONSTRUCTION WORKS</name>
+				<name>WINGSPAN UP TO 36M</name>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>2025-12-14T19:13:17.0352204Z</begin>
+						<end>2025-12-14T19:13:17.235222199Z</end>
+					</gx:TimeSpan>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>20.98442390559243</longitude>
+					<latitude>52.16377059575684</latitude>
+					<altitude>0</altitude>
+					<heading>0.001868006894133145</heading>
+					<tilt>0</tilt>
+					<range>780.9898400391932</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
 				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>20.98265491298033,52.16320882489833,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>EPWA A3562/25</name>
+			<Placemark>
+				<name>TWY S3 BTN RWY 15/33 AND TWY D2 CLSD</name>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
 				<Polygon>
 					<tessellate>1</tessellate>
 					<outerBoundaryIs>
 						<LinearRing>
 							<coordinates>
-								16.86581284713362,51.10923353293393,0 16.86785376025254,51.10861376175381,0 16.86812399561745,51.10893583529149,0 16.87214370010074,51.10772474002669,0 16.87409559947377,51.11019771716155,0 16.87159815296515,51.11100105861183,0 16.870646255252,51.10980462538737,0 16.86715134743675,51.11086611448489,0 16.86581284713362,51.10923353293393,0 
+								20.96102258696575,52.17525034502454,0 20.96031767480319,52.1745208933,0 20.96032111681166,52.17429993101909,0 20.96163708270468,52.17281527433654,0 20.96128008253162,52.17341019019276,0 20.9611031402186,52.17392972235955,0 20.96101295669818,52.17446529668044,0 20.96102258696575,52.17525034502454,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>EPWA A3563/25</name>
+			<Placemark>
+				<name>WINGSPAN UP TO 36M</name>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>2025-12-14T19:06:33.293343899Z</begin>
+						<end>2025-12-14T19:06:33.493345899Z</end>
+					</gx:TimeSpan>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>20.96171702484019</longitude>
+					<latitude>52.17530111962578</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01606640840521397</heading>
+					<tilt>0</tilt>
+					<range>339.2942763330252</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>20.96037778213925,52.17507464690271,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>EPWR SUP 137/25</name>
+			<Placemark>
+				<name>CONSTRUCTION WORKS</name>
+				<styleUrl>#m_ylw-pushpin01</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								16.86581284713362,51.10923353293393,0 16.86785376025254,51.10861376175381,0 16.86812399561745,51.10893583529149,0 16.87214370010074,51.10772474002669,0 16.87409559947377,51.11019771716154,0 16.87159815296515,51.11100105861183,0 16.870646255252,51.10980462538737,0 16.86715134743675,51.11086611448489,0 16.86581284713362,51.10923353293393,0 
 							</coordinates>
 						</LinearRing>
 					</outerBoundaryIs>
@@ -316,13 +469,13 @@
 					<range>1662.229885148736</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin01</styleUrl>
 				<Polygon>
 					<tessellate>1</tessellate>
 					<outerBoundaryIs>
 						<LinearRing>
 							<coordinates>
-								16.87426645811029,51.10879920279837,0 16.87310480411024,51.10742316921974,0 16.89878677711455,51.09953209017297,0 16.90074359724878,51.10186659051796,0 16.88340428582239,51.10708814605461,0 16.88303249766393,51.10660373091271,0 16.87548274913335,51.10891468449991,0 16.87501973307014,51.10901087804486,0 16.87470674059596,51.10904261977653,0 16.87443687652717,51.1089603084416,0 16.87426645811029,51.10879920279837,0 
+								16.87426645811029,51.10879920279838,0 16.87310480411024,51.10742316921974,0 16.89878677711455,51.09953209017297,0 16.90074359724878,51.10186659051796,0 16.88340428582239,51.10708814605461,0 16.88303249766393,51.10660373091271,0 16.87548274913335,51.10891468449991,0 16.87501973307014,51.10901087804486,0 16.87470674059596,51.10904261977653,0 16.87443687652717,51.1089603084416,0 16.87426645811029,51.10879920279838,0 
 							</coordinates>
 						</LinearRing>
 					</outerBoundaryIs>
@@ -331,7 +484,6 @@
 		</Folder>
 		<Folder>
 			<name>EPWR SUP 138/25</name>
-			<open>1</open>
 			<Placemark>
 				<name>CONSTRUCTION TWY B</name>
 				<open>1</open>
@@ -344,13 +496,13 @@
 					<range>1662.229885148736</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
 				<Polygon>
 					<tessellate>1</tessellate>
 					<outerBoundaryIs>
 						<LinearRing>
 							<coordinates>
-								16.87426645811029,51.10879920279837,0 16.87310480411024,51.10742316921974,0 16.89878677711455,51.09953209017297,0 16.90074359724878,51.10186659051796,0 16.88340428582239,51.10708814605461,0 16.88303249766393,51.10660373091271,0 16.87548274913335,51.10891468449991,0 16.87501973307014,51.10901087804486,0 16.87470674059596,51.10904261977653,0 16.87443687652717,51.1089603084416,0 16.87426645811029,51.10879920279837,0 
+								16.87426645811029,51.10879920279838,0 16.87310480411024,51.10742316921974,0 16.89765151258377,51.09988007249242,0 16.89948621206877,51.1022421005236,0 16.88340428582239,51.10708814605461,0 16.88303249766393,51.10660373091271,0 16.87548274913335,51.10891468449991,0 16.87501973307014,51.10901087804486,0 16.87470674059596,51.10904261977653,0 16.87443687652717,51.1089603084416,0 16.87426645811029,51.10879920279838,0 
 							</coordinates>
 						</LinearRing>
 					</outerBoundaryIs>
@@ -359,13 +511,47 @@
 			<Placemark>
 				<name>CONSTRUCTION WORKS</name>
 				<open>1</open>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin01</styleUrl>
 				<Polygon>
 					<tessellate>1</tessellate>
 					<outerBoundaryIs>
 						<LinearRing>
 							<coordinates>
-								16.86581284713362,51.10923353293393,0 16.86785376025254,51.10861376175381,0 16.86812399561745,51.10893583529149,0 16.87214370010074,51.10772474002669,0 16.87409559947377,51.11019771716155,0 16.87159815296515,51.11100105861183,0 16.870646255252,51.10980462538737,0 16.86715134743675,51.11086611448489,0 16.86581284713362,51.10923353293393,0 
+								16.86581284713362,51.10923353293393,0 16.86785376025254,51.10861376175381,0 16.86812399561745,51.10893583529149,0 16.87214370010074,51.10772474002669,0 16.87409559947377,51.11019771716154,0 16.87159815296515,51.11100105861183,0 16.870646255252,51.10980462538737,0 16.86715134743675,51.11086611448489,0 16.86581284713362,51.10923353293393,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>EPWR H3314/25</name>
+			<Placemark>
+				<name>STND 16, 18 CLSD</name>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								16.88217613512679,51.1075982435443,0 16.88326657545624,51.10727281117425,0 16.88373734915017,51.10786747300387,0 16.88262834983007,51.10820711297431,0 16.88217613512679,51.1075982435443,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>EPWR H3317/25</name>
+			<Placemark>
+				<name>STND 65 AND 66 CLSD</name>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								16.90374716160471,51.10473578938061,0 16.90374447564709,51.10423723671376,0 16.90539600927523,51.10421674243155,0 16.90539221963633,51.10472042830253,0 16.90374716160471,51.10473578938061,0 
 							</coordinates>
 						</LinearRing>
 					</outerBoundaryIs>
