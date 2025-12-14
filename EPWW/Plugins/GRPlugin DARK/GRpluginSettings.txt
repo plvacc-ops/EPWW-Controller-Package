@@ -43,6 +43,7 @@ Color_WSlider_Bg=143,143,143
 Color_WTitleBar=128,128,128
 Color_WTitleText=32,32,32
 
+Maps_URL=https://raw.githubusercontent.com/plvacc-ops/EPWW-Controller-Package/refs/heads/main/EPWW/Plugins/GRPlugin%20DARK/GRpluginMaps.txt
 
 GroundLabel_Font=EuroScope
 GroundLabel_FontSize=11
@@ -256,8 +257,8 @@ System_APM=0
 System_RVM=0
 
 System_CMAC_HighSpeed_Info=40
-System_CMAC_HighSpeed=50
-System_CMAC_NoTakeOffClr_Speed=25
+System_CMAC_HighSpeed=55
+System_CMAC_NoTakeOffClr_Speed=40
 System_CMAC_NoTaxiClr_Speed_Info=10
 System_CMAC_NoContact_Distance_Info=4.0
 System_CMAC_NoContact_Time_Info=120
