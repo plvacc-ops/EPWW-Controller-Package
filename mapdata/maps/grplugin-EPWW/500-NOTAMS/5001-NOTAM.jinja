@@ -90,11 +90,15 @@ ACTIVE:251030:270131:0:0000:2359
 MAP:TWY N3, E2, E3 AND E4 FOR ACFT WITH WINGSPAN UP TO 36M
 AIRPORT:EPWA,EPWW
 FOLDER:NOTAMS
-COLOR:closure
-COORDTYPE:TWYCLOSED:REGION
-FONTSIZE:=:15
+COLOR:restriction-36
+FONTSIZE:=:10
+STYLE:Solid:3
 ACTIVE:251025:260124:0:0800:2359
 {% for name, geom in data.notams_kml['EPWA A3130/25'].items() %}
+    {{- geom | simplify(default) | to_line(name) }}
+{% endfor %}
+STYLE:Solid:1
+{% for name, geom in data.notams_kml['EPWA A3130/25 TXT'].items() %}
     {{- geom | to_text(name) }}
 {% endfor %}
 
@@ -112,11 +116,16 @@ ACTIVE:251208:260308:0:1151:2359
 MAP:TWY D2 AVBL FOR ACFT WITH WINGSPAN UP TO 36M
 AIRPORT:EPWA,EPWW
 FOLDER:NOTAMS
-COLOR:closure
-COORDTYPE:TWYCLOSED:REGION
-FONTSIZE:=:15
+COLOR:restriction-36
+FONTSIZE:=:10
+STYLE:Solid:3
 ACTIVE:251208:260308:0:1151:2359
+ACTIVE:251025:260124:0:0800:2359
 {% for name, geom in data.notams_kml['EPWA A3563/25'].items() %}
+    {{- geom | simplify(default) | to_line(name) }}
+{% endfor %}
+STYLE:Solid
+{% for name, geom in data.notams_kml['EPWA A3563/25 TXT'].items() %}
     {{- geom | to_text(name) }}
 {% endfor %}
 
