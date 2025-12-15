@@ -92,14 +92,13 @@ AIRPORT:EPWA,EPWW
 FOLDER:NOTAMS
 COLOR:restriction-36
 FONTSIZE:=:10
-STYLE:Solid:3
 ACTIVE:251025:260124:0:0800:2359
-{% for name, geom in data.notams_kml['EPWA A3130/25'].items() %}
-    {{- geom | simplify(default) | to_line(name) }}
-{% endfor %}
-STYLE:Solid:1
 {% for name, geom in data.notams_kml['EPWA A3130/25 TXT'].items() %}
     {{- geom | to_text(name) }}
+{% endfor %}
+STYLE:Solid:3
+{% for name, geom in data.notams_kml['EPWA A3130/25'].items() %}
+    {{- geom | to_line(name) }}
 {% endfor %}
 
 MAP:TWY S3 BTN RWY 15/33 AND TWY D2 CLSD
@@ -118,15 +117,13 @@ AIRPORT:EPWA,EPWW
 FOLDER:NOTAMS
 COLOR:restriction-36
 FONTSIZE:=:10
-STYLE:Solid:3
 ACTIVE:251208:260308:0:1151:2359
-ACTIVE:251025:260124:0:0800:2359
-{% for name, geom in data.notams_kml['EPWA A3563/25'].items() %}
-    {{- geom | simplify(default) | to_line(name) }}
-{% endfor %}
-STYLE:Solid
 {% for name, geom in data.notams_kml['EPWA A3563/25 TXT'].items() %}
     {{- geom | to_text(name) }}
+{% endfor %}
+STYLE:Solid:3
+{% for name, geom in data.notams_kml['EPWA A3563/25'].items() %}
+    {{- geom | to_line(name) }}
 {% endfor %}
 
 MAP:CONSTRUCTION WORKS
