@@ -101,31 +101,6 @@ STYLE:Solid:3
     {{- geom | to_line(name) }}
 {% endfor %}
 
-MAP:TWY S3 BTN RWY 15/33 AND TWY D2 CLSD
-AIRPORT:EPWA,EPWW
-FOLDER:NOTAMS
-COLOR:closure
-COORDTYPE:TWYCLOSED:REGION
-FONTSIZE:=:15
-ACTIVE:251208:260308:0:1151:2359
-{% for name, geom in data.notams_kml['EPWA A3562/25'].items() %}
-    {{- geom | to_poly(name, 'closure') }}
-{% endfor %}
-
-MAP:TWY D2 AVBL FOR ACFT WITH WINGSPAN UP TO 36M
-AIRPORT:EPWA,EPWW
-FOLDER:NOTAMS
-COLOR:restriction-36
-FONTSIZE:=:10
-ACTIVE:251208:260308:0:1151:2359
-{% for name, geom in data.notams_kml['EPWA A3563/25 TXT'].items() %}
-    {{- geom | to_text(name) }}
-{% endfor %}
-STYLE:Solid:3
-{% for name, geom in data.notams_kml['EPWA A3563/25'].items() %}
-    {{- geom | to_line(name) }}
-{% endfor %}
-
 MAP:CONSTRUCTION WORKS
 AIRPORT:EPWR,EPWW
 FOLDER:NOTAMS
