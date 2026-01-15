@@ -53,6 +53,30 @@ ACTIVE:251201:260301:0:0803:2359
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
+MAP:TWY E CLOSURE
+AIRPORT:EPRA,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:260114:260131:0:1311:2359
+{% for name, geom in data.notams_kml['EPRA H0088/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+
+MAP:STND 6-11 CLSD
+AIRPORT:EPRA,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+BLOCKS:EPRA:6,7,8,9,10,11
+FONTSIZE:=:15
+ACTIVE:260114:260131:0:1311:2359
+{% for name, geom in data.notams_kml['EPRA H0090/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
 MAP:CONSTRUCTION TWY E, F, R4, R5
 AIRPORT:EPRZ,EPWW
 FOLDER:NOTAMS
