@@ -1,8 +1,10 @@
 [DCL]
 
-DCL:EPGD,EPKK,EPKT,EPMO,EPPO,EPRZ,EPWA,EPWR:SID:CLD <hour><min> <year2><month2><day> <adep> PDC <number> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> NEXT FREQ <freq_next> <atis> SID INITIAL CLIMB ALTITUDE <cfl>. AIRBORNE FREQUENCY <freq_dep>. <rmk>
+DCL:EPGD,EPKK,EPKT,EPMO,EPPO,EPRZ,EPWR:SID:CLD <hour><min> <year2><month2><day> <adep> PDC <number> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> SQUAWK <assr> NEXT FREQ <freq_next> <atis> SID INITIAL CLIMB ALTITUDE <cfl>. AIRBORNE FREQUENCY <freq_dep>. <rmk>
+DCL:EPWA:SID:CLD <hour><min> <year2><month2><day> <adep> PDC <number> <callsign> CLRD TO <ades> OFF <drwy> VIA <sid> INITIAL CLIMB ALTITUDE <cfl> SQUAWK <assr> ADT <aobt> <atis> NEXT FREQ <freq_next> AIRBORNE FREQUENCY <freq_dep> <rmk>
 
-DCL:EPGD,EPKK,EPKT,EPMO,EPPO,EPRZ,EPWA,EPWR:AHDG:CLD <hour><min> <year2><month2><day> <adep> PDC <number> <callsign> CLRD TO <ades> OFF <drwy> VIA RUNWAY HEADING SQUAWK <assr> NEXT FREQ <freq_next> <atis> INITIAL CLIMB ALTITUDE <cfl>. AIRBORNE FREQUENCY <freq_dep>. <rmk>
+DCL:EPGD,EPKK,EPKT,EPMO,EPPO,EPRZ,EPWR:AHDG:CLD <hour><min> <year2><month2><day> <adep> PDC <number> <callsign> CLRD TO <ades> OFF <drwy> VIA RUNWAY HEADING SQUAWK <assr> NEXT FREQ <freq_next> <atis> INITIAL CLIMB ALTITUDE <cfl>. AIRBORNE FREQUENCY <freq_dep>. <rmk>
+DCL:EPWA:AHDG:CLD <hour><min> <year2><month2><day> <adep> PDC <number> <callsign> CLRD TO <ades> OFF <drwy> VIA RUNWAY HEADING INITIAL CLIMB ALTITUDE <cfl> SQUAWK <assr> ADT <aobt> <atis> NEXT FREQ <freq_next> AIRBORNE FREQUENCY <freq_dep> <rmk>
 
 [FREETEXT]
 FREETEXT:UNICOM:SERVICE TERMINATED. MONITOR ADVISORY 122.800
