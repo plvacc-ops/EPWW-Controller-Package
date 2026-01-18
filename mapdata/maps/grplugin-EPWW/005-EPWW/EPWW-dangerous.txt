@@ -1,5 +1,5 @@
 MAP:Dangerous Areas:A
-FOLDER:APP
+FOLDER:General
 COLOR:dangerous
 ACTIVE:1
 
