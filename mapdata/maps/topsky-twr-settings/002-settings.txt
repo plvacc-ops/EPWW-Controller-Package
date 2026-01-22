@@ -190,14 +190,6 @@ Vector_MinSep_FontSize=10
 Vector_FplSep_Label_Time=1
 Vector_MinSep_Label_Time=1
 
-//Windows settings
-Window_CARD_Slider_Time=25
-Window_CARD_Slider_Distance=10
-Window_CPDLC_Setting=1,1,250
-Window_CPDLC_Current=0,570,45
-Window_QNHTL=0
-Window_MsgIn=0
-
 //WXR settings
 WXR_Brightness=25
 WXR_ImageSize=512
@@ -207,3 +199,12 @@ WXR_Latitude=52
 WXR_Longitude_Max=25
 WXR_Longitude_Min=13
 WXR_Longitude=19
+
+//Map loading
+
+Maps_URL=https://raw.githubusercontent.com/plvacc-ops/EPWW-Controller-Package/refs/heads/main/EPWW/Plugins/TopSky/TWR/TopSkyMaps.txt
+
+[_OBS]
+Setup_LoadMap=MVA
+Setup_LoadMap=VFR
+Setup_LoadMap=CTR
