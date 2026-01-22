@@ -282,16 +282,9 @@ WXR_Longitude=19
 
 //Map loading
 
-Setup_LoadMap=TMA BYDGOSZCZ\TMA FIXES
-Setup_LoadMap=TMA GDANSK\TMA FIXES
-Setup_LoadMap=TMA KRAKOW\TMA FIXES
-Setup_LoadMap=TMA LODZ\TMA FIXES
-Setup_LoadMap=TMA LUBLIN\TMA FIXES
-Setup_LoadMap=TMA MAZURY\TMA FIXES
-Setup_LoadMap=TMA POZNAN N\TMA FIXES
-Setup_LoadMap=TMA POZNAN S\TMA FIXES
-Setup_LoadMap=TMA RADOM\TMA FIXES
-Setup_LoadMap=TMA RZESZOW\TMA FIXES
-Setup_LoadMap=TMA SZCZECIN\TMA FIXES
-Setup_LoadMap=TMA WARSZAWA\TMA FIXES
-Setup_LoadMap=TMA ZIELONA GORA\TMA FIXES
+Maps_URL=https://raw.githubusercontent.com/plvacc-ops/EPWW-Controller-Package/refs/heads/main/EPWW/Plugins/TopSky/RADAR/TopSkyMaps.txt
+
+[_OBS]
+Setup_LoadMap=MVA
+Setup_LoadMap=VFR
+Setup_LoadMap=CTR
