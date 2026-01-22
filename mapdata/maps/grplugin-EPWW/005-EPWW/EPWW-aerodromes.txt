@@ -1,5 +1,5 @@
 MAP:Aerodromes:A
-FOLDER:APP
+FOLDER:General
 COLOR:aerodrome
 FONTSIZE:=:10
 TEXTALIGN:LB

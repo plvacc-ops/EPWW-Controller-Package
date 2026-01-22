@@ -1,5 +1,5 @@
 MAP:CTR:A
-FOLDER:APP
+FOLDER:General
 COLOR:ctr
 ACTIVE:1
 

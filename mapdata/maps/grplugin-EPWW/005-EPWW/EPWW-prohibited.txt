@@ -1,5 +1,5 @@
 MAP:Prohibited Areas:A
-FOLDER:APP
+FOLDER:General
 COLOR:prohibited
 ACTIVE:1
 

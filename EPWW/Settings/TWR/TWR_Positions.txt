@@ -136,6 +136,10 @@ PROFILE:EPWR_DEL:20:2
 ATIS2:Wroclaw Delivery | PDC/DCL [EPWR]
 ATIS3:Pilot briefing and charts on vats.im/epwr
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPWR_GND:20:2
+ATIS2:Wroclaw Ground | PDC/DCL [EPWR]
+ATIS3:Pilot briefing and charts on vats.im/epwr
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPWR_TWR:30:4
 ATIS2:Wroclaw Tower | PDC/DCL [EPWR]
 ATIS3:Pilot briefing and charts on vats.im/epwr
