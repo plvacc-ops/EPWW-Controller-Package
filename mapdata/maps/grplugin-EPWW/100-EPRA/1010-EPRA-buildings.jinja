@@ -1,8 +1,0 @@
-MAP:Buildings
-AIRPORT:EPRA,EPWW
-FOLDER:Airport Layout
-ACTIVE:1
-
-{% for name, geom in data.epra_kml['Buildings'].items() %}
-    {{- geom | to_poly(name, 'building') }}
-{% endfor %}

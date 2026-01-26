@@ -1,9 +1,0 @@
-MAP:Aprons
-AIRPORT:EPWA,EPWW
-FOLDER:Airport Layout
-ACTIVE:1
-COLOR:apron
-
-{% for name, geom in data.epwa_kml['APN'].items() %}
-    {{- geom | to_poly(name, 'apronepwa') }}
-{% endfor %}
