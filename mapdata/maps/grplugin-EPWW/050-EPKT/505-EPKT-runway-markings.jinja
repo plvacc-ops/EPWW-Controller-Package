@@ -1,8 +1,0 @@
-MAP:Runway Markings
-AIRPORT:EPKT,EPWW
-FOLDER:Airport Layout
-ACTIVE:1
-
-{% for name, geom in data.epkt_kml['RWY Markings'].items() %}
-    {{- geom | to_poly(name, 'runway-marking') }}
-{% endfor %}

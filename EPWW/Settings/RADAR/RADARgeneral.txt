@@ -5,7 +5,7 @@ m_ShowRouteFixName:1
 m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
 m_ShowSimulatedData:0
-m_TransitionAltitude:8000
+m_TransitionAltitude:7500
 m_AllowConcernedACTagDown:1
 m_CenterlineDme:0.0
 m_CenterlineLength:20.0
@@ -117,7 +117,7 @@ m_DontAutoCorrelateDuplicated:0
 m_AcceptPilotSquawkForCorrelation:1
 m_MTCA_Floor:0
 m_MTCA_AltitudeDifference:700
-m_MTCA_Distance:6.0
+m_MTCA_Distance:4.8
 m_UseIsectForScratchPad:1
 m_RotateRadarTargetSymbol:0
 m_RotateFlightPlanTrackSymbol:0

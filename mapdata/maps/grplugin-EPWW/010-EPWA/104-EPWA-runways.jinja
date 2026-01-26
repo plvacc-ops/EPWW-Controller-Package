@@ -1,8 +1,0 @@
-MAP:Runway
-AIRPORT:EPWA,EPWW
-FOLDER:Airport Layout
-ACTIVE:1
-
-{% for name, geom in data.epwa_kml['RWY'].items() %}
-    {{- geom | to_poly(name, 'runwayepwa') }}
-{% endfor %}
