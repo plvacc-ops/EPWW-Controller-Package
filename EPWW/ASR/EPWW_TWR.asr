@@ -19,15 +19,15 @@ ARTCC boundary:EPWA TMA OUT:
 ARTCC boundary:EPZG TMA OUT:
 ARTCC high boundary:FIR border 0 - EDMM:
 ARTCC high boundary:FIR border 0 - EDWW:
+ARTCC high boundary:FIR border 0 - EPWW:
 ARTCC high boundary:FIR border 0 - ESAA:
 ARTCC high boundary:FIR border 0 - EYVL:
+ARTCC high boundary:FIR border 0 - LHCC:
 ARTCC high boundary:FIR border 0 - LKAA:
 ARTCC high boundary:FIR border 0 - LOVV:
 ARTCC high boundary:FIR border 0 - LZBB:
-ARTCC high boundary:FIR border 0 - UKLV-E:
-ARTCC high boundary:FIR border 0 - UKLV-W:
+ARTCC high boundary:FIR border 0 - UKLV:
 ARTCC high boundary:FIR border 0 - UMMV:
-ARTCC high boundary:FIR border EPWW:
 Free Text:SCT2\A007/GND:freetext
 Free Text:SCT2\A010/GND:freetext
 Free Text:SCT2\A013/GND:freetext
