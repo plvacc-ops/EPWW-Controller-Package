@@ -1,10 +1,10 @@
 DEP
 m_Visible:1
-m_X:711
-m_Y:184
+m_X:1061
+m_Y:150
 m_LineNumber:0
 m_Resizable:1
-m_OrderingColumn:1
+m_OrderingColumn:3
 m_HeaderOnly:0
 m_Column:STS:4:0:3:13:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
 m_Column:  C/S:7:0:9:0:1:1::::1:0.0
@@ -22,6 +22,7 @@ m_Column:X:1:1:1:11:100:0:Initial Climb::Initial Climb:1:0.0
 m_Column:RFL:4:1:22:30:0:1::::2:0.0
 m_Column:ASSR:5:1:60:62:0:1::TopSky plugin::1:0.0
 m_Column:C:2:1:10130:27:122:1:TopSky plugin::TopSky plugin:1:0.0
+m_Column:NSTS:5:1:18:137:127:1:CDM Plugin:CDM Plugin:CDM Plugin:0:0.0
 m_Column:PPS:4:1:1:0:0:1:Ground Radar plugin:::1:0.0
 m_Column:REQ:4:1:540:548:0:1:VCH:VCH::1:0.0
 m_Column:RQT:4:1:544:0:0:1:VCH:::1:0.0

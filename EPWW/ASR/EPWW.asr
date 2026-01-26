@@ -19,15 +19,15 @@ ARTCC boundary:EPWA TMA OUT:
 ARTCC boundary:EPZG TMA OUT:
 ARTCC high boundary:FIR border 0 - EDMM:
 ARTCC high boundary:FIR border 0 - EDWW:
+ARTCC high boundary:FIR border 0 - EPWW:
 ARTCC high boundary:FIR border 0 - ESAA:
 ARTCC high boundary:FIR border 0 - EYVL:
+ARTCC high boundary:FIR border 0 - LHCC:
 ARTCC high boundary:FIR border 0 - LKAA:
 ARTCC high boundary:FIR border 0 - LOVV:
 ARTCC high boundary:FIR border 0 - LZBB:
-ARTCC high boundary:FIR border 0 - UKLV-E:
-ARTCC high boundary:FIR border 0 - UKLV-W:
+ARTCC high boundary:FIR border 0 - UKLV:
 ARTCC high boundary:FIR border 0 - UMMV:
-ARTCC high boundary:FIR border EPWW:
 Geo:EPWW Coastlines:
 Runways:EPBY 08-26:centerline
 Runways:EPBY 08-26:extended centerline 1
@@ -169,7 +169,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21
-WINDOWAREA:47.772190:8.704467:56.698762:36.388250
+WINDOWAREA:43.668221:-5.815100:61.102932:48.254788
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
