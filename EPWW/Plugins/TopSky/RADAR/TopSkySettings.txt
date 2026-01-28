@@ -206,6 +206,7 @@ Vector_AHDG_Label_Time=1
 SafetyNets_Inhibit_SSR=0002
 
 Shortcut_RadarMenu_Combo=0x00
+System_TransferConfirmation=0
 
 //STCA
 STCA=1
