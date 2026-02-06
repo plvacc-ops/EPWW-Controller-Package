@@ -1,0 +1,35 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\PLVACC\LOAD_SECTORFILE.sct
+SECTORTITLE:
+Free Text:EPKP GND\09L:freetext
+Free Text:EPKP GND\09R:freetext
+Free Text:EPKP GND\27L:freetext
+Free Text:EPKP GND\27R:freetext
+Free Text:EPKP GND\A:freetext
+Free Text:EPKP GND\APRON 1:freetext
+Free Text:EPKP GND\APRON 2:freetext
+Free Text:EPKP GND\B:freetext
+Free Text:EPKP GND\C1:freetext
+Free Text:EPKP GND\C2:freetext
+Free Text:EPKP GND\HANGAR:freetext
+Free Text:EPKP GND\HANGARS:freetext
+Regions:EPKP Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:10000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:355.64000
+TAGFAMILY:P21-TWR
+WINDOWAREA:50.083807:20.187750:50.086921:20.201638
+PLUGIN:Ground Radar plugin:AirportElevation:660
+PLUGIN:Ground Radar plugin:AirportRadius:2
+PLUGIN:Ground Radar plugin:GroundMode:EPKP
