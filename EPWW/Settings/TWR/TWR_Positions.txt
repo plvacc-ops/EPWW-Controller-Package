@@ -155,7 +155,7 @@ ATIS3:Aerodrome Flight Information Service | Pilot briefing and charts on vats.i
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPBC_I_TWR:30:4
 ATIS2:Babice Information
-ATIS3:Aerodrome Flight Information Service
+ATIS3:Aerodrome Flight Information Service | Pilot briefing and charts on vats.im/epbc
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPML_I_TWR:30:4
 ATIS2:Mielec Information
