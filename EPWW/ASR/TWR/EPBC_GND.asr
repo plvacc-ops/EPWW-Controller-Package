@@ -1,0 +1,45 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\PLVACC\LOAD_SECTORFILE.sct
+SECTORTITLE:
+Free Text:EPBC GND\A1:freetext
+Free Text:EPBC GND\A2:freetext
+Free Text:EPBC GND\AW Szybowce:freetext
+Free Text:EPBC GND\Aeroclub:freetext
+Free Text:EPBC GND\Aeroclub Aviator:freetext
+Free Text:EPBC GND\Apron 1:freetext
+Free Text:EPBC GND\B1:freetext
+Free Text:EPBC GND\B2:freetext
+Free Text:EPBC GND\C:freetext
+Free Text:EPBC GND\D1:freetext
+Free Text:EPBC GND\D2:freetext
+Free Text:EPBC GND\HELI Invest:freetext
+Free Text:EPBC GND\HEMS:freetext
+Free Text:EPBC GND\HUSAIR:freetext
+Free Text:EPBC GND\Hangar 4:freetext
+Free Text:EPBC GND\Hangar 5:freetext
+Free Text:EPBC GND\Hangar 6:freetext
+Free Text:EPBC GND\IBEX:freetext
+Free Text:EPBC GND\TWR:freetext
+Geo:EPBC Groundlayout:
+Regions:EPBC Groundlayout:polygon
+Runways:EPBC 10L-28R:name
+Runways:EPBC 10R-28L:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:10000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:347.46000
+TAGFAMILY:P21-TWR
+WINDOWAREA:52.152581:20.924310:52.179889:21.008374
+PLUGIN:Ground Radar plugin:AirportElevation:348
+PLUGIN:Ground Radar plugin:AirportRadius:2
+PLUGIN:Ground Radar plugin:GroundMode:EPBC
