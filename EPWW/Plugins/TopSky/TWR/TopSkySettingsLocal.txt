@@ -1,4 +1,5 @@
 Setup_AutoSignIn=1
+Window_CPDLC_Setting=1,60,65
 
 //You can add personal settings here so they won't get overwritten by data updates from GNG.
 

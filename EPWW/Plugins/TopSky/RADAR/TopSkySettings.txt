@@ -236,7 +236,6 @@ System_MetarSourceVATSIM=1
 System_TaxiTime=8
 System_TrueColorMode=1
 System_UseAcceptedCoordColor=1
-System_UseILScat=1
 System_UseReportedGS=1
 
 //Track settings

@@ -4,60 +4,98 @@ ATIS2:REPLACE %% WITH YOUR INITIALS
 ATIS3:
 ATIS4:
 
-PROFILE:EPWW_CTR:300:6
+PROFILE:EPWW_ALL_CTR:300:6
 ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWW]
 ATIS3:Sector ALLFIR | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
-PROFILE:EPWW_B_CTR:300:6
-ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWB]
-ATIS3:Sector B | Check coverage at vats.im/firepww 
+PROFILE:EPWW_ALH_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWH]
+ATIS3:Sector ALLFIR HIGH (FL365+) | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
-PROFILE:EPWW_C_CTR:300:6
-ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWC]
-ATIS3:Sector C | Check coverage at vats.im/firepww 
-ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
-PROFILE:EPWW_D_CTR:300:6
-ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWD]
-ATIS3:Sector D | Check coverage at vats.im/firepww 
+
+PROFILE:EPWW_N_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWN]
+ATIS3:Sector North FIR | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
 PROFILE:EPWW_E_CTR:300:6
 ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWE]
-ATIS3:Sector E | Check coverage at vats.im/firepww 
+ATIS3:Sector East FIR | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWW_S_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWS]
+ATIS3:Sector South FIR | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+
+PROFILE:EPWW_C_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWC]
+ATIS3:Sector C LOW | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWW_D_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWD]
+ATIS3:Sector D LOW | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
 PROFILE:EPWW_F_CTR:300:6
 ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWF]
-ATIS3:Sector F | Check coverage at vats.im/firepww 
+ATIS3:Sector F LOW | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
 PROFILE:EPWW_G_CTR:300:6
 ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWG]
-ATIS3:Sector G (North-west sector)| Check coverage at vats.im/firepww 
+ATIS3:Sector G LOW | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
 PROFILE:EPWW_J_CTR:300:6
 ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWJ]
-ATIS3:Sector J (South sector)| Check coverage at vats.im/firepww 
+ATIS3:Sector J LOW | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
-PROFILE:EPWW_N_CTR:300:6
-ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWN]
-ATIS3:Sector N (North sector) | Check coverage at vats.im/firepww 
+
+PROFILE:EPWW_DBT_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPD1]
+ATIS3:Sector D+B+T | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
-PROFILE:EPWW_R_CTR:300:6
-ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWR]
-ATIS3:Sector R | Check coverage at vats.im/firepww 
+PROFILE:EPWW_DBF_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPD2]
+ATIS3:Sector D+B+F+G | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWW_DTC_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPD4]
+ATIS3:Sector D+T+C | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWW_DT_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPD3]
+ATIS3:Sector D+T | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+
+PROFILE:EPWW_FG_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPF1]
+ATIS3:Sector F+G | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+
+PROFILE:EPWW_JR_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPJ1]
+ATIS3:Sector J+R | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWW_NE_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPN1]
+ATIS3:Sector N+E | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWW_TM_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPT1]
+ATIS3:Sector T MID | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWW_TCJ_CTR:300:6
+ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPT2]
+ATIS3:Sector T+C+J | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+
 PROFILE:EPWW_T_CTR:300:6
 ATIS2:Warszawa Radar | TRAINING SESSION - Trainee | CPDLC/DCL FL95+ [EPWW]
 ATIS3:Sector ALLFIR | Check coverage at vats.im/firepww 
-ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
-PROFILE:EPWW_U_CTR:300:6
-ATIS2:Warszawa Radar | CPDLC/DCL FL95+ [EPWU]
-ATIS3:Sector UPPER | Covering FIR EPWW above FL365
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
 PROFILE:EPWW_X_CTR:300:6
 ATIS2:Warszawa Radar | TRAINING SESSION - Mentor | CPDLC/DCL FL95+ [EPWW]
 ATIS3:Sector ALLFIR | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
 
-PROFILE:EPBY_TWR:30:4
+PROFILE:EPBY_TWR:50:4
 ATIS2:Bydgoszcz Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epby
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
@@ -97,11 +135,11 @@ PROFILE:EPKK_RZ_APP:150:5
 ATIS2:Krakow Approach | Rzeszow Sector | PDC/DCL [EPRZ]
 ATIS3:Covering EPRZ | Pilot briefing and charts at vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
-PROFILE:EPLB_TWR:30:4
+PROFILE:EPLB_TWR:50:4
 ATIS2:Lublin Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/eplb
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPLL_TWR:30:4
+PROFILE:EPLL_TWR:50:4
 ATIS2:Lodz Tower | PROCEDURAL CONTROL 
 ATIS3:Pilot briefing and charts on vats.im/epll
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
@@ -113,27 +151,27 @@ PROFILE:EPPO_S_APP:150:5
 ATIS2:Poznan Approach | South Sector | PDC/DCL [EPWR]
 ATIS3:Covering EPWR | Pilot briefing and charts at vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
-PROFILE:EPRA_TWR:30:4
+PROFILE:EPRA_TWR:50:4
 ATIS2:Radom Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epra
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPRZ_TWR:30:4
+PROFILE:EPRZ_TWR:50:4
 ATIS2:Rzeszow Tower | PROCEDURAL CONTROL | PDC/DCL [EPRZ]
 ATIS3:Pilot briefing and charts on vats.im/eprz
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPRZ_T_TWR:30:4
+PROFILE:EPRZ_T_TWR:50:4
 ATIS2:Rzeszow Tower | PROCEDURAL CONTROL | TRAINING SESSION - Trainee | PDC/DCL [EPRZ]
 ATIS3:Pilot briefing and charts on vats.im/eprz
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPRZ_X_TWR:30:4
+PROFILE:EPRZ_X_TWR:50:4
 ATIS2:Rzeszow Tower | PROCEDURAL CONTROL | TRAINING SESSION - Mentor | PDC/DCL [EPRZ]
 ATIS3:Pilot briefing and charts on vats.im/eprz
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPSC_TWR:30:4
+PROFILE:EPSC_TWR:50:4
 ATIS2:Szczecin Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epsc
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPSY_TWR:30:4
+PROFILE:EPSY_TWR:50:4
 ATIS2:Mazury Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epsy
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
@@ -161,7 +199,7 @@ PROFILE:EPWA_F_APP:150:5
 ATIS2:Warszawa Approach | Director Sector
 ATIS3:REPORT CALLSIGN ONLY | Pilot briefing and charts on vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
-PROFILE:EPZG_TWR:30:4
+PROFILE:EPZG_TWR:50:4
 ATIS2:Zielona Gora Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epzg
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl

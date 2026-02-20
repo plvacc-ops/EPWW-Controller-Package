@@ -10,7 +10,7 @@ Fixes:symbol:16774131:3.5:0:1:7
 Fixes:name:53760:3.1:0:0:2
 Sids:line:6872317:3.0:0:1:7
 Stars:line:1137813:3.0:0:1:7
-ARTCC high boundary:line:4144959:3.0:0:1:7
+ARTCC high boundary:line:4144959:3.0:0:2:7
 ARTCC boundary:line:6386792:3.0:0:2:7
 ARTCC low boundary:line:6908265:3.0:0:1:7
 Geo:line:16777215:3.0:0:0:7
