@@ -234,12 +234,14 @@
 ..cavia Wznos zgodnie z SIDem i utrzymuj wysokosc $1 ft
 .caqvia Climb via SID and maintain altitude $1 ft on QNH $altim($arr)
 ..caqvia Wznos zgodnie z SIDem i utrzymuj wysokosc $1 ft na QNH $altim($arr)
-.d Descend and maintain flight level $1
-..d Znizaj i utrzymuj poziom lotu $1
-.da Descend and maintain altitude $1 ft
-..da Znizaj i utrzymuj wysokosc $1 ft
-.daq Descend and maintain altitude $1 ft on QNH $altim($arr)
-..daq Znizaj i utrzymuj wysokosc $1 ft na QNH $altim($arr)
+.d Descend flight level $1
+..d Znizaj poziom lotu $1
+.da Descend altitude $1 ft
+..da Znizaj wysokosc $1 ft
+.dm Descend and maintain flight level $1
+..dm Znizaj i utrzymuj poziom lotu $1 
+.dam Descend and maintain altitude $1 ft on QNH $altim($arr)
+..dam Znizaj i utrzymuj wysokosc $1 ft on QNH $altim($arr)
 .dvia Descend via STAR and maintain flight level $1
 ..dvia Znizaj zgodnie ze STARem i utrzymuj poziom lotu $1
 .davia Descend via STAR and maintain altitude $1 ft
@@ -363,8 +365,8 @@
 ..helpnopush Znajdujesz sie na stanowisku oddalonym, ktore nie wymaga wypychania, jedynie uruchamiania. Po uruchomieniu mozesz wykolowac ze stanowiska.
 .helptext Voice is the preferred method of communication on VATSIM. Ability to at least receive voice communication is now required, unless you have qualifying disabilities. Are you able to receive voice?
 ..helptext Glos jest preferowana metoda komunikacji na VATSIM. Umiejetnosc co najmniej odbierania transmisji glosowych jest teraz wymagana, z wyjatkiem uzasadnionych przyczyn medycznych. Jesteś w stanie odbierac komunikaty glosowe?
-.v Voice is the preferred method of communication on VATSIM. Ability to at least receive voice communication is now required, unless you have qualifying disabilities. Are you able to receive voice?
-..v Glos jest preferowana metoda komunikacji na VATSIM. Umiejetnosc co najmniej odbierania transmisji glosowych jest teraz wymagana, z wyjatkiem uzasadnionych przyczyn medycznych. Jesteś w stanie odbierac komunikaty glosowe?
+.v Voice is the preferred method of communication on VATSIM. Ability to at least receive voice communication is preffered, unless you have qualifying disabilities. Are you able to receive voice?
+..v Glos jest preferowana metoda komunikacji na VATSIM. Umiejetnosc co najmniej odbierania transmisji glosowych jest mile widziana. Czy jestes w stanie odbierac komunikaty glosowe?
 .ch .chat $aircraft
 .with Are you with me, on the frequency?
 .hmic Please check your microphone, you're still trasmitting

@@ -95,7 +95,7 @@ ATIS2:Warszawa Radar | TRAINING SESSION - Mentor | CPDLC/DCL FL95+ [EPWW]
 ATIS3:Sector ALLFIR | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
 
-PROFILE:EPBY_TWR:30:4
+PROFILE:EPBY_TWR:50:4
 ATIS2:Bydgoszcz Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epby
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
@@ -135,11 +135,11 @@ PROFILE:EPKK_RZ_APP:150:5
 ATIS2:Krakow Approach | Rzeszow Sector | PDC/DCL [EPRZ]
 ATIS3:Covering EPRZ | Pilot briefing and charts at vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
-PROFILE:EPLB_TWR:30:4
+PROFILE:EPLB_TWR:50:4
 ATIS2:Lublin Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/eplb
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPLL_TWR:30:4
+PROFILE:EPLL_TWR:50:4
 ATIS2:Lodz Tower | PROCEDURAL CONTROL 
 ATIS3:Pilot briefing and charts on vats.im/epll
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
@@ -151,27 +151,27 @@ PROFILE:EPPO_S_APP:150:5
 ATIS2:Poznan Approach | South Sector | PDC/DCL [EPWR]
 ATIS3:Covering EPWR | Pilot briefing and charts at vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
-PROFILE:EPRA_TWR:30:4
+PROFILE:EPRA_TWR:50:4
 ATIS2:Radom Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epra
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPRZ_TWR:30:4
+PROFILE:EPRZ_TWR:50:4
 ATIS2:Rzeszow Tower | PROCEDURAL CONTROL | PDC/DCL [EPRZ]
 ATIS3:Pilot briefing and charts on vats.im/eprz
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPRZ_T_TWR:30:4
+PROFILE:EPRZ_T_TWR:50:4
 ATIS2:Rzeszow Tower | PROCEDURAL CONTROL | TRAINING SESSION - Trainee | PDC/DCL [EPRZ]
 ATIS3:Pilot briefing and charts on vats.im/eprz
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPRZ_X_TWR:30:4
+PROFILE:EPRZ_X_TWR:50:4
 ATIS2:Rzeszow Tower | PROCEDURAL CONTROL | TRAINING SESSION - Mentor | PDC/DCL [EPRZ]
 ATIS3:Pilot briefing and charts on vats.im/eprz
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPSC_TWR:30:4
+PROFILE:EPSC_TWR:50:4
 ATIS2:Szczecin Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epsc
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
-PROFILE:EPSY_TWR:30:4
+PROFILE:EPSY_TWR:50:4
 ATIS2:Mazury Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epsy
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
@@ -199,7 +199,7 @@ PROFILE:EPWA_F_APP:150:5
 ATIS2:Warszawa Approach | Director Sector
 ATIS3:REPORT CALLSIGN ONLY | Pilot briefing and charts on vats.im/EPWW
 ATIS4:Check airports coverage and submit your feedback at plvacc.pl
-PROFILE:EPZG_TWR:30:4
+PROFILE:EPZG_TWR:50:4
 ATIS2:Zielona Gora Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epzg
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
