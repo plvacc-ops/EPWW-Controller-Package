@@ -200,7 +200,7 @@ FPCP_4D_PathBuffer_Descent=1000
 FPCP_4D_PathBuffer_Descent_Max=1500
 FPCP_PredictionTime=10
 
-Vector_Label_Position=0
+Vector_Label_Position=10
 Vector_AHDG_Label_Time=1
 
 SafetyNets_Inhibit_SSR=0002
