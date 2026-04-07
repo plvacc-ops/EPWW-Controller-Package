@@ -95,6 +95,33 @@ ATIS2:Warszawa Radar | TRAINING SESSION - Mentor | CPDLC/DCL FL95+ [EPWW]
 ATIS3:Sector ALLFIR | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
 
+PROFILE:EPWW_ST_CTR:300:6
+ATIS2:Warszawa Radar | TRAINING SESSION - Trainee | CPDLC/DCL FL95+ [EPWS]
+ATIS3:Sector South FIR | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWW_SX_CTR:300:6
+ATIS2:Warszawa Radar | TRAINING SESSION - Mentor | CPDLC/DCL FL95+ [EPWS]
+ATIS3:Sector South FIR | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+
+PROFILE:EPWW_NT_CTR:300:6
+ATIS2:Warszawa Radar | TRAINING SESSION - Trainee | CPDLC/DCL FL95+ [EPWN]
+ATIS3:Sector North FIR | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWW_NX_CTR:300:6
+ATIS2:Warszawa Radar | TRAINING SESSION - Mentor | CPDLC/DCL FL95+ [EPWN]
+ATIS3:Sector North FIR | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+
+PROFILE:EPWW_DTT_CTR:300:6
+ATIS2:Warszawa Radar | TRAINING SESSION - Trainee | CPDLC/DCL FL95+ [EPD4]
+ATIS3:Sector D+T+C | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWW_DTX_CTR:300:6
+ATIS2:Warszawa Radar | TRAINING SESSION - Mentor | CPDLC/DCL FL95+ [EPD4]
+ATIS3:Sector D+T+C | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+
 PROFILE:EPBY_TWR:50:4
 ATIS2:Bydgoszcz Tower | PROCEDURAL CONTROL
 ATIS3:Pilot briefing and charts on vats.im/epby
@@ -208,23 +235,51 @@ PROFILE:EPWW_I_CTR:300:6
 ATIS2:Warszawa Information
 ATIS3:Flight Information Service | Covering FIR EPWW below FL95 in class G airspace ONLY
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+
 PROFILE:EPGD_I_APP:150:5
 ATIS2:Gdansk Information
 ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPGD_IE_APP:150:5
+ATIS2:Gdansk Information
+ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+
 PROFILE:EPKK_I_APP:150:5
 ATIS2:Krakow Information
 ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPKK_IE_APP:150:5
+ATIS2:Krakow Information
+ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+
 PROFILE:EPPO_I_APP:150:5
 ATIS2:Poznan Information
 ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPPO_IS_APP:150:5
+ATIS2:Poznan Information
+ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+
 PROFILE:EPSY_I_APP:150:5
 ATIS2:Warszawa Information
 ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
 PROFILE:EPWA_I_APP:150:5
+ATIS2:Warszawa Information
+ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWA_IE_APP:150:5
+ATIS2:Warszawa Information
+ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWA_IW_APP:150:5
+ATIS2:Warszawa Information
+ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
+ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
+PROFILE:EPWW_IE_CTR:150:5
 ATIS2:Warszawa Information
 ATIS3:Flight Information Service | Check coverage at vats.im/firepww 
 ATIS4:Check pilot briefings, charts and submit your feedback on plvacc.pl
