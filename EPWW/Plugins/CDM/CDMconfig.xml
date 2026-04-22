@@ -4,10 +4,12 @@
 	<rateLvo ops="10" />
 	<expiredCtot time="5" />
 	<realMode mode="true" />
+	<bmi mode="false" />
 	<pilotTobt mode="true" />
 	<autoAtot mode="false" />
 	<invalidateAtTsat mode="true" />
 	<invalidateAtTobt mode="false" />
+	<readySetTsac mode="true" />
 	<Rates url="https://plvacc.pl/cdm/acdm_plugin/rate.txt" />
 	<Taxizones url="https://plvacc.pl/cdm/acdm_plugin/taxizones.txt" />
 	<Ctot url="https://plvacc.pl/cdm/acdm_plugin/ctot.txt" />
@@ -15,6 +17,7 @@
 	<DefaultTaxiTime minutes="7" />
 	<DeIceTimes light="3" medium="5" heavy="7" super="10"/>
 	<DeIceRemTaxi rem1Name= "PPS7A" rem1="2" rem2Name= "PPS13" rem2="4" rem3Name= "REM-5" rem3="5" rem4Name= "REM-7" rem4="7" rem5Name= "REM-10" rem5="10"/>
+	<eventModeMin time="5" />
 	<RefreshTime seconds="10" />
 	<Debug mode="false" />
 	<FlowRestrictions url="" />
