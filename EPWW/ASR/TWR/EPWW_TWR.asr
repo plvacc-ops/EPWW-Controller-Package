@@ -6,6 +6,7 @@ SECTORTITLE:
 ARTCC boundary:EPBY TMA OUT:
 ARTCC boundary:EPDE MTMA OUT:
 ARTCC boundary:EPGD TMA OUT:
+ARTCC boundary:EPKK TMA IN:
 ARTCC boundary:EPKK TMA OUT:
 ARTCC boundary:EPLB TMA OUT:
 ARTCC boundary:EPLL TMA OUT:
@@ -19,15 +20,15 @@ ARTCC boundary:EPWA TMA OUT:
 ARTCC boundary:EPZG TMA OUT:
 ARTCC high boundary:FIR border 0 - EDMM:
 ARTCC high boundary:FIR border 0 - EDWW:
+ARTCC high boundary:FIR border 0 - EPWW:
 ARTCC high boundary:FIR border 0 - ESAA:
 ARTCC high boundary:FIR border 0 - EYVL:
+ARTCC high boundary:FIR border 0 - LHCC:
 ARTCC high boundary:FIR border 0 - LKAA:
 ARTCC high boundary:FIR border 0 - LOVV:
 ARTCC high boundary:FIR border 0 - LZBB:
-ARTCC high boundary:FIR border 0 - UKLV-E:
-ARTCC high boundary:FIR border 0 - UKLV-W:
+ARTCC high boundary:FIR border 0 - UKLV:
 ARTCC high boundary:FIR border 0 - UMMV:
-ARTCC high boundary:FIR border EPWW:
 Free Text:SCT2\A007/GND:freetext
 Free Text:SCT2\A010/GND:freetext
 Free Text:SCT2\A013/GND:freetext
@@ -195,7 +196,7 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:P21-TWR
+TAGFAMILY:P21
 WINDOWAREA:48.645304:8.147846:55.786562:30.120998
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
