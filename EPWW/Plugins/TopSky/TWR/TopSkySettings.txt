@@ -4,7 +4,7 @@
 // Plane Colors
 Color_Unknown=239,224,42
 Color_Unconcerned=150,150,156
-Color_Concerned=256,256,256
+Color_Concerned=255,255,255
 Color_Coordination=0,210,0
 Color_Assumed=0,210,0
 Color_Redundant=236,155,90
@@ -41,7 +41,7 @@ Color_Inactive_Sector=67,73,76
 Color_Info_Coord=1,255,255
 Color_Information_FL=41,245,41
 Color_Information=212,128,44
-Color_Informed=275,125,175
+Color_Informed=255,125,175
 Color_Map_1=80,95,80
 Color_Map_2=44,44,44
 Color_Map_3=100,108,111
