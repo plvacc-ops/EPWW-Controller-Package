@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>EPEL.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin304</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>33ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin304">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>33ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>EPEL</name>
+		<Folder>
+			<name>Base</name>
+			<Placemark>
+				<name>Base</name>
+				<styleUrl>#msn_ylw-pushpin41</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								19.42541007028607,54.14544158582044,0 19.4230423261368,54.14610309890284,0 19.42205433456485,54.14422709108936,0 19.4218975181647,54.14407226680667,0 19.4184282579478,54.14486658222497,0 19.41731547667943,54.14290946878745,0 19.41531480201429,54.14326091323847,0 19.41448189012601,54.14223918998517,0 19.4142077588311,54.14222348287436,0 19.4141409910261,54.14215795181568,0 19.41471488708765,54.14193377396735,0 19.41276047321244,54.14069056838199,0 19.41092514097035,54.13978105541381,0 19.40954159845824,54.13911471015437,0 19.41179169662163,54.13849632528127,0 19.41259033972869,54.13870660833975,0 19.41295097336991,54.13861656368039,0 19.41361948172819,54.13853599183015,0 19.41416292856666,54.1385170849581,0 19.41442038162076,54.1384793929609,0 19.41458986765701,54.13847941810149,0 19.41462609681528,54.13857437435198,0 19.41460252368355,54.13874667503184,0 19.41461219749826,54.13895095268904,0 19.41469183606558,54.13907381351947,0 19.41489443155631,54.13917805511331,0 19.41525597375181,54.13925336469461,0 19.41544079777404,54.13935716920516,0 19.41559627499965,54.13942611919475,0 19.41572866698948,54.13942613810421,0 19.4162154427015,54.13942158051433,0 19.416459206052,54.13942161449129,0 19.41682236868257,54.13932553592775,0 19.41726509958381,54.13933012949953,0 19.4177372712426,54.13941254835911,0 19.41813388165614,54.13941260039391,0 19.4183391566203,54.13925748086644,0 19.41852087973756,54.13901758885019,0 19.41996691336477,54.13925007158787,0 19.42044242360396,54.13927672880694,0 19.42089728016504,54.13935759265418,0 19.4209998698095,54.13943994279357,0 19.42121286110212,54.13973020640324,0 19.42198686632969,54.13951588073613,0 19.42420379860143,54.13891815549609,0 19.42460948007418,54.13879231389018,0 19.42481569880383,54.13871926941951,0 19.42492209194353,54.1386100923535,0 19.42505001637406,54.1385767724655,0 19.42601382960139,54.1385620973879,0 19.42638114976268,54.13857684529725,0 19.42647614198444,54.1385990394605,0 19.42691582595562,54.13872319684079,0 19.42745230875678,54.13875001797082,0 19.42748554934071,54.13893415776033,0 19.42763584560572,54.13897671679992,0 19.42779659695429,54.13896604360449,0 19.42821268188826,54.1389589536775,0 19.42849945398351,54.1389589628291,0 19.42865471523602,54.13911073472813,0 19.42880705121308,54.13932187606184,0 19.42904730725274,54.13942746724984,0 19.42924718783445,54.13944730621103,0 19.42963385486902,54.13943144161014,0 19.42996606876623,54.13932577032804,0 19.43019502528853,54.13926814969111,0 19.43054135978983,54.13917752140268,0 19.43154756093519,54.1396506990699,0 19.43164508739214,54.13974316445957,0 19.43268026131407,54.14032097284816,0 19.43431160343253,54.14124227717295,0 19.43432363244558,54.1413802045742,0 19.43426270970217,54.1414696612677,0 19.43414377533572,54.14164874562373,0 19.43375364665577,54.14211873945383,0 19.43267460972109,54.14328073189488,0 19.42541007028607,54.14544158582044,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>RWY Grass</name>
+			<Placemark>
+				<name>RWY 08/26</name>
+				<styleUrl>#msn_ylw-pushpin41</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								19.41509879528682,54.13979138134253,0 19.43101061953765,54.14145187781643,0 19.43093499400031,54.14191877446285,0 19.41486036447089,54.14024116303373,0 19.41509879528682,54.13979138134253,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>TWY Grass</name>
+			<open>1</open>
+			<Placemark>
+				<name>TWY</name>
+				<styleUrl>#msn_ylw-pushpin41</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								19.42360711529127,54.14115516555339,0 19.42353090869126,54.14116154201123,0 19.42349099898104,54.14117036427566,0 19.42346058820732,54.14118808105565,0 19.42339937718918,54.14122082788996,0 19.42337699353729,54.14126907849268,0 19.42343077401976,54.14157172374494,0 19.42367139932954,54.14237382424461,0 19.4240312443537,54.143638850846,0 19.42358573455932,54.14368656482273,0 19.4233650991526,54.14281212768681,0 19.42301385015887,54.14179602258707,0 19.42276235457577,54.14106431442013,0 19.42360711529127,54.14115516555339,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>APN</name>
+			<Placemark>
+				<name>APN</name>
+				<styleUrl>#msn_ylw-pushpin41</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								19.42326154422157,54.14468867736325,0 19.42369265897752,54.14460875744737,0 19.42384983545442,54.14491231334191,0 19.42355160690304,54.14497187822839,0 19.42356547919366,54.14503352649738,0 19.42358277514904,54.14513222555493,0 19.42376534171141,54.1450993175277,0 19.42391589882153,54.14538961208587,0 19.42366283630099,54.14543702783727,0 19.42354396615015,54.14520835800231,0 19.42349857543368,54.14511988387547,0 19.42351277901753,54.14506024987638,0 19.42351285871776,54.14503147098331,0 19.42349896447748,54.1449821507688,0 19.42342175637501,54.14499447883956,0 19.42326154422157,54.14468867736325,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>APN Grass</name>
+			<Placemark>
+				<name>APN Grass</name>
+				<styleUrl>#msn_ylw-pushpin41</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								19.42403122793555,54.14363994573636,0 19.42495345855726,54.14506195468691,0 19.42384230510001,54.14525495362318,0 19.42376241806575,54.14509791415409,0 19.4235874337567,54.14513152987071,0 19.42356681104734,54.14504918379985,0 19.42355477971401,54.14496816649832,0 19.42385229919884,54.144913220862,0 19.42369337079649,54.14460752171374,0 19.42336698041764,54.14466855996039,0 19.42318120609,54.14435364821522,0 19.4226320972064,54.14447811037114,0 19.4223722410054,54.14399554251096,0 19.42192135011098,54.14408351828358,0 19.42174545460801,54.14382999192668,0 19.42057741521942,54.14407997315637,0 19.42044716948375,54.14386925889247,0 19.42347462009839,54.14324673911216,0 19.42358337418309,54.14368672610676,0 19.42403122793555,54.14363994573636,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Buildings</name>
+			<Placemark>
+				<name>Hangar1</name>
+				<styleUrl>#msn_ylw-pushpin41</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								19.42337767962322,54.14573969193665,0 19.42439344932333,54.14544246866733,0 19.42446946558736,54.14553209158769,0 19.42345425228425,54.14582678890051,0 19.42337767962322,54.14573969193665,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Hangar2</name>
+				<styleUrl>#msn_ylw-pushpin41</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								19.42341986454634,54.14547671597913,0 19.42330872704719,54.14525046093877,0 19.42354613880455,54.1452084373392,0 19.42366066433345,54.145436484941,0 19.42341986454634,54.14547671597913,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Hangar3</name>
+				<styleUrl>#msn_ylw-pushpin41</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								19.42286812061609,54.14475638651213,0 19.42326273671791,54.14468745310906,0 19.42342542336073,54.14499564170959,0 19.42303772780029,54.14506863109961,0 19.42286812061609,54.14475638651213,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Hangar4</name>
+				<styleUrl>#msn_ylw-pushpin41</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								19.42279205118901,54.1445856610766,0 19.42271024026664,54.14446053022628,0 19.42317840200729,54.14435404154376,0 19.42325566853695,54.14448183429126,0 19.42279205118901,54.1445856610766,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Hangar5</name>
+				<styleUrl>#msn_ylw-pushpin41</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								19.42150636564886,54.1438805635069,0 19.42157476337017,54.14398844537294,0 19.42127327388163,54.14406079187895,0 19.42119564863359,54.14394939085877,0 19.42150636564886,54.1438805635069,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>BuildingLabels</name>
+			<Placemark>
+				<name>Hangars</name>
+				<LookAt>
+					<longitude>19.42551078729622</longitude>
+					<latitude>54.14528133174861</latitude>
+					<altitude>0</altitude>
+					<heading>0.001125378595721374</heading>
+					<tilt>10.95244999373768</tilt>
+					<range>1317.004157605201</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin26</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>19.42278597113773,54.14468508153716,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>TaxiwayLabels</name>
+			<open>1</open>
+			<Placemark>
+				<name>26</name>
+				<LookAt>
+					<longitude>19.42196302404258</longitude>
+					<latitude>54.14149154468689</latitude>
+					<altitude>0</altitude>
+					<heading>-1.113194138512231e-13</heading>
+					<tilt>0</tilt>
+					<range>1960.973659348557</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>19.43050953892802,54.14160747716075,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>08</name>
+				<LookAt>
+					<longitude>19.42196302404258</longitude>
+					<latitude>54.14149154468689</latitude>
+					<altitude>0</altitude>
+					<heading>-1.113194138512231e-13</heading>
+					<tilt>0</tilt>
+					<range>1960.973659348557</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>19.41540105100644,54.14003013106979,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	</Folder>
+</Document>
+</kml>

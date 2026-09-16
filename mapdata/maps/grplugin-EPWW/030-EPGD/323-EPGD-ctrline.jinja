@@ -1,0 +1,21 @@
+MAP:RWY:A
+AIRPORT:EPGD,EPWW
+FOLDER:APP
+COLOR:runway-app
+ASRDATA:TWR
+ACTIVE:1
+STYLE:Solid:2
+//11-29
+LINE:N054.22.51.841:E018.27.07.380:N054.22.16.561:E018.29.30.181
+
+MAP:RWY CTRLINE:A
+AIRPORT:EPGD,EPWW
+FOLDER:APP
+COLOR:runway-ctrline
+ASRDATA:TWR
+ACTIVE:1
+{{ ecl_dashes(runways['EPGD']['11'], 15) }}
+{{ marker_ticks(runways['EPGD']['11'], [5, 10, 15], -0.5, 1) }}
+
+{{ ecl_dashes(runways['EPGD']['29'], 15) }}
+{{ marker_ticks(runways['EPGD']['29'], [5, 10, 15], -0.5, 1) }}

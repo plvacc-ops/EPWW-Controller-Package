@@ -1,0 +1,3868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>EPWAstands.kml</name>
+	<open>1</open>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1327"></atom:link>
+	<StyleMap id="default">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default0">
+	</Style>
+	<Style id="default1">
+	</Style>
+	<StyleMap id="default2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="hl0">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin148">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin156</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin149</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin149">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14">
+	</Style>
+	<Style id="sn_ylw-pushpin156">
+	</Style>
+	<Folder>
+		<name>APN1</name>
+		<Placemark>
+			<name>80</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9618854,52.1802823,0 20.9615141,52.180576,0 20.9617309,52.1806037,0 20.9618263,52.1806198,0 20.9618647,52.18062070000001,0 20.9622349,52.1803278,0 20.9618854,52.1802823,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>81</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9625726,52.179557,0 20.9624036,52.17998129999999,0 20.9624792,52.1799905,0 20.9625978,52.1799992,0 20.9626958,52.1799992,0 20.9627701,52.1799964,0 20.9628409,52.1799888,0 20.9629175,52.1799738,0 20.9630139,52.1799481,0 20.9630463,52.1799346,0 20.9629904,52.17981979999999,0 20.9629229,52.1796923,0 20.9628715,52.179638,0 20.9628258,52.17961330000001,0 20.962782,52.179598,0 20.9625726,52.179557,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>82</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.961444,52.1802249,0 20.9610742,52.1805175,0 20.9615141,52.180576,0 20.9618854,52.1802823,0 20.961444,52.1802249,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>83</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9618857,52.1794653,0 20.9617416,52.1799009,0 20.9624036,52.17998129999999,0 20.9625726,52.179557,0 20.9623654,52.17952950000001,0 20.9618857,52.1794653,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>84</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9608289,52.1804929,0 20.9609095,52.1804935,0 20.9610742,52.1805175,0 20.961444,52.1802249,0 20.9610756,52.180177,0 20.9606315,52.1805284,0 20.9607026,52.1805053,0 20.9607486,52.1804965,0 20.9608289,52.1804929,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>85</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9611408,52.1793667,0 20.9609903,52.1798131,0 20.9617416,52.1799009,0 20.9618857,52.1794653,0 20.9611408,52.1793667,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>86</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9602138,52.1800582,0 20.9601186,52.1803518,0 20.9601058,52.1804074,0 20.9601172,52.180446,0 20.9601351,52.1804762,0 20.9601487,52.1804912,0 20.9601734,52.18050540000001,0 20.9602166,52.1805228,0 20.9603335,52.1805433,0 20.9604491,52.1805576,0 20.9605377,52.18055469999999,0 20.960699,52.18012730000001,0 20.9604916,52.1801006,0 20.9602138,52.1800582,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>87</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9606956,52.1793124,0 20.9606216,52.1793141,0 20.9605863,52.17932020000001,0 20.9605477,52.1793296,0 20.960517,52.179345,0 20.9604706,52.17937490000001,0 20.9604431,52.1794135,0 20.9604296,52.17943579999999,0 20.9603301,52.17972270000001,0 20.9609903,52.1798131,0 20.9611408,52.1793667,0 20.9606956,52.1793124,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>88</name>
+			<styleUrl>#msn_ylw-pushpin148</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9598171,52.1792294,0 20.959702,52.1793612,0 20.9596497,52.1794211,0 20.9596363,52.1794368,0 20.9596172,52.1794651,0 20.9596131,52.17948520000001,0 20.9596163,52.1795064,0 20.9596246,52.179529,0 20.9596416,52.1795495,0 20.9596711,52.1795695,0 20.959705,52.1795844,0 20.9596874,52.1796309,0 20.960193,52.1798105,0 20.9603246,52.1794443,0 20.9603534,52.1793677,0 20.9603379,52.1793445,0 20.9603147,52.17932519999999,0 20.9602844,52.179307,0 20.9602566,52.1792936,0 20.9602279,52.1792865,0 20.9601715,52.1792793,0 20.9598171,52.1792294,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>80</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96193608882674,52.18048094374608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>81</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96267487006475,52.17974949091925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>82</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96153201315997,52.18042412126395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>83</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96201792609057,52.17971145801873,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>84</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9611108140376,52.18038295857912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>85</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96136742281458,52.17962986467819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>86</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96046172201215,52.18024660668575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>87</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96071668578316,52.17957831747827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>88</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.95996672740573,52.17952037656025,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>APN2</name>
+		<Placemark>
+			<name>201</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9537658,52.166565,0 20.9534612,52.1666492,0 20.9535824,52.1668058,0 20.9538839,52.16671770000001,0 20.9537658,52.166565,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>202</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9535591,52.1662975,0 20.9532545,52.1663817,0 20.953266,52.1663968,0 20.9533757,52.1665383,0 20.9536771,52.1664502,0 20.9535591,52.1662975,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>203</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9531886,52.1659532,0 20.9531088,52.1662705,0 20.9532327,52.1662817,0 20.9533179,52.16596680000001,0 20.9531886,52.1659532,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>201</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9537055,52.1667354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>202</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9534971,52.1664693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>203</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.95320898439199,52.16611833614569,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>APN3</name>
+		<Placemark>
+			<name>1</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9711681,52.1729264,0 20.9709196,52.1729682,0 20.9707114,52.17288439999999,0 20.9705776,52.1730582,0 20.9707284,52.1731162,0 20.9707587,52.1732152,0 20.9713757,52.1734223,0 20.9715038,52.1732761,0 20.9715644,52.1732065,0 20.9715768,52.1731873,0 20.9715792,52.1731649,0 20.9715708,52.1731425,0 20.9715487,52.17311010000001,0 20.9715191,52.17307410000001,0 20.9714911,52.17304909999999,0 20.9714683,52.1730331,0 20.9714431,52.1730195,0 20.9714095,52.1730059,0 20.9713817,52.17299620000001,0 20.9711681,52.1729264,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>2</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9707587,52.1732152,0 20.9705507,52.17325209999999,0 20.9704532,52.1732198,0 20.970326,52.1733852,0 20.9704094,52.1734128,0 20.9704736,52.17353479999999,0 20.9710967,52.173741,0 20.9713757,52.1734223,0 20.9707587,52.1732152,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>3</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9710967,52.173741,0 20.9708147,52.1740631,0 20.97074808342622,52.17403958198681,0 20.97027992097119,52.17368193621903,0 20.97035958994633,52.17358384394432,0 20.9704736,52.17353479999999,0 20.9710967,52.173741,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>3A</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.97081403487591,52.17406393569967,0 20.97067422353024,52.17422290134012,0 20.97017458116691,52.17384254358902,0 20.96996749014524,52.17367330023807,0 20.97009961840138,52.17352491422885,0 20.97028473035878,52.17368465277391,0 20.97075101882244,52.17404171946732,0 20.97081403487591,52.17406393569967,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.97066590308562,52.17422195001545,0 20.97057,52.1743426,0 20.9705397,52.1743613,0 20.9705126,52.1743703,0 20.9704866,52.1743741,0 20.9704494,52.1743726,0 20.9704159,52.1743658,0 20.9701824,52.1742882,0 20.9699809,52.1742226,0 20.9699479,52.1742108,0 20.9699197,52.1741965,0 20.969852,52.1740534,0 20.9697412,52.1740186,0 20.969886,52.1738515,0 20.9699981,52.1738892,0 20.9701929,52.1738568,0 20.97066590308562,52.17422195001545,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9699687,52.1742614,0 20.9703867,52.17440020000001,0 20.9704166,52.1744138,0 20.9704381,52.1744313,0 20.9704466,52.1744524,0 20.970447,52.17447769999999,0 20.9704335,52.1744996,0 20.97025968578223,52.17470148954808,0 20.96966510594286,52.17440603971495,0 20.9695943,52.17424380000001,0 20.9698367,52.174219,0 20.9699687,52.1742614,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>5A</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.96951930973707,52.17454782664112,0 20.96945572340747,52.1744115053366,0 20.96932511523779,52.17435220562734,0 20.96950957677408,52.17421555398282,0 20.96961583819236,52.1743046201858,0 20.96967531876771,52.17441104205101,0 20.97025613996852,52.1747021769892,0 20.97009223867425,52.17489028760173,0 20.96951930973707,52.17454782664112,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.97009576774111,52.17488958560416,0 20.9699032,52.1751075,0 20.9692374,52.1748867,0 20.9692006,52.1748054,0 20.9691232,52.1747226,0 20.9691647,52.1746737,0 20.9691091,52.1746553,0 20.9691563,52.1745997,0 20.9692119,52.1746181,0 20.9692535,52.1745691,0 20.9693402,52.1745978,0 20.9695116,52.1745445,0 20.97009576774111,52.17488958560416,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9699032,52.1751075,0 20.9697611,52.1752704,0 20.96956569726397,52.17549755191141,0 20.96943826844925,52.17532963997913,0 20.96931503825762,52.1751879851934,0 20.96908285907606,52.17503851434795,0 20.96883384737792,52.17494916301361,0 20.9688848,52.1748704,0 20.969003,52.1749106,0 20.9692374,52.1748867,0 20.9699032,52.1751075,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>7A</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.96908175425177,52.17503639591495,0 20.96934096967633,52.17520858110937,0 20.96956804970358,52.17549475416584,0 20.96892299946004,52.17528350115927,0 20.96879559780071,52.17514957095081,0 20.968803,52.1750356,0 20.9687975,52.1750055,0 20.9688337,52.1749495,0 20.96908175425177,52.17503639591495,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.96956690862644,52.17549609918289,0 20.9694141,52.1756682,0 20.9694004,52.1756823,0 20.9693856,52.1756943,0 20.9693684,52.1757047,0 20.969348,52.17571109999999,0 20.969324,52.1757161,0 20.9692932,52.1757169,0 20.9692591,52.17571410000001,0 20.9692267,52.1757077,0 20.9690437,52.1756471,0 20.9689589,52.1756189,0 20.9689212,52.1756043,0 20.9688582,52.1755778,0 20.9687679,52.1754331,0 20.9686242,52.1753857,0 20.9687634,52.17522949999999,0 20.9688994,52.1752743,0 20.96905530160969,52.17532882470189,0 20.96956690862644,52.17549609918289,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9681908,52.17467010000001,0 20.9681622,52.1747971,0 20.9679274,52.17492010000001,0 20.9679302,52.1749386,0 20.9677768,52.1750377,0 20.9677437,52.17518429999999,0 20.9678077,52.1752071,0 20.968371,52.1753921,0 20.9684249,52.17540940000001,0 20.9684722,52.1754077,0 20.9685141,52.1753986,0 20.9685539,52.17537610000001,0 20.9685858,52.17533709999999,0 20.9687236,52.1751816,0 20.9687351,52.1751636,0 20.9687419,52.1751464,0 20.9687446,52.1751239,0 20.968743,52.1750876,0 20.9687339,52.1750373,0 20.9684824,52.17483750000001,0 20.9685134,52.1747002,0 20.9681908,52.17467010000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>10L</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9678776,52.1745959,0 20.9672398,52.1750076,0 20.9673954,52.175062,0 20.9676186,52.1751398,0 20.9677768,52.1750377,0 20.9679302,52.1749386,0 20.9679274,52.17492010000001,0 20.9678776,52.1745959,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9677742,52.174323,0 20.9676385,52.1744548,0 20.9669434,52.1749035,0 20.9669989,52.1749235,0 20.9672398,52.1750076,0 20.9678776,52.1745959,0 20.9679634,52.17446609999999,0 20.9680031,52.1744206,0 20.9680233,52.1743975,0 20.9678638,52.17434550000001,0 20.9678166,52.17433209999999,0 20.9677742,52.174323,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>10R</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.967075,52.174431,0 20.9665904,52.1747501,0 20.9666061,52.1747652,0 20.9666253,52.174778,0 20.9666711,52.1748007,0 20.9667228,52.1748229,0 20.9668724,52.1748781,0 20.9669434,52.1749035,0 20.9676385,52.1744548,0 20.967075,52.174431,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9684196,52.1738414,0 20.9682681,52.173791,0 20.968194,52.17364160000001,0 20.9680771,52.1736031,0 20.9676204,52.1734527,0 20.967148,52.17399289999999,0 20.9678593,52.17397269999999,0 20.9679457,52.1739711,0 20.9681378,52.1739568,0 20.9682893,52.17400720000001,0 20.9684196,52.1738414,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>13L</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9680771,52.1736031,0 20.9676204,52.1734527,0 20.96780689386915,52.17323780347122,0 20.96821768771985,52.17337894459421,0 20.968377,52.1734545,0 20.9684394,52.173475,0 20.9684054,52.1735202,0 20.9683593,52.1735816,0 20.9682969,52.17356100000001,0 20.9680771,52.1736031,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>13</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9688256,52.173562,0 20.9686069,52.17349,0 20.9684054,52.1735202,0 20.9684394,52.173475,0 20.968377,52.1734545,0 20.96822793496959,52.1733805886363,0 20.96781234226648,52.17323960046268,0 20.96797101260583,52.17305337034079,0 20.9687518,52.17330949999999,0 20.9689343,52.1733695,0 20.9689806,52.1733848,0 20.9688256,52.173562,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>13R</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9688306,52.17304200000001,0 20.9688242,52.17308180000001,0 20.9688828,52.1730862,0 20.9689212,52.173196,0 20.9690407,52.1732359,0 20.9689343,52.1733695,0 20.96797077215503,52.17305355591874,0 20.96816802586034,52.1728294882291,0 20.9688306,52.17304200000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>14L</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9689608,52.1729506,0 20.9689251,52.1729917,0 20.9687983,52.1729494,0 20.9686256,52.1729799,0 20.9681673,52.17282740000001,0 20.96835419409505,52.17260234753958,0 20.9689157,52.1727921,0 20.9690579,52.1728389,0 20.9689608,52.1729506,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>14</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9689608,52.1729506,0 20.9690579,52.1728389,0 20.9689157,52.1727921,0 20.96835416687776,52.17260237361135,0 20.9684874238984,52.1724491795352,0 20.969295,52.1727175,0 20.9694434,52.17276639999999,0 20.9694661,52.1727393,0 20.9695277,52.17275960000001,0 20.9693696,52.17294029999999,0 20.9692372,52.17289659999999,0 20.9689608,52.1729506,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>14R</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9694661,52.1727393,0 20.9694434,52.17276639999999,0 20.969295,52.1727175,0 20.96848837129348,52.17244805268096,0 20.9687177,52.17219810000001,0 20.9691731,52.1723497,0 20.9693474,52.1724077,0 20.9693608,52.1724349,0 20.9693545,52.1724747,0 20.969384,52.17247690000001,0 20.9694274,52.17255919999999,0 20.9695758,52.1726081,0 20.9694661,52.1727393,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>15L</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9694151,52.1723751,0 20.969294,52.17233359999999,0 20.9691731,52.1723497,0 20.9687177,52.17219810000001,0 20.96890235873737,52.1719823029211,0 20.9694618,52.1721652,0 20.96955,52.17219540000001,0 20.9694749,52.17229549999999,0 20.9694151,52.1723751,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>15</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9699174,52.1723143,0 20.9696727,52.1722333,0 20.9694749,52.17229549999999,0 20.96955,52.17219540000001,0 20.9694618,52.1721652,0 20.96890052590162,52.17198172346197,0 20.96904402374439,52.17182503166965,0 20.9698399,52.1720945,0 20.9699988,52.1721471,0 20.9700188,52.17212080000001,0 20.970068,52.17213709999999,0 20.970034,52.172181,0 20.9699174,52.1723143,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>15R</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9700188,52.17212080000001,0 20.9699988,52.1721471,0 20.9698399,52.1720945,0 20.96904036869823,52.17182387527576,0 20.9691717,52.171679,0 20.969203,52.1716444,0 20.9692276,52.1716259,0 20.9692479,52.1716162,0 20.9692717,52.17160950000001,0 20.9693032,52.1716058,0 20.96933,52.1716063,0 20.9693539,52.171609,0 20.9699011,52.1717907,0 20.9699713,52.1719324,0 20.9701234,52.17198279999999,0 20.9700188,52.17212080000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>16</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9701062,52.1715828,0 20.9703166,52.17165260000001,0 20.9704667,52.1714741,0 20.9703282,52.1714282,0 20.970217,52.1711942,0 20.9697477,52.1710285,0 20.9693473,52.1714856,0 20.9693385,52.1715061,0 20.9693423,52.1715314,0 20.969354,52.1715487,0 20.9693779,52.1715642,0 20.9696808,52.1716655,0 20.9701062,52.1715828,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>17</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9705638,52.17112970000001,0 20.9706172,52.17113920000001,0 20.9708177,52.1710635,0 20.9709881,52.17109369999999,0 20.9710414,52.17103310000001,0 20.9710908,52.1709099,0 20.9709107,52.170878,0 20.9708706,52.1708284,0 20.9707972,52.1708229,0 20.9708035,52.17078310000001,0 20.9708358,52.1707852,0 20.9707927,52.17073189999999,0 20.9701364,52.1705846,0 20.9697477,52.1710285,0 20.970217,52.1711942,0 20.9705638,52.17112970000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>18</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9712228,52.1706122,0 20.9713694,52.1706451,0 20.9714795,52.1704595,0 20.9713292,52.1704258,0 20.9712711,52.1703489,0 20.9712121,52.1703441,0 20.9712185,52.1703043,0 20.9712457,52.17030660000001,0 20.9712058,52.1702627,0 20.9705516,52.17011070000001,0 20.9701364,52.1705846,0 20.9707927,52.17073189999999,0 20.9712228,52.1706122,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>19</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9716048,52.1701331,0 20.9717931,52.1701768,0 20.9719438,52.1700038,0 20.9717205,52.16995189999999,0 20.9717001,52.1699178,0 20.9716011,52.1699105,0 20.9716074,52.16987069999999,0 20.9716748,52.1698757,0 20.9716325,52.1698053,0 20.9709655,52.1696381,0 20.9705516,52.17011070000001,0 20.9712058,52.1702627,0 20.9716048,52.1701331,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>20</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9720658,52.1697018,0 20.9721815,52.16973080000001,0 20.9722652,52.1696347,0 20.9722724,52.1696159,0 20.9722742,52.1695977,0 20.9722706,52.1695783,0 20.9722551,52.169556,0 20.972145,52.16947329999999,0 20.9720361,52.1693918,0 20.9720055,52.1693666,0 20.9719799,52.1693369,0 20.9719617,52.1693206,0 20.9719343,52.16930750000001,0 20.9717069,52.1692328,0 20.971672,52.1692244,0 20.9716414,52.1692207,0 20.9715993,52.16922690000001,0 20.971564,52.1692395,0 20.9713431,52.16932319999999,0 20.9712822,52.16934760000001,0 20.9712331,52.1693719,0 20.9711951,52.1693951,0 20.9711639,52.16941859999999,0 20.9711274,52.1694532,0 20.9709655,52.1696381,0 20.9716325,52.1698053,0 20.9720658,52.1697018,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>21</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9724266,52.16924409999999,0 20.9724817,52.16925239999999,0 20.9725741,52.1691462,0 20.9725098,52.16912489999999,0 20.9723751,52.1690204,0 20.9724155,52.1689944,0 20.9723991,52.16898170000001,0 20.9719888,52.1689226,0 20.9718218,52.1691136,0 20.9718013,52.16913649999999,0 20.9717906,52.1691513,0 20.9717905,52.1691744,0 20.9718004,52.1691932,0 20.9718211,52.1692122,0 20.9718474,52.16922719999999,0 20.971884,52.1692409,0 20.9720283,52.169288,0 20.9720536,52.1692966,0 20.9722179,52.16932139999999,0 20.9724266,52.16924409999999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>22</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9726719,52.1689143,0 20.9727602,52.1689289,0 20.9728538,52.1688218,0 20.9727928,52.1688016,0 20.9726581,52.1686971,0 20.9726985,52.1686711,0 20.9726792,52.1686612,0 20.9722718,52.1685989,0 20.9719888,52.1689226,0 20.9723991,52.16898170000001,0 20.9724629,52.1689909,0 20.9726719,52.1689143,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>23</name>
+			<styleUrl>#msn_ylw-pushpin148</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9729267,52.16855889999999,0 20.9731174,52.168588,0 20.9731742,52.168522,0 20.9731516,52.16851470000001,0 20.9731853,52.1684762,0 20.9730851,52.16845490000001,0 20.9729568,52.16834039999999,0 20.9725448,52.1682868,0 20.9722718,52.1685989,0 20.9726792,52.1686612,0 20.972745,52.1686712,0 20.9729267,52.1686129,0 20.9729267,52.16855889999999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>24</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9731882,52.168229,0 20.9733938,52.1682558,0 20.9734896,52.1681446,0 20.9733587,52.16812760000001,0 20.9731954,52.1679818,0 20.9729795,52.1679107,0 20.9729425,52.1679117,0 20.9729088,52.1679146,0 20.9728756,52.1679254,0 20.972848,52.1679417,0 20.9728302,52.1679603,0 20.9725448,52.1682868,0 20.9729568,52.16834039999999,0 20.9730348,52.1683506,0 20.9731882,52.1682981,0 20.9731882,52.168229,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>25L</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.97367311022798,52.16773455377582,0 20.97355019838698,52.16787207048818,0 20.9726355428367,52.16758839345506,0 20.97276776893653,52.16743100782117,0 20.97367311022798,52.16773455377582,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>25</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.97384414962059,52.16779028682043,0 20.97276776893653,52.16743100782117,0 20.97294391381933,52.16721129294633,0 20.97402666553116,52.16756440874223,0 20.97384414962059,52.16779028682043,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>25R</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.97295057509586,52.16721310452343,0 20.97306626542399,52.16707853648376,0 20.97408198820402,52.16740454361704,0 20.97395902697352,52.1675419193541,0 20.97295057509586,52.16721310452343,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>1</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97115921870761,52.17315166251293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97089340766746,52.17346928549348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97061381957411,52.17378731142706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97033943483974,52.17411050255446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96996539501033,52.17448385937777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96970189225432,52.17481549900795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96930743670594,52.1750903618114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7A</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96925952856911,52.17520527243901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96920935102172,52.17547715957188,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96826868163911,52.17506365647053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10L</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96777589895823,52.17476553048873,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96740729045053,52.17474784621698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10R</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96710064453071,52.1745836243496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9678062664832,52.17388220994108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13L</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96799719182676,52.17339580999904,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96835777450201,52.17329171464419,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13R</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96871883166575,52.17323370994378,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14L</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96854535916155,52.17276967841875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96925702229442,52.17278803621541,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14R</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96893583152179,52.17249828340885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15L</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96908830557614,52.17215014396809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9697852,52.17215700000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15R</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9694587854534,52.17187395014655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9698297214433,52.1713764687029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9704328963797,52.17089443267216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97079109254989,52.17041021036934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97120757955648,52.16993532274475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97165019891539,52.16949417216319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97216206039858,52.16911308266913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97241885813323,52.16878117681474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97277505351832,52.16847162090351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97304605787147,52.16814863538155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25L</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.973325021949,52.16768517049589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97346777851406,52.16752354782474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25R</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97363128142587,52.16733554095995,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>APN5</name>
+		<Placemark>
+			<name>31</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9650548,52.1735817,0 20.9647073,52.1739818,0 20.9653122,52.17418219999999,0 20.9656183,52.1738296,0 20.9656597,52.17378209999999,0 20.9650548,52.1735817,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>32</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.965404,52.1731813,0 20.9650548,52.1735817,0 20.9656597,52.17378209999999,0 20.9660091,52.17338169999999,0 20.965404,52.1731813,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>33</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9659551,52.1725496,0 20.9656263,52.1729265,0 20.9662314,52.1731269,0 20.9665602,52.17275,0 20.9659551,52.1725496,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>34</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9662895,52.1721661,0 20.9659551,52.1725496,0 20.9665602,52.17275,0 20.9668947,52.1723666,0 20.9662895,52.1721661,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>35</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9666408,52.1717633,0 20.9662895,52.1721661,0 20.9668947,52.1723666,0 20.9672462,52.1719636,0 20.9666408,52.1717633,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>36</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9684245,52.1706109,0 20.967517,52.1706748,0 20.967183,52.1710547,0 20.9680905,52.1709907,0 20.9684245,52.1706109,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>37</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9684245,52.1706109,0 20.9687883,52.1701966,0 20.9678812,52.1702605,0 20.967517,52.1706748,0 20.9684245,52.1706109,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>38</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9682212,52.1698738,0 20.9678812,52.1702605,0 20.9687883,52.1701966,0 20.9691257,52.1698097,0 20.9682212,52.1698738,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>39</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9697157,52.1691341,0 20.9688161,52.16919709999999,0 20.9684821,52.1695771,0 20.969384,52.1695134,0 20.9697157,52.1691341,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>40</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9691504,52.1688169,0 20.9688161,52.16919709999999,0 20.9697157,52.1691341,0 20.9698684,52.1689607,0 20.9700493,52.16875630000001,0 20.9691504,52.1688169,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>41</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.970668,52.1680572,0 20.9697619,52.1681215,0 20.9694233,52.1685065,0 20.9703266,52.168443,0 20.970668,52.1680572,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>42</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.970107,52.1677289,0 20.9697619,52.1681215,0 20.970668,52.1680572,0 20.9710154,52.1676646,0 20.970107,52.1677289,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>47</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9746598,52.1658826,0 20.9740863,52.1660416,0 20.9743484,52.1663926,0 20.9746009,52.1665377,0 20.9749237,52.166448,0 20.9748696,52.1663741,0 20.97494,52.1662579,0 20.9746598,52.1658826,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>48</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.975244,52.16572070000001,0 20.9746598,52.1658826,0 20.97494,52.1662579,0 20.9751459,52.1663863,0 20.9754614,52.1662987,0 20.9754078,52.1662241,0 20.9755,52.1660707,0 20.9752705,52.16575689999999,0 20.9752588,52.1657409,0 20.975244,52.16572070000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>31</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96517693186324,52.17390131183148,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>32</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96554297866125,52.17347825869729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>33</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96609488463654,52.17283780775903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>34</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96648020835833,52.17244092474598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>35</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96686144216446,52.17203595463441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>36</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96780669663411,52.17084804116499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>37</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96815206945086,52.17043182967348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>38</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96850027991938,52.17001441390531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>39</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96910033291247,52.16935865741626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96935180817881,52.16895145266805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97004597509468,52.16828895558729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>42</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97038325439367,52.16786781201698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>47</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97453228864528,52.16614443616802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>48</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97506130692071,52.16598211911133,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>APN7</name>
+		<Placemark>
+			<name>71</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.96462928250148,52.17562900137134,0 20.9644625,52.1758248,0 20.9643855,52.1757936,0 20.963407,52.1754645,0 20.96356378891524,52.17528313514919,0 20.96462928250148,52.17562900137134,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>72</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9631587,52.175752,0 20.9641387,52.1760744,0 20.9642132,52.1761042,0 20.96403274623469,52.17631544055723,0 20.96296744764046,52.175978085799,0 20.9631587,52.175752,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>73</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.96357071970618,52.17682938137289,0 20.963409,52.1770148,0 20.9633355,52.1769881,0 20.9623876,52.1766449,0 20.96253862220813,52.17648748230192,0 20.96357071970618,52.17682938137289,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>74</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9618018,52.17732339999999,0 20.9627494,52.1776548,0 20.9628441,52.1776879,0 20.9630036,52.1774978,0 20.9629138,52.1774678,0 20.961954,52.177147,0 20.9618018,52.17732339999999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>75</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9615869,52.17850179999999,0 20.9609654,52.1792712,0 20.9602663,52.17918230000001,0 20.96046208317788,52.17895339605385,0 20.96094326271414,52.17888731236732,0 20.96134610921917,52.17842835112125,0 20.9615869,52.17850179999999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>76</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9626361,52.1788168,0 20.9621173,52.1794176,0 20.96164371228047,52.17925479952606,0 20.96199081550861,52.17916184599969,0 20.96235502697058,52.17872806904516,0 20.9626361,52.1788168,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>701</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.96481099180252,52.1754172098434,0 20.9646267239624,52.17562817577252,0 20.96356258750077,52.17528074056232,0 20.96374848910554,52.17506425616043,0 20.96481099180252,52.1754172098434,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>702</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9631587,52.175752,0 20.9641387,52.1760744,0 20.9642132,52.1761042,0 20.9644625,52.1758248,0 20.9643855,52.1757936,0 20.963407,52.1754645,0 20.9631587,52.175752,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>703</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.96280316311907,52.17616379230179,0 20.96296744764046,52.175978085799,0 20.96403409427837,52.17631387872081,0 20.96386440631883,52.17651471944825,0 20.96280316311907,52.17616379230179,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>704</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.96253665528747,52.176487649462,0 20.96280099157926,52.17616243258141,0 20.96381579727694,52.17649994655881,0 20.96385658262663,52.1765170982571,0 20.96357239897988,52.17682992118725,0 20.96253665528747,52.176487649462,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>705</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9623876,52.1766449,0 20.9621385,52.1769333,0 20.9631054,52.1772499,0 20.9631887,52.1772772,0 20.963409,52.1770148,0 20.9633355,52.1769881,0 20.9623876,52.1766449,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>706</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9621385,52.1769333,0 20.961954,52.177147,0 20.9629138,52.1774678,0 20.9630036,52.1774978,0 20.9631887,52.1772772,0 20.9631054,52.1772499,0 20.9621385,52.1769333,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>707</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.961525,52.177644,0 20.9624816,52.1779595,0 20.9625869,52.1779943,0 20.9627428,52.1778085,0 20.9628441,52.1776879,0 20.9627494,52.1776548,0 20.9618018,52.17732339999999,0 20.961525,52.177644,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>708</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.96094326271414,52.17888731236732,0 20.96046088684617,52.17895479135058,0 20.96102007252247,52.17831956588982,0 20.96134963830731,52.1784276697491,0 20.96094326271414,52.17888731236732,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>709</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9615869,52.17850179999999,0 20.9609654,52.1792712,0 20.9614756,52.179336,0 20.9620519,52.1786414,0 20.9615869,52.17850179999999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>711</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9626361,52.1788168,0 20.9621173,52.1794176,0 20.9626866,52.17948989999999,0 20.9631108,52.1789593,0 20.9626361,52.1788168,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>710</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.96199081550861,52.17916184599969,0 20.96163202013707,52.17925811243223,0 20.96217176445999,52.17866712897551,0 20.96235475292182,52.17872740758264,0 20.96199081550861,52.17916184599969,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>712</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9631108,52.1789593,0 20.9626866,52.17948989999999,0 20.9629257,52.1795203,0 20.963211,52.1795566,0 20.9635975,52.1791054,0 20.9631108,52.1789593,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>71</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96407549312025,52.17548077516027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>72</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96355097955345,52.17608499501711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>73</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96298472114527,52.17673498825059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>74</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96236263277697,52.17738455887154,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>75</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9610702818349,52.17888745063808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>76</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96208984523734,52.17908932549282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>701</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.964120173299,52.1754297400844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>702</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9637013286331,52.17585459105737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>703</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96342997256739,52.17622284889275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>704</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96311038813903,52.17659322951389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>705</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96277696894863,52.17692031511491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>706</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96247840217876,52.17725439191227,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>707</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96224909496886,52.1776206907201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>708</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.960927,52.1787761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>709</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96144829191928,52.17893754826463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>710</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96201538173168,52.17906464911859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>711</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9625843816718,52.17917644269759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>712</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96313431818868,52.17929687368313,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>APN9</name>
+		<Placemark>
+			<name>91</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9680376,52.17641560000001,0 20.9677114,52.176724,0 20.9683094,52.17696230000001,0 20.9686377,52.176652,0 20.9680376,52.17641560000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>92</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9676419,52.1767897,0 20.9672943,52.1771182,0 20.9678923,52.17735650000001,0 20.9682381,52.17702969999999,0 20.9676419,52.1767897,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>93</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9672943,52.1771182,0 20.9669729,52.177422,0 20.9675709,52.1776603,0 20.9678923,52.17735650000001,0 20.9672943,52.1771182,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>94</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9669729,52.177422,0 20.9666884,52.177691,0 20.9672899,52.17792599999999,0 20.9675709,52.1776603,0 20.9669729,52.177422,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>95</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9661205,52.1765064,0 20.9660756,52.1766968,0 20.966029,52.1769208,0 20.966373,52.1770578,0 20.9667065,52.1767425,0 20.9661205,52.1765064,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>96</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9663369,52.176165,0 20.966172,52.1763219,0 20.9661502,52.1763724,0 20.966141,52.1764065,0 20.9661205,52.1765064,0 20.9667065,52.1767425,0 20.9670245,52.176442,0 20.9663369,52.176165,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>97</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9666302,52.1758859,0 20.9663369,52.176165,0 20.9670245,52.176442,0 20.9673362,52.1761474,0 20.9666302,52.1758859,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>98</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.966344,52.1770676,0 20.9659891,52.1774038,0 20.9660109,52.1774191,0 20.9660344,52.1774308,0 20.966455,52.1775998,0 20.9665077,52.1776019,0 20.9665388,52.1776017,0 20.9665688,52.1775994,0 20.9666039,52.1775924,0 20.9666368,52.1775822,0 20.9666658,52.1775692,0 20.9666885,52.1775546,0 20.9667052,52.17754039999999,0 20.9669497,52.177309,0 20.9667777,52.1772404,0 20.9665319,52.1771425,0 20.966344,52.1770676,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>91</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96819356394466,52.17667004365303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>92</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96775427683135,52.17708520691382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>93</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96743224009359,52.17738963664146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>94</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96711159891042,52.17769244440135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>95</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96635019219115,52.17681286489518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>96</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96656210169244,52.17647109139484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>97</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96683990362454,52.17615300372051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>98</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96647488939671,52.17735861480429,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>APN10</name>
+		<Placemark>
+			<name>55L</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.98369146941678,52.16428950971189,0 20.98238085421967,52.16468050502688,0 20.98224833322173,52.16450850599804,0 20.98357939263127,52.16413316935864,0 20.98369146941678,52.16428950971189,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>55</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9835754714826,52.16413262966616,0 20.98225431824607,52.16450415860324,0 20.98209711756306,52.1643262265311,0 20.98343861309332,52.16392771723591,0 20.9835754714826,52.16413262966616,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>55R</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.98210801897849,52.16432142307137,0 20.98198284922537,52.1641707881406,0 20.98329975397438,52.16375026352129,0 20.983439377443,52.16393034299325,0 20.98210801897849,52.16432142307137,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>56</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.98280295001045,52.16536420929434,0 20.9826142687193,52.16501594168478,0 20.98340850433112,52.16483605863149,0 20.98361428474708,52.16519349972064,0 20.98280295001045,52.16536420929434,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>57</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.98361519431964,52.16519652970951,0 20.98378931707524,52.16557352776064,0 20.98298609223669,52.16572810152879,0 20.98280576516824,52.16536525550973,0 20.98361519431964,52.16519652970951,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>58</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.98379101867056,52.16557332177864,0 20.98398359217678,52.16596440201915,0 20.98318995184255,52.16611312716693,0 20.98298636005966,52.16572930699408,0 20.98379101867056,52.16557332177864,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>59</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.98398199393864,52.16596577659298,0 20.98413214680494,52.16633028961093,0 20.98338136366208,52.16648840872401,0 20.98319035853859,52.16611360180229,0 20.98398199393864,52.16596577659298,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>55</name>
+			<styleUrl>#default</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9828872658744,52.1642112304223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>55L</name>
+			<styleUrl>#default</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98298093653545,52.16440936037114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>55R</name>
+			<styleUrl>#default</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98274221724174,52.1640447704044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>56</name>
+			<styleUrl>#default</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98302161829159,52.16510872623893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>57</name>
+			<styleUrl>#default</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98320824869594,52.16549765968745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>58</name>
+			<LookAt>
+				<longitude>20.98337806219297</longitude>
+				<latitude>52.16542367448589</latitude>
+				<altitude>0</altitude>
+				<heading>62.25672178939274</heading>
+				<tilt>0</tilt>
+				<range>282.5043260749241</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>20.98336298502457,52.16589346931624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>59</name>
+			<LookAt>
+				<longitude>20.98357382767109</longitude>
+				<latitude>52.16579697061883</latitude>
+				<altitude>0</altitude>
+				<heading>62.25687640548761</heading>
+				<tilt>0</tilt>
+				<range>283.1689800070246</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>20.98357467104539,52.1662760787634,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>APN11</name>
+		<Placemark>
+			<name>PPS11</name>
+			<styleUrl>#msn_ylw-pushpin16</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.95286403118057,52.17386882558246,0 20.9521980753427,52.17298801467077,0 20.95320553632995,52.17267936095433,0 20.95354561170627,52.17310945940797,0 20.95365804235806,52.17307551916838,0 20.95402113636264,52.17352115781645,0 20.95286403118057,52.17386882558246,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Apron 11</name>
+			<LookAt>
+				<longitude>20.95301916576993</longitude>
+				<latitude>52.17354872906404</latitude>
+				<altitude>0</altitude>
+				<heading>62.23315856172928</heading>
+				<tilt>24.28216925655259</tilt>
+				<range>472.1667162059462</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>20.95301184847726,52.17332953579538,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>APN12</name>
+		<Placemark>
+			<name>64L</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9828054,52.1532964,0 20.9826085,52.1535227,0 20.9836922,52.15388070000001,0 20.9838891,52.1536543,0 20.9828054,52.1532964,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>64</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9829977,52.1530754,0 20.9828054,52.1532964,0 20.9838891,52.1536543,0 20.9840814,52.1534333,0 20.9829977,52.1530754,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>64R</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9831812,52.1528644,0 20.9829977,52.1530754,0 20.9840814,52.1534333,0 20.9842674,52.15321949999999,0 20.9831812,52.1528644,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>65L</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9833898,52.1526246,0 20.9831812,52.1528644,0 20.9842674,52.15321949999999,0 20.984476,52.15297970000001,0 20.9833898,52.1526246,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>65</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9835949,52.1523888,0 20.9833898,52.1526246,0 20.984476,52.15297970000001,0 20.9846811,52.1527438,0 20.9835949,52.1523888,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>65R</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9837856,52.1521695,0 20.9835949,52.1523888,0 20.9846811,52.1527438,0 20.9848706,52.15252599999999,0 20.9837856,52.1521695,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>66L</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9839864,52.1519388,0 20.9837856,52.1521695,0 20.9848706,52.15252599999999,0 20.9850714,52.1522952,0 20.9839864,52.1519388,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>66</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9841605,52.15173860000001,0 20.9839864,52.1519388,0 20.9850714,52.1522952,0 20.9852455,52.1520951,0 20.9841605,52.15173860000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>66R</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9843633,52.15150550000001,0 20.9841605,52.15173860000001,0 20.9852455,52.1520951,0 20.9854472,52.1518633,0 20.9852897,52.15181140000001,0 20.9848709,52.15167309999999,0 20.9843633,52.15150550000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>64L</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98328737494128,52.15354432415247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>64</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98342559556845,52.15338519832148,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>64R</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98355686534605,52.15323072640913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>65L</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98388868584528,52.15285343584637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>65</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98402722756344,52.15269362283716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>65R</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.984165792739,52.15253471491403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>66L</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98448985948672,52.15216236176736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>66</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9846283231134,52.15200270198442,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>66R</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98468894047542,52.15181681128152,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>APN13</name>
+		<Placemark>
+			<name>101</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9805168,52.1576593,0 20.9793453,52.1579704,0 20.97921570434389,52.15779638769858,0 20.98037239066544,52.15747048007882,0 20.9805168,52.1576593,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>101A</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.97902068081375,52.15753261655615,0 20.98009709826646,52.15709989330139,0 20.98037485155701,52.15746981509755,0 20.97921708871075,52.15779421596064,0 20.97902068081375,52.15753261655615,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>102</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9805168,52.1576593,0 20.9793453,52.1579704,0 20.9796057,52.158321,0 20.9807862,52.1580193,0 20.9805168,52.1576593,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>103</name>
+			<styleUrl>#default2</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.98090847471237,52.15818776272608,0 20.97974958034962,52.1585144662259,0 20.9796057,52.158321,0 20.9807862,52.1580193,0 20.98090847471237,52.15818776272608,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>103A</name>
+			<styleUrl>#default2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.979752902196,52.15851513088494,0 20.98090311749019,52.15818760222163,0 20.98107466320512,52.15841135205901,0 20.97991295982297,52.15873387808625,0 20.979752902196,52.15851513088494,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>104</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9812456,52.15863540000001,0 20.9805005,52.1588457,0 20.980774,52.1592117,0 20.9815244,52.1590125,0 20.9812456,52.15863540000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>105</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9815244,52.1590125,0 20.980774,52.1592117,0 20.9809695,52.1594736,0 20.9810511,52.15958280000001,0 20.9813746,52.159494,0 20.9815791,52.15943770000001,0 20.9817908,52.1593728,0 20.9817514,52.15931940000001,0 20.9817216,52.1592792,0 20.9815244,52.1590125,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>101</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97982060707363,52.15766613556308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>101A</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97978038561395,52.15761249007836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>102</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98006701469468,52.1579966549124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>103</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98028476200987,52.1582885854397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>103A</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98035453485296,52.1583822249216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>104</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98101424524859,52.15893101760007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>105</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98128394675115,52.15929400684301,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>APN Cargo</name>
+		<Placemark>
+			<name>61</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9810635,52.1552453,0 20.9806704,52.1556915,0 20.9807633,52.1557096,0 20.9809323,52.1557431,0 20.981019,52.1557603,0 20.9810864,52.1557758,0 20.9811983,52.1558122,0 20.981388,52.15587579999999,0 20.9817106,52.15598399999999,0 20.9820026,52.1556519,0 20.9818168,52.1555913,0 20.9818825,52.1555167,0 20.9810635,52.1552453,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>63</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9823539,52.15494790000001,0 20.9825553,52.1550173,0 20.982819,52.1547149,0 20.9822668,52.1545306,0 20.9821361,52.1544869,0 20.9820473,52.1544495,0 20.9819554,52.1544021,0 20.9818462,52.1543463,0 20.981484,52.15476199999999,0 20.9822862,52.1550274,0 20.9823539,52.15494790000001,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>62</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9819517,52.155438,0 20.9821331,52.1555013,0 20.9824582,52.1551291,0 20.982259,52.1550609,0 20.9822862,52.1550274,0 20.981484,52.15476199999999,0 20.9810635,52.1552453,0 20.9818825,52.1555167,0 20.9819517,52.155438,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>61</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98124041457885,52.15571359457206,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>62</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.98179266480286,52.15515154361111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>63</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9820755612342,52.15462106961909,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>APN MIL</name>
+		<Placemark>
+			<name>801</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.971546,52.1765712,0 20.9714291,52.1767052,0 20.9716658,52.1767992,0 20.9717286,52.17682320000001,0 20.9717813,52.17684009999999,0 20.9718352,52.1768561,0 20.9718879,52.17686919999999,0 20.9719756,52.1768854,0 20.9720347,52.1768921,0 20.9720937,52.1768975,0 20.9721601,52.17662959999999,0 20.971546,52.1765712,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>802</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9717988,52.1762814,0 20.971546,52.1765712,0 20.9721601,52.17662959999999,0 20.972236,52.176323,0 20.9717988,52.1762814,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>803</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9720067,52.1760431,0 20.9717988,52.1762814,0 20.972236,52.176323,0 20.9722985,52.17607080000001,0 20.9720067,52.1760431,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>804</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9723973,52.1737048,0 20.9723492,52.1737083,0 20.9723128,52.1737149,0 20.9722859,52.173725,0 20.9722554,52.1737481,0 20.9718657,52.1741949,0 20.9723392,52.1743503,0 20.9726831,52.1744631,0 20.9731443,52.17393440000001,0 20.9730895,52.1739169,0 20.9728969,52.1738533,0 20.9725092,52.173725,0 20.9724611,52.1737109,0 20.9724337,52.17370580000001,0 20.9723973,52.1737048,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>805</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.971832,52.1742336,0 20.9716086,52.1744896,0 20.9720822,52.174645,0 20.9723055,52.174389,0 20.971832,52.1742336,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>806</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9716086,52.1744896,0 20.9713761,52.1747562,0 20.9718456,52.1749163,0 20.9720822,52.174645,0 20.9716086,52.1744896,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>807</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9713389,52.1747989,0 20.9711143,52.1750564,0 20.9715873,52.17521230000001,0 20.9718124,52.1749543,0 20.9713389,52.1747989,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>808</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9711143,52.1750564,0 20.9708854,52.1753188,0 20.9713585,52.1754747,0 20.9715873,52.17521230000001,0 20.9711143,52.1750564,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>809</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9708545,52.1753542,0 20.9706287,52.1756131,0 20.9711018,52.175769,0 20.9713275,52.17551009999999,0 20.9708545,52.1753542,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>810</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9706287,52.1756131,0 20.9703961,52.1758798,0 20.9708692,52.17603569999999,0 20.9711018,52.175769,0 20.9706287,52.1756131,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>811</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9703641,52.17591649999999,0 20.9701961,52.176109,0 20.9701848,52.1761345,0 20.9701825,52.1761594,0 20.9701883,52.176181,0 20.9702072,52.1762068,0 20.9702357,52.1762267,0 20.9702823,52.1762495,0 20.9705796,52.1763676,0 20.9708371,52.1760724,0 20.9703641,52.17591649999999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>812</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9698261,52.1768951,0 20.9695794,52.1771283,0 20.9700453,52.17731569999999,0 20.9702727,52.1770981,0 20.9702884,52.177083,0 20.9698261,52.1768951,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>813</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9694496,52.1767421,0 20.9692017,52.1769764,0 20.9695794,52.1771283,0 20.9698261,52.1768951,0 20.9694496,52.1767421,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>814</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9692017,52.1769764,0 20.9689648,52.1772004,0 20.9693421,52.17735260000001,0 20.9695794,52.1771283,0 20.9692017,52.1769764,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>815</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9689648,52.1772004,0 20.968726,52.1774261,0 20.9691034,52.1775783,0 20.9693421,52.17735260000001,0 20.9689648,52.1772004,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>816</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.968726,52.1774261,0 20.9684868,52.1776523,0 20.9688655,52.1778031,0 20.9691034,52.1775783,0 20.968726,52.1774261,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>817</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9684868,52.1776523,0 20.9682489,52.1778771,0 20.9686263,52.1780293,0 20.9688655,52.1778031,0 20.9684868,52.1776523,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>818</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.9682489,52.1778771,0 20.9680083,52.1781045,0 20.9682881,52.1782177,0 20.9684698,52.1781773,0 20.9686263,52.1780293,0 20.9682489,52.1778771,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>801</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97185344353953,52.1766934953646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>802</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9719365544557,52.17642091461979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>803</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97208110989929,52.17617764580537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>804</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97249540153213,52.17407551171353,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>805</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97194794749283,52.17444943282766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>806</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97173313587929,52.17469610062332,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>807</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97145877441197,52.17501047087785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>808</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97124085266509,52.17526042640094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>809</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97097224359194,52.1755683044634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>810</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97075509059809,52.1758174132829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>811</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.97049157577719,52.17613139534668,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>812</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96987334675326,52.17709213086433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>813</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96951443317153,52.17693601359949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>814</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96927386925043,52.17716271757822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>815</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96903632883422,52.17738719794787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>816</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96879546752685,52.17761495338259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>817</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.96855673292072,52.17784053938115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>818</name>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>gate</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>20.9683181049001,52.17806613998384,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Other</name>
+		<Placemark>
+			<name>LOT AMS</name>
+			<styleUrl>#msn_ylw-pushpin148</styleUrl>
+			<ExtendedData>
+				<Data name="feature_type">
+					<value>parkingstandarea</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							20.96582601382679,52.17935600589746,0 20.96572004035508,52.17901921317377,0 20.96606158196229,52.17884025542857,0 20.96715263945438,52.17869864909081,0 20.96779927958239,52.17905060398931,0 20.96836929700515,52.17979372032552,0 20.96567186221526,52.18012467212576,0 20.96507304998667,52.17967923616581,0 20.96501410936613,52.17946830015651,0 20.96582601382679,52.17935600589746,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>LOT AMS</name>
+			<LookAt>
+				<longitude>20.96895169776871</longitude>
+				<latitude>52.17807665442007</latitude>
+				<altitude>0</altitude>
+				<heading>62.24560155574668</heading>
+				<tilt>30.04688495364545</tilt>
+				<range>611.6900002897399</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#default</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>20.9667690488097,52.17915073955832,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

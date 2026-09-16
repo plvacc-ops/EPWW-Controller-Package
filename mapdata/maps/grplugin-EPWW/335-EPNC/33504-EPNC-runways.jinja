@@ -1,0 +1,8 @@
+MAP:Runway
+AIRPORT:EPNC,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
+
+{% for name, geom in data.epnc_kml['RWY Grass'].items() %}
+    {{- geom | to_poly(name, 'runway-grass') }}
+{% endfor %}
