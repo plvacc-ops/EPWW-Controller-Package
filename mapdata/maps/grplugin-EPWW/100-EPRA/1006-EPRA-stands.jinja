@@ -1,0 +1,10 @@
+MAP:Stands
+AIRPORT:EPRA,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
+COLOR:standline
+STYLE:solid
+
+{% for name, geom in data.epra_kml['Stands'].items() %}
+    {{- geom | to_line(name) }}
+{% endfor %}

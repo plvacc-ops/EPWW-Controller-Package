@@ -1,0 +1,77 @@
+// + APRON 1 +
+
+{% for name, geom in data.EPWAstands_kml['APN1'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}
+
+// + APRON 2 +
+
+{% for name, geom in data.EPWAstands_kml['APN2'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}
+
+// + APRON 3 +
+
+{% for name, geom in data.EPWAstands_kml['APN3'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}
+
+// + APRON 5 +
+
+{% for name, geom in data.EPWAstands_kml['APN5'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}
+
+// + APRON 7 +
+
+{% for name, geom in data.EPWAstands_kml['APN7'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}
+
+// + APRON 9 +
+
+{% for name, geom in data.EPWAstands_kml['APN9'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}
+
+// + APRON 10 +
+
+{% for name, geom in data.EPWAstands_kml['APN10'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}
+
+// + APRON 11 +
+
+{% for name, geom in data.EPWAstands_kml['APN11'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}
+
+// + APRON 12 +
+
+{% for name, geom in data.EPWAstands_kml['APN12'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}
+
+// + APRON 13 +
+
+{% for name, geom in data.EPWAstands_kml['APN13'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}
+
+// + APRON CARGO +
+
+{% for name, geom in data.EPWAstands_kml['APN Cargo'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}
+
+// + MILITARY APRON +
+
+{% for name, geom in data.EPWAstands_kml['APN MIL'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}
+
+// + Other +
+
+{% for name, geom in data.EPWAstands_kml['Other'].items() %}
+    {{- geom | to_poly(name) }}
+{% endfor %}

@@ -1,0 +1,10 @@
+MAP:Roads
+AIRPORT:EPNC,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
+COLOR:road
+STYLE:solid
+
+{% for name, geom in data.epnc_kml['Roads'].items() %}
+    {{- geom | to_line(name) }}
+{% endfor %}

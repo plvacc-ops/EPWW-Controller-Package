@@ -1,0 +1,10 @@
+MAP:Buildings
+AIRPORT:EPWA,EPWW
+FOLDER:Labels
+COLOR:labels-stand
+FONTSIZE:=:10
+
+ZOOM:500
+{% for name, geom in data.epwa_kml['BuildingLabels'].items() %}
+    {{- geom | to_text(name) }}
+{% endfor %}

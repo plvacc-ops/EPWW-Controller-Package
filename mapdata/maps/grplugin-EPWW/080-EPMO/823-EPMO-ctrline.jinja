@@ -1,0 +1,21 @@
+MAP:RWY:A
+AIRPORT:EPMO,EPWW
+FOLDER:APP
+COLOR:runway-app
+ASRDATA:TWR
+ACTIVE:1
+STYLE:Solid:2
+//08-26
+LINE:N052.26.58.240:E020.38.01.298:N052.27.10.541:E020.40.12.140
+
+MAP:RWY CTRLINE:A
+AIRPORT:EPMO,EPWW
+FOLDER:APP
+COLOR:runway-ctrline
+ASRDATA:TWR
+ACTIVE:1
+{{ ecl_dashes(runways['EPMO']['08'], 15) }}
+{{ marker_ticks(runways['EPMO']['08'], [5, 10, 15], -0.5, 1) }}
+
+{{ ecl_dashes(runways['EPMO']['26'], 15) }}
+{{ marker_ticks(runways['EPMO']['26'], [5, 10, 15], -0.5, 1) }}
