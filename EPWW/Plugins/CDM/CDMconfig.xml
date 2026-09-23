@@ -2,7 +2,7 @@
 <CDM>
 	<rate ops="20" />
 	<rateLvo ops="10" />
-	<expiredCtot time="5" />
+	<expiredCtot time="15" />
 	<realMode mode="true" />
 	<bmi mode="false" />
 	<pilotTobt mode="true" />
@@ -10,11 +10,11 @@
 	<invalidateAtTsat mode="true" />
 	<invalidateAtTobt mode="false" />
 	<readySetTsac mode="true" />
-	<Rates url="https://plvacc.pl/cdm/acdm_plugin/rate.txt" />
-	<Taxizones url="https://plvacc.pl/cdm/acdm_plugin/taxizones.txt" />
-	<Slots url="https://plvacc.pl/cdm/acdm_plugin/ctot.txt" />
-	<sidInterval url="https://plvacc.pl/cdm/acdm_plugin/SID_rate_EPWW.txt" />
-	<DefaultTaxiTime minutes="7" />
+	<Rates url="https://raw.githubusercontent.com/plvacc-ops/CDM-EPWW/refs/heads/main/config/rate.txt" />
+	<Taxizones url="https://raw.githubusercontent.com/plvacc-ops/CDM-EPWW/refs/heads/main/config/taxizones.txt" />
+	<Slots url="https://raw.githubusercontent.com/plvacc-ops/CDM-EPWW/refs/heads/main/config/slot.txt" />
+	<sidInterval url="https://raw.githubusercontent.com/plvacc-ops/CDM-EPWW/refs/heads/main/config/SID_rate_EPWW.txt" />
+	<DefaultTaxiTime minutes="8" />
 	<DeIceTimes light="3" medium="5" heavy="7" super="10"/>
 	<DeIceRemTaxi rem1Name= "PPS7A" rem1="2" rem2Name= "PPS13" rem2="4" rem3Name= "REM-5" rem3="5" rem4Name= "REM-7" rem4="7" rem5Name= "REM-10" rem5="10"/>
 	<eventModeMin time="5" />
@@ -33,6 +33,6 @@
 	<eventPriority mode="true" />
 	<autoSetTobtFromEvSlot mode="true" />
 	<remarksOptionCtot mode="false" />
-	<PrivateMessage text="PLEASE SUBMIT YOUR TOBT AND MONITOR https://vats.im/vdgs FOR CDM AND ATFCM UPDATES. BEST REGARDS FROM PLVACC" />
-	<loading text="Loading..." />
+	<PrivateMessage text="PLEASE SUBMIT YOUR TOBT AND MONITOR https://vats.im/vdgs FOR CDM AND ATFCM UPDATES. REPORT AT TSAT +/- 5 MINUTES IF READY." />
+	<loading text="..." />
 </CDM>
