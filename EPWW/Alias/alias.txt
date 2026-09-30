@@ -81,8 +81,10 @@
 ..tsat Mozecie sprawdzic swoj aktualny TSAT na https://vats.im/EPWA-ACDM
 .vdgs Please set your TOBT at https://vats.im/vdgs
 ..vdgs Prosze ustawic swoj TOBT na https://vats.im/vdgs
-.fls Your flight plan is suspended. The flight was not reported as airborne after 5 minutes after the expected take-off time. Update your flight plan with acurate EOBT.
-..fls Twoj plan lotu jest zawieszony. Lot nie zostal zarejestrowany jako w powietrzu po 5 minutach po przewidywanym czasie startu. Zaktualizuj swoj plan lotu z odpowiednim EOBT.
+.flscdm Your flight plan is suspended. The flight was not reported as off-block after 5 minutes after the target start-up approval time. Update your flight plan with acurate TOBT at https://vats.im/vdgs.
+..flscdm Twoj plan lotu jest zawieszony. Lot nie zostal zarejestrowany jako w ruchu po 5 minutach po przydzielonym czasie uruchamiania. Zaktualizuj swoj plan lotu z odpowiednim TOBT na https://vats.im/vdgs.
+.flsnra Your flight plan is suspended. The flight was not reported as airborne after 5 minutes after the expected take-off time. Update your flight plan with acurate EOBT.
+..flsnra Twoj plan lotu jest zawieszony. Lot nie zostal zarejestrowany jako w powietrzu po 5 minutach po przewidywanym czasie startu. Zaktualizuj swoj plan lotu z odpowiednim EOBT.
 
 
 ;*** - GROUND - ***
