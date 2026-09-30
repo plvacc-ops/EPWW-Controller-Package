@@ -73,12 +73,17 @@
 ..pscont Oczekujcie, po pushback nawiazcie lacznosc z $radioname($1), czestotliwosc $freq($1). Do widzenia!
 .cdminfo All stations, all stations, attention: CDM is in use. Check out your slot at https://vats.im/EPWA-ACDM . You will NOT get start-up clearance outside TSAT.
 ..cdminfo Do wszystkich stacji, do wszystkich stacji. Uwaga: CDM w uzyciu. Sprawdz swoj slot na https://vats.im/EPWA-ACDM . Uruchamianie zgodnie z TSAT.
+.eobt Please check your EOBT (Off Block UTC) in your filled flight plan. ATC clearances are issued not earlier than 30 minutes before EOBT/CTOT. Update your flight plan with acurate EOBT.
+..eobt Prosze sprawdzic swoj EOBT (Off Block UTC) w swoim planie lotu. Zezwolenia sa wydawane najwczesniej na 30 minut przed EOBT/CTOT. Zaktualizuj swoj plan lotu z odpowiednim EOBT.
 .tobt Please set your TOBT at https://vats.im/EPWA-ACDM
 ..tobt Prosze ustawic swoj TOBT na https://vats.im/EPWA-ACDM
 .tsat You can find your current TSAT at https://vats.im/EPWA-ACDM
 ..tsat Mozecie sprawdzic swoj aktualny TSAT na https://vats.im/EPWA-ACDM
 .vdgs Please set your TOBT at https://vats.im/vdgs
 ..vdgs Prosze ustawic swoj TOBT na https://vats.im/vdgs
+.fls Your flight plan is suspended. The flight was not reported as airborne after 5 minutes after the expected take-off time. Update your flight plan with acurate EOBT.
+..fls Twoj plan lotu jest zawieszony. Lot nie zostal zarejestrowany jako w powietrzu po 5 minutach po przewidywanym czasie startu. Zaktualizuj swoj plan lotu z odpowiednim EOBT.
+
 
 ;*** - GROUND - ***
 .ps Pushback and startup approved, QNH $altim($dep).
