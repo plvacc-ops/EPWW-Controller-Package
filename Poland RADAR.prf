@@ -27,6 +27,11 @@ Plugins	Plugin7	\EPWW\Plugins\VCH\VCH.dll
 Plugins	Plugin7Display0	Ground Radar display
 Plugins	Plugin7Display1	Standard ES radar screen
 Plugins	Plugin8	\EPWW\Plugins\AMAN\Aman.dll
+Plugins	Plugin9	\EPWW\Plugins\XPGuard\XPGuardES.dll
+Plugins	Plugin9Display0	Ground Radar display
+Plugins	Plugin10	\EPWW\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin10Display0	Standard ES radar screen
+Plugins	Plugin10Display1	Ground Radar display
 Settings	aircraft	\EPWW\ICAO\ICAO_Aircraft.txt
 Settings	airlines	\EPWW\ICAO\ICAO_Airlines.txt
 Settings	airports	\EPWW\ICAO\ICAO_Airports.txt
