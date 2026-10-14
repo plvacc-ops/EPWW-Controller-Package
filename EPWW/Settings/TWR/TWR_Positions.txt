@@ -16,6 +16,14 @@ PROFILE:EPGD_TWR:50:4
 ATIS2:Gdansk Tower | PDC/DCL [EPGD]
 ATIS3:Pilot briefing and charts on vats.im/epgd
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPGD_T_TWR:50:4
+ATIS2:Gdansk Tower | TRAINING SESSION - Trainee | PDC/DCL [EPGD]
+ATIS3:Pilot briefing and charts on vats.im/epgd
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPGD_X_TWR:50:4
+ATIS2:Gdansk Tower | TRAINING SESSION - Mentor | PDC/DCL [EPGD]
+ATIS3:Pilot briefing and charts on vats.im/epgd
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPKK_DEL:20:2
 ATIS2:Krakow Delivery | PDC/DCL [EPKK]
 ATIS3:Pilot briefing and charts on vats.im/epkk
@@ -42,6 +50,14 @@ ATIS3:Pilot briefing and charts on vats.im/epkt
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPKT_GND:20:3
 ATIS2:Katowice Ground | PDC/DCL [EPKT]
+ATIS3:Pilot briefing and charts on vats.im/epkt
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPKT_T_TWR:50:4
+ATIS2:Katowice Tower | TRAINING SESSION - Trainee | PDC/DCL [EPKT] 
+ATIS3:Pilot briefing and charts on vats.im/epkt
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPKT_X_TWR:50:4
+ATIS2:Katowice Tower | TRAINING SESSION - Mentor | PDC/DCL [EPKT] 
 ATIS3:Pilot briefing and charts on vats.im/epkt
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPKT_TWR:50:4

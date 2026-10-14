@@ -47,6 +47,26 @@ ACTIVE:250515:260707:0:0000:2359
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
+MAP:TWY S CLSD
+AIRPORT:EPSY,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+ACTIVE:261015:270112:0:0000:2359
+{% for name, geom in data.notams_kml['EPSY E3712/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:APN 2 CLSD
+AIRPORT:EPSY,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+ACTIVE:261015:270112:0:0000:2359
+{% for name, geom in data.notams_kml['EPSY E3713/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
 MAP:TWY R WINGSPAN MAX 36M
 AIRPORT:EPWA,EPWW
 FOLDER:NOTAMS
