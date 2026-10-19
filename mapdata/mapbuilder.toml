@@ -35,6 +35,11 @@ type = "kml"
 source = "kml/EPLL.kml"
 root = "EPLL"
 
+[data.epls_kml]
+type = "kml"
+source = "kml/EPLS.kml"
+root = "EPLS"
+
 [data.epmo_kml]
 type = "kml"
 source = "kml/EPMO.kml"
@@ -49,6 +54,16 @@ root = "EPNC"
 type = "kml"
 source = "kml/EPNL.kml"
 root = "EPNL"
+
+[data.eppg_kml]
+type = "kml"
+source = "kml/EPPG.kml"
+root = "EPPG"
+
+[data.eppi_kml]
+type = "kml"
+source = "kml/EPPI.kml"
+root = "EPPI"
 
 [data.eppl_kml]
 type = "kml"
@@ -89,6 +104,11 @@ root = "EPSD"
 type = "kml"
 source = "kml/EPSY.kml"
 root = "EPSY"
+
+[data.epto_kml]
+type = "kml"
+source = "kml/EPTO.kml"
+root = "EPTO"
 
 [data.epwa_kml]
 type = "kml"
