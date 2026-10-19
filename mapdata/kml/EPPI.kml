@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ex="http://earth.google.com/kml/ext">
-<Document id="1_MBIr1nOH2CaaERZ6cbgI-an8h197hQz">
-	<ex:extension>base64;Co4BCoEBCn8KAggBEnkKdwokCiAKAwjQDxoHCNLtZRD_ASEAAAAAAADwPykAAAAAAAAAABgAEg8KCAitgO8HEP8BEKAfGAAaGgoHCP___wcQQBIICK2A7wcQ_wEYoB8gACgAIgkIARIFCP___wcqFwgBEggI____BxD_ARkAAAAAAADwPyAAEgQIARAAGgIIAA</ex:extension>
-	<name>Lotniska</name>
-	<gx:CascadingStyle kml:id="__managed_style_0ECC4204A1427E400F59_normal">
-		<ex:extension>base64;EgIYAQ</ex:extension>
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
+<Document>
+	<name>EPPI.kml</name>
 	<StyleMap id="__managed_style_0ECC4204A1427E400F59">
 		<Pair>
 			<key>normal</key>
@@ -36,7 +13,6 @@
 		</Pair>
 	</StyleMap>
 	<gx:CascadingStyle kml:id="__managed_style_0ECC4204A1427E400F59_highlight">
-		<ex:extension>base64;EgIYAQ</ex:extension>
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -45,8 +21,6 @@
 				</Icon>
 				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
 			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
 			<LineStyle>
 				<color>ff2dc0fb</color>
 				<width>6</width>
@@ -54,12 +28,10 @@
 			<PolyStyle>
 				<color>40ffffff</color>
 			</PolyStyle>
-			<BalloonStyle>
-			</BalloonStyle>
 		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_0FEC7A5770427E3F65AC_normal">
 		<ex:extension>base64;EgIYAQ</ex:extension>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0ECC4204A1427E400F59_normal">
 		<Style>
 			<IconStyle>
 				<Icon>
@@ -67,8 +39,6 @@
 				</Icon>
 				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
 			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
 			<LineStyle>
 				<color>ff2dc0fb</color>
 				<width>4</width>
@@ -76,32 +46,8 @@
 			<PolyStyle>
 				<color>40ffffff</color>
 			</PolyStyle>
-			<BalloonStyle>
-			</BalloonStyle>
 		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_0FEC7A5770427E3F65AC_highlight">
 		<ex:extension>base64;EgIYAQ</ex:extension>
-		<Style>
-			<IconStyle>
-				<scale>1.2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>6</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-			</BalloonStyle>
-		</Style>
 	</gx:CascadingStyle>
 	<StyleMap id="__managed_style_0FEC7A5770427E3F65AC">
 		<Pair>
@@ -113,14 +59,48 @@
 			<styleUrl>#__managed_style_0FEC7A5770427E3F65AC_highlight</styleUrl>
 		</Pair>
 	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0FEC7A5770427E3F65AC_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+		<ex:extension>base64;EgIYAQ</ex:extension>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0FEC7A5770427E3F65AC_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+		</Style>
+		<ex:extension>base64;EgIYAQ</ex:extension>
+	</gx:CascadingStyle>
 	<Folder id="5F5C7AA481000081">
-		<ex:extension>base64;GgA</ex:extension>
 		<name>EPPI</name>
 		<styleUrl>#__managed_style_0FEC7A5770427E3F65AC</styleUrl>
 		<Folder id="5F5C7AA481000082">
-			<ex:extension>base64;GgA</ex:extension>
 			<name>Base</name>
-			<open>1</open>
 			<styleUrl>#__managed_style_0FEC7A5770427E3F65AC</styleUrl>
 			<Placemark id="5F5C7AA481000083">
 				<name>Base</name>
@@ -145,11 +125,10 @@
 					</outerBoundaryIs>
 				</Polygon>
 			</Placemark>
+			<ex:extension>base64;GgA</ex:extension>
 		</Folder>
 		<Folder id="5F5C7AA481000084">
-			<ex:extension>base64;GgA</ex:extension>
 			<name>RWY</name>
-			<open>1</open>
 			<styleUrl>#__managed_style_0FEC7A5770427E3F65AC</styleUrl>
 			<Placemark id="5F5C7AA481000085">
 				<name>RWY 03/21</name>
@@ -174,11 +153,10 @@
 					</outerBoundaryIs>
 				</Polygon>
 			</Placemark>
+			<ex:extension>base64;GgA</ex:extension>
 		</Folder>
 		<Folder id="5F5C7AA481000086">
-			<ex:extension>base64;GgA</ex:extension>
 			<name>RWY Grass</name>
-			<open>1</open>
 			<styleUrl>#__managed_style_0FEC7A5770427E3F65AC</styleUrl>
 			<Placemark id="5F5C7AA481000087">
 				<name>RWY 09/27</name>
@@ -203,10 +181,10 @@
 					</outerBoundaryIs>
 				</Polygon>
 			</Placemark>
+			<ex:extension>base64;GgA</ex:extension>
 		</Folder>
 		<Folder id="5F5C7AA481000088">
 			<name>TWY</name>
-			<open>1</open>
 			<styleUrl>#__managed_style_0FEC7A5770427E3F65AC</styleUrl>
 			<Placemark id="5F5C7AA481000089">
 				<name>A</name>
@@ -372,7 +350,6 @@
 		</Folder>
 		<Folder id="5F5C7AA481000090">
 			<name>APN</name>
-			<open>1</open>
 			<styleUrl>#__managed_style_0FEC7A5770427E3F65AC</styleUrl>
 			<Placemark id="5F5C7AA481000091">
 				<name>APN1</name>
@@ -492,7 +469,6 @@
 		</Folder>
 		<Folder id="5F5C7AA481000096">
 			<name>Buildings</name>
-			<open>1</open>
 			<styleUrl>#__managed_style_0FEC7A5770427E3F65AC</styleUrl>
 			<Placemark id="5F5C7AA481000097">
 				<name>AEROKLUB</name>
@@ -542,8 +518,7 @@
 			</Placemark>
 		</Folder>
 		<Folder id="5F5C7AA481000099">
-			<ex:extension>base64;GgA</ex:extension>
-			<name>Taxilines</name>
+			<name>Taxilanes</name>
 			<styleUrl>#__managed_style_0FEC7A5770427E3F65AC</styleUrl>
 			<Placemark id="5F5C7AA48100009A">
 				<name>A</name>
@@ -1381,10 +1356,10 @@
 					</coordinates>
 				</LineString>
 			</Placemark>
+			<ex:extension>base64;GgA</ex:extension>
 		</Folder>
 		<Folder id="5F5C7AA4810000C6">
 			<name>HP</name>
-			<open>1</open>
 			<styleUrl>#__managed_style_0FEC7A5770427E3F65AC</styleUrl>
 			<Placemark id="5F5C7AA4810000C7">
 				<name>A</name>
@@ -1464,7 +1439,6 @@
 			</Placemark>
 		</Folder>
 		<Folder id="5F5C7AA4810000CB">
-			<ex:extension>base64;GgA</ex:extension>
 			<name>TaxiwayLabels</name>
 			<styleUrl>#__managed_style_0FEC7A5770427E3F65AC</styleUrl>
 			<Placemark id="5F5C7AA4810000CC">
@@ -1722,10 +1696,10 @@
 					<coordinates>16.71520025525675,53.16094649381933,79.57033779055372</coordinates>
 				</Point>
 			</Placemark>
+			<ex:extension>base64;GgA</ex:extension>
 		</Folder>
 		<Folder id="5F5C7AA4810000DB">
 			<name>BuildingLabels</name>
-			<open>1</open>
 			<styleUrl>#__managed_style_0FEC7A5770427E3F65AC</styleUrl>
 			<Placemark id="5F5C7AA4810000DC">
 				<name>AEROCLUB</name>
@@ -1762,6 +1736,7 @@
 				</Point>
 			</Placemark>
 		</Folder>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1327"></atom:link><ex:extension>base64;GgA</ex:extension>
 	</Folder>
 </Document>
 </kml>
