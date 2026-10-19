@@ -181,6 +181,10 @@ PROFILE:EPBK_R_TWR:30:4
 ATIS2:Bialystok Radio
 ATIS3:Class G Airspace
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPEL_R_TWR:30:4
+ATIS2:Elblag Radio
+ATIS3:Class G Airspace
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPGL_R_TWR:30:4
 ATIS2:Gliwice Radio
 ATIS3:Class G Airspace
@@ -217,6 +221,18 @@ PROFILE:EPLR_R_TWR:30:4
 ATIS2:Radawiec Radio
 ATIS3:Class G Airspace
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPNC_R_TWR:30:4
+ATIS2:Chrcynno Radio
+ATIS3:Class G Airspace
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPLS_R_TWR:30:4
+ATIS2:Leszno Radio
+ATIS3:Class G Airspace
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPNL_R_TWR:30:4
+ATIS2:Lososina Radio
+ATIS3:Class G Airspace
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPNT_R_TWR:30:4
 ATIS2:Nowy Targ Radio
 ATIS3:Class G Airspace
@@ -225,8 +241,32 @@ PROFILE:EPOD_R_TWR:30:4
 ATIS2:Dajtki Radio
 ATIS3:Class G Airspace
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPPG_R_TWR:30:4
+ATIS2:Kakolewo Radio
+ATIS3:Class G Airspace
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPPI_R_TWR:30:4
+ATIS2:Pila Radio
+ATIS3:Class G Airspace
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPPL_R_TWR:30:4
+ATIS2:Plock Radio
+ATIS3:Class G Airspace
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPPT_R_TWR:30:4
+ATIS2:Piotrkow Radio
+ATIS3:Class G Airspace
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPPZ_R_TWR:30:4
 ATIS2:Przasnysz Radio
+ATIS3:Class G Airspace
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPSD_R_TWR:30:4
+ATIS2:Szczecin Radio
+ATIS3:Class G Airspace
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPTO_R_TWR:30:4
+ATIS2:Torun Radio
 ATIS3:Class G Airspace
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPZP_R_TWR:30:4

@@ -1,0 +1,8 @@
+MAP:Buildings
+AIRPORT:EPTO,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
+
+{% for name, geom in data.epto_kml['Buildings'].items() %}
+    {{- geom | to_poly(name, 'building') }}
+{% endfor %}

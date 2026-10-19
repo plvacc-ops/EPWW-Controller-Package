@@ -1,0 +1,7 @@
+MAP:Base
+AIRPORT:EPPI,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
+{% for name, geom in data.eppi_kml['Base'].items() %}
+    {{- geom | to_poly(name, 'base') }}
+{% endfor %}
