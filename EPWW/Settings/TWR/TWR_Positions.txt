@@ -193,6 +193,10 @@ PROFILE:EPGY_R_TWR:30:4
 ATIS2:Grady Radio
 ATIS3:Class G Airspace
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPIN_R_TWR:30:4
+ATIS2:Inowroclaw Radio
+ATIS3:Class G Airspace
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPJA_R_TWR:30:4
 ATIS2:Jastarnia Radio
 ATIS3:Class G Airspace
@@ -267,6 +271,10 @@ ATIS3:Class G Airspace
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPTO_R_TWR:30:4
 ATIS2:Torun Radio
+ATIS3:Class G Airspace
+ATIS4:Check airports coverage and submit your feedback on plvacc.pl
+PROFILE:EPWS_R_TWR:30:4
+ATIS2:Szymanow Radio
 ATIS3:Class G Airspace
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPZP_R_TWR:30:4
