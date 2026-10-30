@@ -15,6 +15,11 @@ type = "kml"
 source = "kml/EPGD.kml"
 root = "EPGD"
 
+[data.epin_kml]
+type = "kml"
+source = "kml/EPIN.kml"
+root = "EPIN"
+
 [data.epkk_kml]
 type = "kml"
 source = "kml/EPKK.kml"
@@ -119,6 +124,11 @@ root = "EPWA"
 type = "kml"
 source = "kml/EPWR.kml"
 root = "EPWR"
+
+[data.epws_kml]
+type = "kml"
+source = "kml/EPWS.kml"
+root = "EPWS"
 
 [data.epzg_kml]
 type = "kml"
