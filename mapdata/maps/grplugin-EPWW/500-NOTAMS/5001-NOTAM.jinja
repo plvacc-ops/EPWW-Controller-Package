@@ -95,8 +95,12 @@ FOLDER:NOTAMS
 COLOR:closure
 COORDTYPE:TWYCLOSED:REGION
 ACTIVE:261029:261105:0:1124:1100
-{% for name, geom in data.notams_kml['EPWA A3182/26'].items() %}
+{% for name, geom in data.notams_kml['EPWA A3183/26'].items() %}
     {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+{% for name, geom in data.notams_kml['EPWA A3183/26 52M'].items() %}
+    {{- geom | to_line(name) }}
 {% endfor %}
 
 MAP:TWY A3 FOLLOW ME ONLY
