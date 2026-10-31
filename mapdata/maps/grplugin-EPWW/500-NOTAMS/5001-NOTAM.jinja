@@ -27,7 +27,7 @@ FOLDER:NOTAMS
 COLOR:restriction-36
 STYLE:Solid:2
 LIMITS:EPPO:17,17L,17':C
-ACTIVE:260914:261016:0:0500:1800
+ACTIVE:261019:261031:0:2240:1900
 {% for name, geom in data.notams_kml['EPPO A2603/26'].items() %}
     {{- geom | to_line(name) }}
 {% endfor %}
@@ -36,14 +36,15 @@ ACTIVE:260914:261016:0:0500:1800
     {{- geom | to_text(name) }}
 {% endfor %}
 
-MAP:CONSTRUCTION TWY E, F, R4, R5
+MAP:TWY R5 CLSD
 AIRPORT:EPRZ,EPWW
 FOLDER:NOTAMS
 COLOR:closure
 COORDTYPE:TWYCLOSED:REGION
 FONTSIZE:=:15
-ACTIVE:250515:260707:0:0000:2359
-{% for name, geom in data.notams_kml['EPRZ SUP 56/25'].items() %}
+ACTIVE:261029:261206:1234567:0545:0715
+ACTIVE:261029:261206:1234567:1845:2015
+{% for name, geom in data.notams_kml['EPRZ E4023/26'].items() %}
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
@@ -76,6 +77,55 @@ FONTSIZE:=:12
 ACTIVE:260611:280630:0:0000:2359
 {% for name, geom in data.notams_kml['EPWA SUP 85/26'].items() %}
     {{- geom | to_line(name) }}
+{% endfor %}
+
+MAP:TWY O2 AND SEGMENT TWY M CLSD
+AIRPORT:EPWA,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+BLOCKS:EPWA:15L,15,15R,16
+ACTIVE:261029:261103:0:1124:2359
+{% for name, geom in data.notams_kml['EPWA A3182/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:TWY ZO1 CLSD
+AIRPORT:EPWA,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+ACTIVE:261029:261105:0:1124:1100
+{% for name, geom in data.notams_kml['EPWA A3183/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+COLOR:restriction-52
+STYLE:Solid:2
+{% for name, geom in data.notams_kml['EPWA A3183/26 52M'].items() %}
+    {{- geom | to_line(name) }}
+{% endfor %}
+
+MAP:TWY A3 FOLLOW ME ONLY
+AIRPORT:EPWR,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+BLOCKS:EPWR:61,62,63,64
+ACTIVE:261001:261229:0:1010:2359
+{% for name, geom in data.notams_kml['EPWR H3013/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:STND 211 CLSD
+AIRPORT:EPWR,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+BLOCKS:EPWR:211,211'
+ACTIVE:261013:261113:0:1731:2259
+{% for name, geom in data.notams_kml['EPWR H3166/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
 MAP:CONSTRUCTION WORKS PHASE V

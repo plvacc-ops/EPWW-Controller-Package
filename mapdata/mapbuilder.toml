@@ -15,6 +15,11 @@ type = "kml"
 source = "kml/EPGD.kml"
 root = "EPGD"
 
+[data.epin_kml]
+type = "kml"
+source = "kml/EPIN.kml"
+root = "EPIN"
+
 [data.epkk_kml]
 type = "kml"
 source = "kml/EPKK.kml"
@@ -35,6 +40,11 @@ type = "kml"
 source = "kml/EPLL.kml"
 root = "EPLL"
 
+[data.epls_kml]
+type = "kml"
+source = "kml/EPLS.kml"
+root = "EPLS"
+
 [data.epmo_kml]
 type = "kml"
 source = "kml/EPMO.kml"
@@ -49,6 +59,16 @@ root = "EPNC"
 type = "kml"
 source = "kml/EPNL.kml"
 root = "EPNL"
+
+[data.eppg_kml]
+type = "kml"
+source = "kml/EPPG.kml"
+root = "EPPG"
+
+[data.eppi_kml]
+type = "kml"
+source = "kml/EPPI.kml"
+root = "EPPI"
 
 [data.eppl_kml]
 type = "kml"
@@ -90,6 +110,11 @@ type = "kml"
 source = "kml/EPSY.kml"
 root = "EPSY"
 
+[data.epto_kml]
+type = "kml"
+source = "kml/EPTO.kml"
+root = "EPTO"
+
 [data.epwa_kml]
 type = "kml"
 source = "kml/EPWA.kml"
@@ -100,6 +125,11 @@ type = "kml"
 source = "kml/EPWR.kml"
 root = "EPWR"
 
+[data.epws_kml]
+type = "kml"
+source = "kml/EPWS.kml"
+root = "EPWS"
+
 [data.epzg_kml]
 type = "kml"
 source = "kml/EPZG.kml"
@@ -109,6 +139,21 @@ root = "EPZG"
 type = "kml"
 source = "kml/NOTAMS.kml"
 root = "NOTAMS"
+
+[data.EPGDstands_kml]
+type = "kml"
+source = "kml/EPGDstands.kml"
+root = "EPGDstands"
+
+[data.EPKKstands_kml]
+type = "kml"
+source = "kml/EPKKstands.kml"
+root = "EPKKstands"
+
+[data.EPKTstands_kml]
+type = "kml"
+source = "kml/EPKTstands.kml"
+root = "EPKTstands"
 
 [data.EPWAstands_kml]
 type = "kml"
@@ -155,7 +200,7 @@ aliases = [ "bright" ]
 
 [profiles.stands]
 maps = [
-    { map = "grplugin-stands-builder", target = "mapdata/common/EPWAstands.txt" },
+    { map = "grplugin-stands-builder", target = "mapdata/common/EPWWstands.txt" },
 ]
 dir = "mapdata/common"
 

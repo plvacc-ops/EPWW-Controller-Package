@@ -81,4 +81,7 @@ Sounds	Sound17	\EPWW\Sounds\pointout.wav
 Sounds	Sound18	\EPWW\Sounds\startup.wav
 TeamSpeakVccs	TsVccsMiniControlX	2
 TeamSpeakVccs	TsVccsMiniControlY	46
-
+LastSession	callsign	%%_OBS
+LastSession	atis2	REPLACE %% WITH YOUR INITIALS
+LastSession	atis3	JAN NOWAK - JN_OBS
+LastSession	range	250
