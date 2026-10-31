@@ -114,11 +114,11 @@ ATIS3:Submit OBT and check slot at vats.im/VDGS | Briefing and charts on vats.im
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPRZ_T_TWR:50:4
 ATIS2:Rzeszow Tower | PROCEDURAL CONTROL | TRAINING SESSION - Trainee | PDC/DCL [EPRZ]
-ATIS3:Briefing and charts on vats.im/eprz
+ATIS3:Submit OBT and check slot at vats.im/VDGS | Briefing and charts on vats.im/eprz
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPRZ_X_TWR:50:4
 ATIS2:Rzeszow Tower | PROCEDURAL CONTROL | TRAINING SESSION - Mentor | PDC/DCL [EPRZ]
-ATIS3:Briefing and charts on vats.im/eprz
+ATIS3:Submit OBT and check slot at vats.im/VDGS | Briefing and charts on vats.im/eprz
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPSC_TWR:50:4
 ATIS2:Szczecin Tower | PROCEDURAL CONTROL
@@ -146,11 +146,11 @@ ATIS3:Briefing and charts on vats.im/epwa | Submit your TOBT at vats.im/EPWA-ACD
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPWA_T_TWR:50:4
 ATIS2:Okecie Tower | TRAINING SESSION - Trainee | PDC/DCL [EPWA]
-ATIS3:Briefing and charts on vats.im/epwa
+ATIS3:Briefing and charts on vats.im/epwa | Submit your TOBT at vats.im/EPWA-ACDM
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPWA_X_TWR:50:4
 ATIS2:Okecie Tower | TRAINING SESSION - Mentor | PDC/DCL [EPWA]
-ATIS3:Briefing and charts on vats.im/epwa
+ATIS3:Briefing and charts on vats.im/epwa | Submit your TOBT at vats.im/EPWA-ACDM
 ATIS4:Check airports coverage and submit your feedback on plvacc.pl
 PROFILE:EPWR_DEL:20:2
 ATIS2:Wroclaw Delivery | PDC/DCL [EPWR]
