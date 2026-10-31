@@ -79,6 +79,17 @@ ACTIVE:260611:280630:0:0000:2359
     {{- geom | to_line(name) }}
 {% endfor %}
 
+MAP:TWY Z1 TURNS NOT AVBL FOR CODE E AND F
+AIRPORT:EPWA,EPWW
+FOLDER:NOTAMS
+COLOR:restriction-52
+STYLE:Solid:2
+COORDTYPE:TWYCLOSED:REGION
+ACTIVE:261019:261105:0:1000:1100
+{% for name, geom in data.notams_kml['EPWA A3054/26'].items() %}
+    {{- geom | to_line(name) }}
+{% endfor %}
+
 MAP:TWY O2 AND SEGMENT TWY M CLSD
 AIRPORT:EPWA,EPWW
 FOLDER:NOTAMS
@@ -98,12 +109,6 @@ COORDTYPE:TWYCLOSED:REGION
 ACTIVE:261029:261105:0:1124:1100
 {% for name, geom in data.notams_kml['EPWA A3183/26'].items() %}
     {{- geom | to_poly(name, 'closure') }}
-{% endfor %}
-
-COLOR:restriction-52
-STYLE:Solid:2
-{% for name, geom in data.notams_kml['EPWA A3183/26 52M'].items() %}
-    {{- geom | to_line(name) }}
 {% endfor %}
 
 MAP:TWY A3 FOLLOW ME ONLY
