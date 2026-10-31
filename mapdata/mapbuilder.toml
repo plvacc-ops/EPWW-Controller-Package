@@ -140,6 +140,21 @@ type = "kml"
 source = "kml/NOTAMS.kml"
 root = "NOTAMS"
 
+[data.EPGDstands_kml]
+type = "kml"
+source = "kml/EPGDstands.kml"
+root = "EPGDstands"
+
+[data.EPKKstands_kml]
+type = "kml"
+source = "kml/EPKKstands.kml"
+root = "EPKKstands"
+
+[data.EPKTstands_kml]
+type = "kml"
+source = "kml/EPKTstands.kml"
+root = "EPKTstands"
+
 [data.EPWAstands_kml]
 type = "kml"
 source = "kml/EPWAstands.kml"
@@ -185,7 +200,7 @@ aliases = [ "bright" ]
 
 [profiles.stands]
 maps = [
-    { map = "grplugin-stands-builder", target = "mapdata/common/EPWAstands.txt" },
+    { map = "grplugin-stands-builder", target = "mapdata/common/EPWWstands.txt" },
 ]
 dir = "mapdata/common"
 
