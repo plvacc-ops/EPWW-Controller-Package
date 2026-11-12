@@ -11,6 +11,28 @@ ACTIVE:260709:270120:0:0000:2359
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
+MAP:TWY D CLSD
+AIRPORT:EPBY,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:261110:261118:0:0415:1500
+{% for name, geom in data.notams_kml['EPBY E4107/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:X OF TWY D AND TWY E3 CLSD
+AIRPORT:EPBY,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:261110:261118:0:0415:1500
+{% for name, geom in data.notams_kml['EPBY E4167/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
 MAP:TWY H CLSD
 AIRPORT:EPKK,EPWW
 FOLDER:NOTAMS
@@ -21,19 +43,25 @@ ACTIVE:260826:261126:123456:1615:0440
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
-MAP:STND 17/17L MAX 36M
-AIRPORT:EPPO,EPWW
+MAP:ACFT STANDS NR 14-18 ON APN 1 CLSD
+AIRPORT:EPMO,EPWW
 FOLDER:NOTAMS
-COLOR:restriction-36
-STYLE:Solid:2
-LIMITS:EPPO:17,17L,17':C
-ACTIVE:261019:261031:0:2240:1900
-{% for name, geom in data.notams_kml['EPPO A2603/26'].items() %}
-    {{- geom | to_line(name) }}
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+BLOCKS:EPMO:14,15,16,17,18L,18,18R
+ACTIVE:261112:261112:0:0700:1600
+{% for name, geom in data.notams_kml['EPMO H3484/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
-{% for name, geom in data.notams_kml['EPPO A2603/26 TXT'].items() %}
-    {{- geom | to_text(name) }}
+MAP:TWY A2 ABEAM ACFT STANDS NR 14-18 ON APN 1 CLSD
+AIRPORT:EPMO,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+ACTIVE:261112:261112:0:0700:1600
+{% for name, geom in data.notams_kml['EPMO H3493/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
 MAP:TWY R5 CLSD
@@ -79,31 +107,46 @@ ACTIVE:260611:280630:0:0000:2359
     {{- geom | to_line(name) }}
 {% endfor %}
 
-MAP:TWY O2 AND SEGMENT TWY M CLSD
-AIRPORT:EPWA,EPWW
-FOLDER:NOTAMS
-COLOR:closure
-COORDTYPE:TWYCLOSED:REGION
-BLOCKS:EPWA:15L,15,15R,16
-ACTIVE:261029:261103:0:1124:2359
-{% for name, geom in data.notams_kml['EPWA A3182/26'].items() %}
-    {{- geom | to_poly(name, 'closure') }}
-{% endfor %}
-
 MAP:TWY ZO1 CLSD
 AIRPORT:EPWA,EPWW
 FOLDER:NOTAMS
 COLOR:closure
 COORDTYPE:TWYCLOSED:REGION
-ACTIVE:261029:261105:0:1124:1100
-{% for name, geom in data.notams_kml['EPWA A3183/26'].items() %}
+ACTIVE:261106:261112:0:1326:2359
+{% for name, geom in data.notams_kml['EPWA A3295/26'].items() %}
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
+MAP:TWY Z1 TURNS NOT AVBL FOR CODE E AND F
+AIRPORT:EPWA,EPWW
+FOLDER:NOTAMS
 COLOR:restriction-52
 STYLE:Solid:2
-{% for name, geom in data.notams_kml['EPWA A3183/26 52M'].items() %}
+COORDTYPE:TWYCLOSED:REGION
+ACTIVE:261106:261112:0:1326:2359
+{% for name, geom in data.notams_kml['EPWA A3296/26'].items() %}
     {{- geom | to_line(name) }}
+{% endfor %}
+
+MAP:SEGMENT OF TWY H2 CLSD
+AIRPORT:EPWA,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+ACTIVE:261104:261117:0:0826:1700
+{% for name, geom in data.notams_kml['EPWA A3256/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:TWY A8 ABEAM STND 61 CLSD
+AIRPORT:EPWA,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:TWYCLOSED:REGION
+BLOCKS:EPWA:61
+ACTIVE:261104:261117:0:0826:1700
+{% for name, geom in data.notams_kml['EPWA A3258/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
 MAP:TWY A3 FOLLOW ME ONLY
