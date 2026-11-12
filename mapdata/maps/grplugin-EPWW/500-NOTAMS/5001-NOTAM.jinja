@@ -142,6 +142,7 @@ AIRPORT:EPWA,EPWW
 FOLDER:NOTAMS
 COLOR:closure
 COORDTYPE:TWYCLOSED:REGION
+BLOCKS:EPWA:61
 ACTIVE:261104:261117:0:0826:1700
 {% for name, geom in data.notams_kml['EPWA A3258/26'].items() %}
     {{- geom | to_poly(name, 'closure') }}
