@@ -48,6 +48,7 @@ AIRPORT:EPMO,EPWW
 FOLDER:NOTAMS
 COLOR:closure
 COORDTYPE:TWYCLOSED:REGION
+BLOCKS:EPMO:14,15,16,17,18L,18,18R
 ACTIVE:261112:261112:0:0700:1600
 {% for name, geom in data.notams_kml['EPMO H3484/26'].items() %}
     {{- geom | to_poly(name, 'closure') }}
