@@ -1,0 +1,9 @@
+MAP:Aprons
+AIRPORT:EPKM,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
+COLOR:apron
+
+{% for name, geom in data.epkm_kml['APN'].items() %}
+    {{- geom | to_poly(name, 'apron') }}
+{% endfor %}
