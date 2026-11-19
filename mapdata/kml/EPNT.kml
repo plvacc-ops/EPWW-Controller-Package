@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ex="http://earth.google.com/kml/ext">
+<Document id="1kXDDA2Y6CBoWfaVCmkUc3VgroQuL8zqD">
+	<ex:extension>base64;Co4BCoEBCn8KAggBEnkKdwokCiAKAwjQDxoHCNLtZRD_ASEAAAAAAADwPykAAAAAAAAAABgAEg8KCAitgO8HEP8BEKAfGAAaGgoHCP___wcQQBIICK2A7wcQ_wEYoB8gACgAIgkIARIFCP___wcqFwgBEggI____BxD_ARkAAAAAAADwPyAAEgQIARAAGgIIAA</ex:extension>
+	<name>EPNT</name>
+	<gx:CascadingStyle kml:id="__managed_style_0D31C54CC74325463DFE_highlight">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0D31C54CC74325463DFE_normal">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D31C54CC74325463DFE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0D31C54CC74325463DFE_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0D31C54CC74325463DFE_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="06597A0C8C43254771A7">
+		<ex:extension>base64;GgA</ex:extension>
+		<name>EPNT</name>
+		<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+		<Folder id="10E1AE652443254771A7">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>Base</name>
+			<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+			<Placemark id="270C3296B543254771A7">
+				<name>Base</name>
+				<LookAt>
+					<longitude>20.05092898571159</longitude>
+					<latitude>49.46149751797702</latitude>
+					<altitude>612.6562510309059</altitude>
+					<heading>3.241847154157822</heading>
+					<tilt>0.05954622111231447</tilt>
+					<gx:fovy>30.00000916475088</gx:fovy>
+					<range>3224.654897933942</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.04683821208091,49.46753919788075,0 20.04672507691976,49.46715191964819,0 20.04376808656788,49.46704299023559,0 20.04355373658571,49.46720602523372,0 20.04074542386175,49.46837623685139,0 20.04028759337239,49.46848425641524,0 20.03994402268679,49.4681425274488,0 20.03938925824836,49.46766401251822,0 20.0386208969133,49.46705863713674,0 20.03837359553603,49.46664674731872,0 20.03822707182362,49.46638578945574,0 20.03824031614264,49.46627828625305,0 20.0383394226591,49.46613302891679,0 20.03864145332517,49.46600835513015,0 20.03905535108776,49.46585889205829,0 20.03962094082656,49.46547897748804,0 20.04140798017772,49.46363898479888,0 20.04541336648093,49.46232880024365,0 20.04598775133673,49.46209768412986,0 20.04630043563514,49.46185091856768,0 20.04639216478544,49.46155433461828,0 20.04585363751526,49.45887084543131,0 20.04591714693003,49.45872036740957,0 20.04862017832096,49.45853375377897,0 20.05147927208172,49.45832877669899,0 20.0517197936833,49.45908096028857,0 20.05219734686146,49.45974637232866,0 20.05231438968188,49.45976110880082,0 20.05245454621308,49.45975404160606,0 20.05687704272,49.4579440027708,0 20.06395374949039,49.45506720127543,0 20.06501529495686,49.45463280785719,0 20.06784117478623,49.45750469660425,0 20.0663272638772,49.45813533341596,0 20.06365451034682,49.45922323152338,0 20.06068654621966,49.46043860878603,0 20.05547521471051,49.46257342186787,0 20.05454055346923,49.46295763498028,0 20.05424819560323,49.46322146720383,0 20.05372740744238,49.46346327463978,0 20.05450073650339,49.46459208170064,0 20.05448551497393,49.46475704670745,0 20.05450910282048,49.46499248347681,0 20.05439226885456,49.46540317275008,0 20.0545167972983,49.46550403984816,0 20.05526055040876,49.46596081459851,0 20.05537831837036,49.46632579924277,0 20.05535901155518,49.46647993846778,0 20.05485435671488,49.46690573746762,0 20.05020291093739,49.468013356757,0 20.05007599348852,49.46822888064015,0 20.05009652962313,49.46836770512764,0 20.04994702859979,49.46847669914072,0 20.04832241515328,49.46770571019418,0 20.04809148297112,49.46757617794528,0 20.04739507693319,49.46799747178404,0 20.04683821208091,49.46753919788075,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="37BA83FFC243254771A7">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>RWY Grass</name>
+			<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+			<Placemark id="4DD035019843254771A7">
+				<name>RWY 12/30</name>
+				<LookAt>
+					<longitude>20.04530646343381</longitude>
+					<latitude>49.46703728041747</latitude>
+					<altitude>606.6252593112378</altitude>
+					<heading>3.234439202802871</heading>
+					<tilt>0.05952975177268102</tilt>
+					<gx:fovy>30.00000916475088</gx:fovy>
+					<range>1466.649005579821</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.04247608045702,49.46647261418816,0 20.04191342354324,49.46584329872835,0 20.06167359585276,49.45810944191262,0 20.06219823401586,49.4587287568194,0 20.04247608045702,49.46647261418816,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="5ED73A97B843254771A7">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>TWY Grass</name>
+			<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+			<Placemark id="646E9BC71943254771A7">
+				<name>A</name>
+				<LookAt>
+					<longitude>20.04804673273165</longitude>
+					<latitude>49.46625244457757</latitude>
+					<altitude>607.8623642811203</altitude>
+					<heading>2.518228678624305</heading>
+					<tilt>1.509469437899412</tilt>
+					<gx:fovy>30.00000916475088</gx:fovy>
+					<range>629.4918707460602</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.04851302095143,49.46712098815932,0 20.04830578954419,49.46418379252697,0 20.04883033803577,49.46397754129908,0 20.04903252148589,49.46703664915611,0 20.04899804499453,49.46716104825711,0 20.04851302095143,49.46712098815932,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="710E5DD81543254771A7">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>APN</name>
+			<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+			<Placemark id="8ED1E1315643254771A7">
+				<name>APN 1</name>
+				<LookAt>
+					<longitude>20.04896711416753</longitude>
+					<latitude>49.46743130084996</latitude>
+					<altitude>611.8862143874006</altitude>
+					<heading>3.413469605841057</heading>
+					<tilt>0</tilt>
+					<gx:fovy>30.00000916475088</gx:fovy>
+					<range>218.5925519042576</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.04862981471372,49.46729120369431,0 20.04849258292695,49.46728279733945,0 20.04851369202934,49.46712114482695,0 20.04899786798736,49.46716086412042,0 20.04903278396959,49.46703650462028,0 20.049659928228,49.46707060002105,0 20.04965042193728,49.46719261173524,0 20.05023776660282,49.46719236692817,0 20.05023227403938,49.46729480276322,0 20.04964204035903,49.46728165684758,0 20.0496429166082,49.46723801281584,0 20.04921725038429,49.46722757701431,0 20.04919905652695,49.46724146106579,0 20.0492030874323,49.46726350568778,0 20.04923826815715,49.46728762687306,0 20.04936450905205,49.46731407152124,0 20.0494668272609,49.4673317017126,0 20.04946622048721,49.46741091540622,0 20.04960518133683,49.46742412713567,0 20.04959523252366,49.46747074654822,0 20.0493246540447,49.46744563786363,0 20.04933416315404,49.46738808814786,0 20.04909099050276,49.46736116825956,0 20.04907327130159,49.46732889957096,0 20.04900775263774,49.46729371579847,0 20.0489915808874,49.4672902247729,0 20.04898628627426,49.46731307151083,0 20.04862981471372,49.46729120369431,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="901BA7A45F43254771A7">
+				<name>APN 1</name>
+				<LookAt>
+					<longitude>20.04778069236361</longitude>
+					<latitude>49.4673980022024</latitude>
+					<altitude>611.0932878656295</altitude>
+					<heading>2.518223090846025</heading>
+					<tilt>1.509360691527726</tilt>
+					<gx:fovy>30.00000916475088</gx:fovy>
+					<range>170.3856484166681</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.04706275448812,49.4673074617853,0 20.04707560081798,49.46725837003713,0 20.04737796977997,49.46728324378462,0 20.0473719839755,49.46730967430776,0 20.04764155271299,49.46732965585238,0 20.04763320608574,49.46735380728577,0 20.04706275448812,49.4673074617853,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="ACEB08B5FC43254771A7">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>Buildings</name>
+			<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+			<Placemark id="BCA3C7BF5843254771A7">
+				<name>HANGAR 1</name>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.04704423797782,49.46730641065832,0 20.04736617998239,49.4673325775629,0 20.04732353414293,49.46756585041668,0 20.04700145068555,49.46753966853337,0 20.04704423797782,49.46730641065832,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="C7C8EC845B43254771A7">
+				<name>HANGAR 2</name>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.0486300224412,49.46728229457956,0 20.04906673117812,49.46732409616414,0 20.04905317781173,49.46737539065596,0 20.04931872012137,49.46739534698806,0 20.04929402180975,49.46750744004652,0 20.04909878159977,49.46749003372958,0 20.04909330552092,49.46751416202402,0 20.04902416666667,49.46750944444445,0 20.04859133804911,49.4674747964143,0 20.0486300224412,49.46728229457956,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="D57498E0E243254771A7">
+				<name>HANGAR 3</name>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.0496441817126,49.46727786471938,0 20.04987601331032,49.46728169246015,0 20.04987811050338,49.46750198702502,0 20.04964279935599,49.46750391951205,0 20.0496441817126,49.46727786471938,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="E23526760343254771A7">
+				<name>HANGAR 4</name>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.04999680311936,49.46728392493598,0 20.05023620545207,49.46728751807832,0 20.05023327825943,49.46750706981897,0 20.04999511881922,49.46750816356209,0 20.04999680311936,49.46728392493598,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="F0209498C643254771A7">
+				<name>AEROKLUB</name>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								20.04763715301069,49.46736041944629,0 20.04784164985455,49.46737703748207,0 20.04787446707871,49.46721027985551,0 20.04789885662531,49.46719414763715,0 20.04793540174196,49.46718847912317,0 20.04796256485882,49.46719753218633,0 20.04797801325664,49.46722106037651,0 20.04794860381392,49.46738374940407,0 20.04806528336294,49.46739542040835,0 20.04804827774854,49.46746601401905,0 20.04762540949317,49.4674275416004,0 20.04763715301069,49.46736041944629,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="100F0DC0E0E43254771A7">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>TaxiwayLabels</name>
+			<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+			<Placemark id="11C46AE0E2243254771A7">
+				<name>A</name>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Point>
+					<coordinates>20.04868772264519,49.46554031105072,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="12C6FC4D35643254771A7">
+				<name>12</name>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Point>
+					<coordinates>20.04218676341266,49.46613761992265,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="136043257E743254771A7">
+				<name>30</name>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Point>
+					<coordinates>20.06193282589068,49.45841045596829,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="14588A1866443254771A7">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>BuildingLabels</name>
+			<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+			<Placemark id="153674BD1C943254771A7">
+				<name>HANGARS</name>
+				<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
+				<Point>
+					<coordinates>20.04910159545714,49.46714961489772,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
