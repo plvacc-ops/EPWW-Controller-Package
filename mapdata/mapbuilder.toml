@@ -1,5 +1,10 @@
 [data]
 
+[data.epba_kml]
+type = "kml"
+source = "kml/EPBA.kml"
+root = "EPBA"
+
 [data.epbc_kml]
 type = "kml"
 source = "kml/EPBC.kml"
@@ -30,6 +35,11 @@ type = "kml"
 source = "kml/EPIN.kml"
 root = "EPIN"
 
+[data.epja_kml]
+type = "kml"
+source = "kml/EPJA.kml"
+root = "EPJA"
+
 [data.epkk_kml]
 type = "kml"
 source = "kml/EPKK.kml"
@@ -44,6 +54,11 @@ root = "EPKM"
 type = "kml"
 source = "kml/EPKP.kml"
 root = "EPKP"
+
+[data.epkr_kml]
+type = "kml"
+source = "kml/EPKR.kml"
+root = "EPKR"
 
 [data.epkt_kml]
 type = "kml"
@@ -159,6 +174,11 @@ root = "EPWS"
 type = "kml"
 source = "kml/EPZG.kml"
 root = "EPZG"
+
+[data.epzr_kml]
+type = "kml"
+source = "kml/EPZR.kml"
+root = "EPZR"
 
 [data.notams_kml]
 type = "kml"
