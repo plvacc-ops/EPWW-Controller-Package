@@ -1,5 +1,16 @@
 //NOTAMs
 
+MAP:AERODROME CLOSED TO NIGHT OPERATIONS
+AIRPORT:EPBC,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+COORDTYPE:RWYCLOSED:REGION
+FONTSIZE:=:15
+ACTIVE:261126:271231:1234567:1500:0540
+{% for name, geom in data.notams_kml['EPBC VFR SUP 30/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
 MAP:TWY C1 CLSD
 AIRPORT:EPBY,EPWW
 FOLDER:NOTAMS
@@ -40,6 +51,16 @@ COLOR:closure
 COORDTYPE:TWYCLOSED:REGION
 ACTIVE:260826:261126:123456:1615:0440
 {% for name, geom in data.notams_kml['EPKK A2452/26'].items() %}
+    {{- geom | to_poly(name, 'closure') }}
+{% endfor %}
+
+MAP:CONSTRUCTION WORKS
+AIRPORT:EPKT,EPWW
+FOLDER:NOTAMS
+COLOR:closure
+FONTSIZE:=:15
+ACTIVE:261001:280331:0:0000:2359
+{% for name, geom in data.notams_kml['EPKT SUP 176/26'].items() %}
     {{- geom | to_poly(name, 'closure') }}
 {% endfor %}
 
@@ -112,7 +133,6 @@ MAP:CONSTRUCTION WORKS PHASE V
 AIRPORT:EPWR,EPWW
 FOLDER:NOTAMS
 COLOR:closure
-COORDTYPE:TWYCLOSED:REGION
 FONTSIZE:=:15
 BLOCKS:EPWR:65,66
 ACTIVE:261001:261231:0:0000:2359
