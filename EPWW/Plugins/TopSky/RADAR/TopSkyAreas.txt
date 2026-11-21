@@ -1,17 +1,5 @@
 // PLVACC TopSky areas: prohibited (P), restricted (R) and danger (D) areas
 //VERSION:261101
-// Source: Polish eAIP ENR 5.1.1 / 5.1.2 / 5.1.3, AIRAC AMDT 11-26 (effective 2026-10-29)
-// Generated from the eAIP; regenerate rather than editing by hand.
-// Vertical limits in hundreds of feet (LIMITS:lower:upper). FL and ft AMSL both stored as hundreds of feet.
-// "then along FIR EPWW boundary" segments follow the FIR border of the EPWW sector file.
-// Areas that are H24 in the AIP (all P and R) are always active (ACTIVE:1).
-// Areas activated by EAUP/AUP and NOTAM (all D) are defined but not active: switch them on in the
-// Airspace Management window when they are active.
-// Structures "for flight planning purposes only" are not included.
-// The aerodrome R areas EPR12/14/20/41/43 have APW/SAP switched off (NOAPW/NOSAP).
-// EPR40B has a 4 NM upper lateral APW/SAP buffer (airway Z717 passes 4.7 NM outside it).
-// EPP1 has a 0.2 NM low-level IFR APW/SAP buffer (the EPRA RWY25 final passes about 0.3 NM from it).
-// Labels (name + limits) are drawn by TopSkyMaps.txt, folder EPWW MISC, map P-R-D LABELS.
 
 // CATEGORYDEF:Name:ActBorderColour/Width:ActFillColour:ActFillPattern:PreBorder:PreFillColour:PreFillPattern
 // Colours are Active_Map_Type_1..3 in TopSkySettings.txt
