@@ -8,6 +8,9 @@ Color_Redundant=236,155,90
 Color_Urgency=225,25,26
 
 // Other Colors
+Color_Active_Map_Type_1=250,110,110
+Color_Active_Map_Type_2=230,155,85
+Color_Active_Map_Type_3=215,195,100
 Color_Active_Map_Type_4=182,128,104
 Color_AIW_Intrusion=192,192,192
 Color_Arm=170,170,170

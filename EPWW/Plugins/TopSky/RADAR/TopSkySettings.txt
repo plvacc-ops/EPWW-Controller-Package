@@ -8,6 +8,9 @@ Color_Redundant=236,155,90
 Color_Urgency=225,25,26
 
 // Other Colors
+Color_Active_Map_Type_1=250,110,110
+Color_Active_Map_Type_2=230,155,85
+Color_Active_Map_Type_3=215,195,100
 Color_Active_Map_Type_4=182,128,104
 Color_AIW_Intrusion=192,192,192
 Color_Arm=170,170,170
@@ -86,7 +89,7 @@ Airspace_ASSR_AutoAssign_Type=2
 Airspace_C_Flag=EP
 Airspace_ModeS_Code_VFR=7000
 Airspace_ModeS_Code=1000
-Airspace_No_DUPE_Codes=7000,1000,1200,2000,0001,0002
+Airspace_No_DUPE_Codes=0001,0002,1000,1200,1234,2000,2200,7000,7500,7600,7700
 Airspace_NOTAM_Add=EPWW
 Airspace_P_Flag=EPBY,EPGD,EPKK,EPKT,EPLB,EPLL,EPMO,EPPO,EPRA,EPRZ,EPSC,EPSY,EPWA,EPWR,EPZG
 Airspace_RVSM_Max=41000
@@ -206,6 +209,12 @@ Vector_AHDG_Label_Time=1
 SafetyNets_Inhibit_SSR=0002
 
 Shortcut_RadarMenu_Combo=0x00
+Shortcut_Map_Xfr_Key=1,0x41
+Shortcut_Map_Xfr_Combo=1,0x12
+Shortcut_Map_Target=1,ACC SECTORS\ACC FL285-FL660
+Shortcut_Map_Xfr_Key=2,0x42
+Shortcut_Map_Xfr_Combo=2,0x12
+Shortcut_Map_Target=2,ACC SECTORS\ACC NEIGHBOURS
 System_TransferConfirmation=0
 
 //STCA
@@ -219,7 +228,11 @@ STCA_FastDiv_Sep_Vert_L=700
 STCA_FastDiv_Sep_Vert_U=700
 STCA_Filter=1
 STCA_Floor=2500
-STCA_Inhibit_ActiveAreas=1
+STCA_Inhibit_ActiveAreas=0
+APW_Buffer_Lat_L_IFR=1
+APW_Buffer_Vert_L_IFR=400
+SAP_Buffer_Lat_L_IFR=1
+SAP_Buffer_Vert_L_IFR=400
 STCA_LevelOff_Sep_Vert_L=700
 STCA_LevelOff_Sep_Vert_U=700
 STCA_LinPred_Sep_Vert_L=750
@@ -245,6 +258,7 @@ Track_PredictionLine_Max=0
 
 //Fonts
 Areas_Label_Font=EuroScope
+Areas_Altitude_Filtering=0
 FlightLeg_Font=EuroScope
 FlightLeg_FontSize=10
 Maps_Font=EuroScope
@@ -283,6 +297,7 @@ WXR_Longitude=19
 //Map loading
 
 Maps_URL=https://raw.githubusercontent.com/plvacc-ops/EPWW-Controller-Package/refs/heads/main/EPWW/Plugins/TopSky/RADAR/TopSkyMaps.txt
+Areas_URL=https://raw.githubusercontent.com/plvacc-ops/EPWW-Controller-Package/refs/heads/main/EPWW/Plugins/TopSky/RADAR/TopSkyAreas.txt
 
 [_OBS]
 Setup_LoadMap=MVA
