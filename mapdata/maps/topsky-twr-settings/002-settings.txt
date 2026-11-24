@@ -65,8 +65,6 @@ HTTP_GRIB_Longitude_Min=14
 HTTP_NOTAM_Server=https://cv.plvacc.pl/
 HTTP_NOTAM_Page_Prefix=notam/get-icao-format?icao=
 HTTP_NOTAM_Page_Suffix=&read=true
-Areas_NOTAM_Activation=0
-Maps_NOTAM_Activation=0
 
 //Label settings
 Label_AHDG_HideDctIfCOPX=0
