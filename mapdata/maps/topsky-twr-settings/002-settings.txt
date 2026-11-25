@@ -62,9 +62,18 @@ HTTP_GRIB_Latitude_Min=49
 HTTP_GRIB_Longitude_Max=25
 HTTP_GRIB_Longitude_Min=14
 
+HTTP_NOTAM_Source=0
 HTTP_NOTAM_Server=https://cv.plvacc.pl/
 HTTP_NOTAM_Page_Prefix=notam/get-icao-format?icao=
 HTTP_NOTAM_Page_Suffix=&read=true
+Areas_NOTAM_Activation=0
+Maps_NOTAM_Activation=0
+
+HTTP_Areas_Remote_URL=https://lara-backend.lusep.fi/topsky/epww.txt
+Areas_Remote_Activation=1
+Areas_PreActiveTime=900
+Window_ASM=3
+Areas_Label_Name=1,0
 
 //Label settings
 Label_AHDG_HideDctIfCOPX=0
@@ -178,7 +187,10 @@ Track_PredictionLine_Max=0
 
 //Fonts
 Areas_Label_Font=EuroScope
+Areas_Label_Name=1,0
 Areas_Altitude_Filtering=0
+Window_ASM_Chars_Name=8
+Window_SAP_Chars_Area=8
 FlightLeg_Font=EuroScope
 FlightLeg_FontSize=10
 Maps_Font=EuroScope

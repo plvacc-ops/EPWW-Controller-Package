@@ -149,6 +149,12 @@ HTTP_NOTAM_Server=https://cv.plvacc.pl/
 HTTP_NOTAM_Page_Prefix=notam/get-icao-format?icao=
 HTTP_NOTAM_Page_Suffix=&read=true
 
+HTTP_Areas_Remote_URL=https://lara-backend.lusep.fi/topsky/epww.txt
+Areas_Remote_Activation=1
+Areas_PreActiveTime=900
+Window_ASM=3
+Areas_Label_Name=1,0
+
 //Label settings
 Label_AHDG_HideDctIfCOPX=0
 Label_AHDG_ShowExtra=1
