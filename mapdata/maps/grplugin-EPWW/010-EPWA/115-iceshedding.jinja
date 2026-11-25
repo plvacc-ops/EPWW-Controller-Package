@@ -1,0 +1,13 @@
+MAP:Buildings
+AIRPORT:EPWA,EPWW
+FOLDER:Airport Layout
+ACTIVE:0
+COLOR:deice
+
+{% for name, geom in data.epwa_kml['IceS'].items() %}
+    {{- geom | to_poly(name, 'deice') }}
+{% endfor %}
+
+{% for name, geom in data.epwa_kml['IceSLabels'].items() %}
+    {{- geom | to_text(name) }}
+{% endfor %}
