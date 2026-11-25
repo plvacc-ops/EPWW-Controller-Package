@@ -1,9 +1,0 @@
-MAP:LVP
-AIRPORT:EPWA
-FOLDER:Airport Layout
-COLOR:lvp
-ACTIVE:LVP:EPWA:1
-
-{% for name, geom in data.epwa_kml['LVP'].items() %}
-    {{- geom | to_poly(name, 'lvp') }}
-{% endfor %}
