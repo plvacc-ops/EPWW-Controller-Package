@@ -9,6 +9,7 @@
 [![P21](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplvacc-ops%2FEPWW-Controller-Package%2Frefs%2Fheads%2Fmain%2F.github%2Fbadges%2FP21.json)]()
 [![TopSky](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplvacc-ops%2FEPWW-Controller-Package%2Frefs%2Fheads%2Fmain%2F.github%2Fbadges%2FTopSky.json)](https://forum.vatsim-scandinavia.org/t/plugins)
 [![VCH](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplvacc-ops%2FEPWW-Controller-Package%2Frefs%2Fheads%2Fmain%2F.github%2Fbadges%2FVCH.json)](https://github.com/DrFreas/VCH/releases)
+[![XPGuard](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fplvacc-ops%2FEPWW-Controller-Package%2Frefs%2Fheads%2Fmain%2F.github%2Fbadges%2FXPGuard.json)](https://xpguard.net/)
 
 # Welcome
 
@@ -31,4 +32,6 @@ P21 - thanks to Matt Zymla and HSO
 [TopSky Plugin](https://forum.vatsim-scandinavia.org/t/topsky) - thanks to Juha Holopainen
 
 [Virtual Controller Helper Plugin](https://github.com/DrFreas/VCH) - thanks to [@DrFreas](https://github.com/DrFreas)
+
+[XP Guard](https://xpguard.net/)
 

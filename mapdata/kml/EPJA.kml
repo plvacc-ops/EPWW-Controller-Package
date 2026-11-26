@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ex="http://earth.google.com/kml/ext">
+<Document id="1kXDDA2Y6CBoWfaVCmkUc3VgroQuL8zqD">
+	<ex:extension>base64;Co4BCoEBCn8KAggBEnkKdwokCiAKAwjQDxoHCNLtZRD_ASEAAAAAAADwPykAAAAAAAAAABgAEg8KCAitgO8HEP8BEKAfGAAaGgoHCP___wcQQBIICK2A7wcQ_wEYoB8gACgAIgkIARIFCP___wcqFwgBEggI____BxD_ARkAAAAAAADwPyAAEgQIARAAGgIIAA</ex:extension>
+	<name>EPJA</name>
+	<gx:CascadingStyle kml:id="__managed_style_05067AF642430010A716_highlight">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_05067AF642430010A716_normal">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05067AF642430010A716">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_05067AF642430010A716_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_05067AF642430010A716_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="0387F9AB4C43009E1FB3">
+		<ex:extension>base64;GgA</ex:extension>
+		<name>EPJA</name>
+		<styleUrl>#__managed_style_05067AF642430010A716</styleUrl>
+		<Folder id="13B4E5BCF143009E1FB3">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>Base</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_05067AF642430010A716</styleUrl>
+			<Placemark id="21105AD2CC43009E1FB3">
+				<name>Base</name>
+				<styleUrl>#__managed_style_05067AF642430010A716</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.64649916666666,54.70918222222222,0 18.64709972222222,54.70901027777778,0 18.64724527777778,54.70906972222222,0 18.64760888888889,54.7091913888889,0 18.64786833333333,54.70925333333334,0 18.64848527777778,54.70911777777778,0 18.64889138888889,54.70917944444444,0 18.64955527777778,54.70930444444445,0 18.64842055555555,54.70980888888889,0 18.64629083333333,54.71055027777778,0 18.64220638888889,54.71202027777778,0 18.64164194444444,54.7120388888889,0 18.64059722222222,54.71239638888889,0 18.63950111111111,54.71273527777778,0 18.63809222222222,54.71319972222222,0 18.637845,54.71292111111111,0 18.63841888888889,54.71253555555556,0 18.63858333333333,54.71238750000001,0 18.63901805555556,54.71218,0 18.6399575,54.71179944444444,0 18.64532055555555,54.70990361111112,0 18.64529416666667,54.70973944444444,0 18.64591,54.70953611111111,0 18.64625027777778,54.70961888888889,0 18.6465275,54.70948833333334,0 18.64649916666666,54.70918222222222,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="3268DEBF8543009E1FB3">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>RWY Grass</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_05067AF642430010A716</styleUrl>
+			<Placemark id="4AAF29E89F43009E1FB3">
+				<name>RWY 12/30</name>
+				<styleUrl>#__managed_style_05067AF642430010A716</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.63963472222222,54.71219555555557,0 18.64765666666667,54.70939138888888,0 18.64792055555555,54.70964611111111,0 18.63989527777778,54.71244611111111,0 18.63963472222222,54.71219555555557,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="5AA6B39BB943009E1FB3">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>APN Grass</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_05067AF642430010A716</styleUrl>
+			<Placemark id="64BB0CB51F43009E1FB3">
+				<name>APN 1</name>
+				<styleUrl>#__managed_style_05067AF642430010A716</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								18.64657222222222,54.71045222222222,0 18.6463575,54.71026416666666,0 18.64790527777778,54.70972777777778,0 18.64821166666666,54.70957027777778,0 18.64880861111111,54.70924333333333,0 18.64920055555556,54.70944666666667,0 18.64853555555555,54.70975416666667,0 18.64779472222222,54.71002027777778,0 18.647215,54.71021666666667,0 18.64657222222222,54.71045222222222,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="7A104E75B943009E1FB3">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>TaxiwayLabels</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_05067AF642430010A716</styleUrl>
+			<Placemark id="87C00C3AF343009E1FB3">
+				<name>30</name>
+				<styleUrl>#__managed_style_05067AF642430010A716</styleUrl>
+				<Point>
+					<coordinates>18.647775,54.70950833333335,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="9C95B4AB4F43009E1FB3">
+				<name>12</name>
+				<styleUrl>#__managed_style_05067AF642430010A716</styleUrl>
+				<Point>
+					<coordinates>18.63976666666667,54.7123138888889,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

@@ -1,5 +1,20 @@
 [data]
 
+[data.epba_kml]
+type = "kml"
+source = "kml/EPBA.kml"
+root = "EPBA"
+
+[data.epbc_kml]
+type = "kml"
+source = "kml/EPBC.kml"
+root = "EPBC"
+
+[data.epbk_kml]
+type = "kml"
+source = "kml/EPBK.kml"
+root = "EPBK"
+
 [data.epby_kml]
 type = "kml"
 source = "kml/EPBY.kml"
@@ -15,15 +30,55 @@ type = "kml"
 source = "kml/EPGD.kml"
 root = "EPGD"
 
+[data.epgl_kml]
+type = "kml"
+source = "kml/EPGL.kml"
+root = "EPGL"
+
+[data.epgy_kml]
+type = "kml"
+source = "kml/EPGY.kml"
+root = "EPGY"
+
 [data.epin_kml]
 type = "kml"
 source = "kml/EPIN.kml"
 root = "EPIN"
 
+[data.epja_kml]
+type = "kml"
+source = "kml/EPJA.kml"
+root = "EPJA"
+
+[data.epka_kml]
+type = "kml"
+source = "kml/EPKA.kml"
+root = "EPKA"
+
+[data.epki_kml]
+type = "kml"
+source = "kml/EPKI.kml"
+root = "EPKI"
+
 [data.epkk_kml]
 type = "kml"
 source = "kml/EPKK.kml"
 root = "EPKK"
+
+[data.epkm_kml]
+type = "kml"
+source = "kml/EPKM.kml"
+root = "EPKM"
+
+[data.epkp_kml]
+type = "kml"
+source = "kml/EPKP.kml"
+root = "EPKP"
+
+[data.epkr_kml]
+type = "kml"
+source = "kml/EPKR.kml"
+root = "EPKR"
 
 [data.epkt_kml]
 type = "kml"
@@ -40,10 +95,20 @@ type = "kml"
 source = "kml/EPLL.kml"
 root = "EPLL"
 
+[data.eplr_kml]
+type = "kml"
+source = "kml/EPLR.kml"
+root = "EPLR"
+
 [data.epls_kml]
 type = "kml"
 source = "kml/EPLS.kml"
 root = "EPLS"
+
+[data.epml_kml]
+type = "kml"
+source = "kml/EPML.kml"
+root = "EPML"
 
 [data.epmo_kml]
 type = "kml"
@@ -59,6 +124,16 @@ root = "EPNC"
 type = "kml"
 source = "kml/EPNL.kml"
 root = "EPNL"
+
+[data.epnt_kml]
+type = "kml"
+source = "kml/EPNT.kml"
+root = "EPNT"
+
+[data.epod_kml]
+type = "kml"
+source = "kml/EPOD.kml"
+root = "EPOD"
 
 [data.eppg_kml]
 type = "kml"
@@ -84,6 +159,11 @@ root = "EPPO"
 type = "kml"
 source = "kml/EPPT.kml"
 root = "EPPT"
+
+[data.eppz_kml]
+type = "kml"
+source = "kml/EPPZ.kml"
+root = "EPPZ"
 
 [data.epra_kml]
 type = "kml"
@@ -134,6 +214,16 @@ root = "EPWS"
 type = "kml"
 source = "kml/EPZG.kml"
 root = "EPZG"
+
+[data.epzp_kml]
+type = "kml"
+source = "kml/EPZP.kml"
+root = "EPZP"
+
+[data.epzr_kml]
+type = "kml"
+source = "kml/EPZR.kml"
+root = "EPZR"
 
 [data.notams_kml]
 type = "kml"

@@ -12,6 +12,8 @@ Color_Active_Map_Type_1=250,110,110
 Color_Active_Map_Type_2=230,155,85
 Color_Active_Map_Type_3=215,195,100
 Color_Active_Map_Type_4=182,128,104
+Color_Active_Map_Type_5=240,175,50
+Color_Active_Map_Type_6=240,175,50
 Color_AIW_Intrusion=192,192,192
 Color_Arm=170,170,170
 Color_Background=100,100,100
@@ -89,7 +91,7 @@ Airspace_ASSR_AutoAssign_Type=2
 Airspace_C_Flag=EP
 Airspace_ModeS_Code_VFR=7000
 Airspace_ModeS_Code=1000
-Airspace_No_DUPE_Codes=7000,1000,1200,2000,0001,0002
+Airspace_No_DUPE_Codes=0001,0002,1000,1200,1234,2000,2200,7000,7500,7600,7700
 Airspace_NOTAM_Add=EPWW
 Airspace_P_Flag=EPBY,EPGD,EPKK,EPKT,EPLB,EPLL,EPMO,EPPO,EPRA,EPRZ,EPSC,EPSY,EPWA,EPWR,EPZG
 Airspace_RVSM_Max=41000
@@ -142,9 +144,18 @@ HTTP_GRIB_Latitude_Min=49
 HTTP_GRIB_Longitude_Max=25
 HTTP_GRIB_Longitude_Min=14
 
+HTTP_NOTAM_Source=0
 HTTP_NOTAM_Server=https://cv.plvacc.pl/
 HTTP_NOTAM_Page_Prefix=notam/get-icao-format?icao=
 HTTP_NOTAM_Page_Suffix=&read=true
+Areas_NOTAM_Activation=0
+Maps_NOTAM_Activation=0
+
+HTTP_Areas_Remote_URL=https://lara-backend.lusep.fi/topsky/epww.txt
+Areas_Remote_Activation=1
+Areas_PreActiveTime=900
+Window_ASM=3
+Areas_Label_Name=1,0
 
 //Label settings
 Label_AHDG_HideDctIfCOPX=0
@@ -258,7 +269,10 @@ Track_PredictionLine_Max=0
 
 //Fonts
 Areas_Label_Font=EuroScope
+Areas_Label_Name=1,0
 Areas_Altitude_Filtering=0
+Window_ASM_Chars_Name=8
+Window_SAP_Chars_Area=8
 FlightLeg_Font=EuroScope
 FlightLeg_FontSize=10
 Maps_Font=EuroScope

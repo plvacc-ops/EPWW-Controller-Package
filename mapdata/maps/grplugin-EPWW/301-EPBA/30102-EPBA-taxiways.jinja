@@ -1,0 +1,8 @@
+MAP:Taxiways
+AIRPORT:EPBA,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
+
+{% for name, geom in data.epba_kml['TWY Grass'].items() %}
+    {{- geom | to_poly(name, 'taxiway-grass') }}
+{% endfor %}

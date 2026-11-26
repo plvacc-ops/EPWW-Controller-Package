@@ -1,0 +1,7 @@
+MAP:Base
+AIRPORT:EPJA,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
+{% for name, geom in data.epja_kml['Base'].items() %}
+    {{- geom | to_poly(name, 'base') }}
+{% endfor %}
