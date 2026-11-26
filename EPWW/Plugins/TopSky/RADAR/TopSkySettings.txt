@@ -269,6 +269,10 @@ Track_PredictionLine_Max=0
 
 //Fonts
 Areas_Label_Font=EuroScope
+Areas_Label_Name=1,0
+Areas_Altitude_Filtering=0
+Window_ASM_Chars_Name=8
+Window_SAP_Chars_Area=8
 FlightLeg_Font=EuroScope
 FlightLeg_FontSize=10
 Maps_Font=EuroScope
