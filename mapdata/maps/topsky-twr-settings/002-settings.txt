@@ -72,7 +72,6 @@ Maps_NOTAM_Activation=0
 HTTP_Areas_Remote_URL=https://lara-backend.lusep.fi/topsky/epww.txt
 Areas_Remote_Activation=1
 Areas_PreActiveTime=900
-Window_ASM=3
 Areas_Label_Name=1,0
 
 //Label settings
